@@ -1808,23 +1808,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -1838,23 +1838,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 8
             }
         ]
@@ -1868,23 +1868,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -1898,19 +1898,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -1924,19 +1924,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -1950,19 +1950,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -1976,23 +1976,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2006,23 +2006,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2036,23 +2036,23 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2066,15 +2066,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -2088,15 +2088,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2110,15 +2110,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2132,15 +2132,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2154,15 +2154,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 8
             }
         ]
@@ -2176,15 +2176,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2198,15 +2198,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -2220,15 +2220,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2242,15 +2242,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2264,15 +2264,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishDPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2286,15 +2286,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishDPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 8
             }
         ]
@@ -2308,15 +2308,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishDPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2330,15 +2330,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishGPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2352,15 +2352,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishGPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2374,15 +2374,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishGPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2396,15 +2396,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishFPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2418,15 +2418,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishFPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 8
             }
         ]
@@ -2440,15 +2440,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishFPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 5
             }
         ]
@@ -2462,15 +2462,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishEPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -2484,15 +2484,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishEPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2506,15 +2506,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosInfestedFishEPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DeimosGenericInfestedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2537,15 +2537,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -2559,15 +2559,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 10
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2581,15 +2581,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2603,15 +2603,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 2
             }
         ]
@@ -2625,15 +2625,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 6
             }
         ]
@@ -2647,15 +2647,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2669,15 +2669,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 3
             }
         ]
@@ -2691,15 +2691,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 8
             }
         ]
@@ -2713,15 +2713,15 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/DeimosOrokinFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DeimosGenericOrokinFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DeimosGenericSharedFishPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
                 "ItemCount": 4
             }
         ]
@@ -2908,19 +2908,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/BothCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -2934,19 +2934,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/BothCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -2960,19 +2960,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/BothCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -2986,19 +2986,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/BothCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3012,19 +3012,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/BothCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3038,19 +3038,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/BothCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3064,19 +3064,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/BothRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3090,19 +3090,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 9
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/BothRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3116,19 +3116,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/BothRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3142,19 +3142,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/BothUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3168,19 +3168,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/BothUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3194,19 +3194,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/BothUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3220,19 +3220,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/BothUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3246,19 +3246,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/BothUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3272,19 +3272,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/BothUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3298,19 +3298,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DayCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3324,19 +3324,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DayCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3350,19 +3350,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DayCommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3376,19 +3376,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DayCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3402,19 +3402,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DayCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3428,19 +3428,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DayCommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3454,19 +3454,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DayCommonFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishCPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3480,19 +3480,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DayCommonFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishCPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3506,19 +3506,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DayCommonFishCPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishCPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3532,19 +3532,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/DayUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3558,19 +3558,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 9
             },
             {
-                "ItemType": "FishParts/DayUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3584,19 +3584,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/DayUncommonFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3610,19 +3610,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/DayUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3636,19 +3636,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/DayUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3662,19 +3662,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/DayUncommonFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3705,19 +3705,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/NightLegendaryFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3731,19 +3731,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 9
             },
             {
-                "ItemType": "FishParts/NightLegendaryFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3757,19 +3757,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/NightLegendaryFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3783,19 +3783,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/NightRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3809,19 +3809,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 10
             },
             {
-                "ItemType": "FishParts/NightRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3835,19 +3835,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/NightRareFishAPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3861,19 +3861,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/NightRareFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3887,19 +3887,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 11
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/NightRareFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -3913,19 +3913,19 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/EidolonFishMeatItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/EidolonFishOilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/EidolonFishScalesItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/NightRareFishBPartItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
                 "ItemCount": 1
             }
         ]
@@ -4060,11 +4060,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/CorpusFishParralelBiodeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
                 "ItemCount": 1
             }
         ]
@@ -4078,11 +4078,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/CorpusFishParralelBiodeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
                 "ItemCount": 1
             }
         ]
@@ -4096,11 +4096,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/CorpusFishParralelBiodeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
                 "ItemCount": 1
             }
         ]
@@ -4114,11 +4114,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishVenedoCaseItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
                 "ItemCount": 1
             }
         ]
@@ -4132,11 +4132,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/CorpusFishVenedoCaseItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
                 "ItemCount": 1
             }
         ]
@@ -4150,11 +4150,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/CorpusFishVenedoCaseItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
                 "ItemCount": 1
             }
         ]
@@ -4168,11 +4168,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishRotobladeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
                 "ItemCount": 1
             }
         ]
@@ -4186,11 +4186,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/CorpusFishRotobladeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
                 "ItemCount": 1
             }
         ]
@@ -4204,11 +4204,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/CorpusFishRotobladeItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
                 "ItemCount": 1
             }
         ]
@@ -4222,11 +4222,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/CorpusFishAnoscopicSensorItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
                 "ItemCount": 1
             }
         ]
@@ -4240,11 +4240,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/CorpusFishAnoscopicSensorItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
                 "ItemCount": 1
             }
         ]
@@ -4258,11 +4258,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishAnoscopicSensorItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
                 "ItemCount": 1
             }
         ]
@@ -4276,11 +4276,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/CorpusFishMuonBatteryItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
                 "ItemCount": 1
             }
         ]
@@ -4294,11 +4294,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/CorpusFishMuonBatteryItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
                 "ItemCount": 1
             }
         ]
@@ -4312,11 +4312,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishMuonBatteryItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
                 "ItemCount": 1
             }
         ]
@@ -4330,11 +4330,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/CorpusFishThermalLaserItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
                 "ItemCount": 1
             }
         ]
@@ -4348,11 +4348,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishThermalLaserItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
                 "ItemCount": 1
             }
         ]
@@ -4366,11 +4366,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/CorpusFishThermalLaserItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
                 "ItemCount": 1
             }
         ]
@@ -4384,11 +4384,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/OrokinFishEcosynthAnalyzerItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
                 "ItemCount": 1
             }
         ]
@@ -4402,11 +4402,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 8
             },
             {
-                "ItemType": "FishParts/OrokinFishEcosynthAnalyzerItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
                 "ItemCount": 1
             }
         ]
@@ -4420,11 +4420,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 6
             },
             {
-                "ItemType": "FishParts/OrokinFishEcosynthAnalyzerItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
                 "ItemCount": 1
             }
         ]
@@ -4438,11 +4438,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/OrokinFishSaganModuleItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
                 "ItemCount": 1
             }
         ]
@@ -4456,11 +4456,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/OrokinFishSaganModuleItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
                 "ItemCount": 1
             }
         ]
@@ -4474,11 +4474,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/OrokinFishSaganModuleItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
                 "ItemCount": 1
             }
         ]
@@ -4492,11 +4492,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/OrokinFishEntroplasmaItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
                 "ItemCount": 1
             }
         ]
@@ -4510,11 +4510,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/OrokinFishEntroplasmaItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
                 "ItemCount": 1
             }
         ]
@@ -4528,11 +4528,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/OrokinFishEntroplasmaItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
                 "ItemCount": 1
             }
         ]
@@ -4546,11 +4546,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/CorpusFishExaBrainItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem",
                 "ItemCount": 1
             }
         ]
@@ -4564,11 +4564,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/CorpusFishExaBrainItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem",
                 "ItemCount": 1
             }
         ]
@@ -4582,11 +4582,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/CorpusFishExaBrainItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem",
                 "ItemCount": 1
             }
         ]
@@ -4600,11 +4600,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 1
             },
             {
-                "ItemType": "FishParts/SolarisFishDissipatorCoilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
                 "ItemCount": 1
             }
         ]
@@ -4618,11 +4618,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/SolarisFishDissipatorCoilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
                 "ItemCount": 1
             }
         ]
@@ -4636,11 +4636,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/SolarisFishDissipatorCoilItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
                 "ItemCount": 1
             }
         ]
@@ -4654,11 +4654,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/SolarisFishNeuralRelayItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem",
                 "ItemCount": 1
             }
         ]
@@ -4672,11 +4672,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 7
             },
             {
-                "ItemType": "FishParts/SolarisFishNeuralRelayItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem",
                 "ItemCount": 1
             }
         ]
@@ -4690,11 +4690,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 5
             },
             {
-                "ItemType": "FishParts/SolarisFishNeuralRelayItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem",
                 "ItemCount": 1
             }
         ]
@@ -4708,11 +4708,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 2
             },
             {
-                "ItemType": "FishParts/SolarisFishLatheCoogulantItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
                 "ItemCount": 1
             }
         ]
@@ -4726,11 +4726,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 4
             },
             {
-                "ItemType": "FishParts/SolarisFishLatheCoogulantItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
                 "ItemCount": 1
             }
         ]
@@ -4744,11 +4744,11 @@
         "productCategory": "MiscItems",
         "dissectionParts": [
             {
-                "ItemType": "FishParts/GenericFishScrapItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
                 "ItemCount": 3
             },
             {
-                "ItemType": "FishParts/SolarisFishLatheCoogulantItem",
+                "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
                 "ItemCount": 1
             }
         ]
