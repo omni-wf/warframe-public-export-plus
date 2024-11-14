@@ -3605,7 +3605,7 @@
                 "probability": 0.0625
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0625
             },
@@ -3625,12 +3625,12 @@
                 "probability": 0.0375
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0188
             },
@@ -3660,7 +3660,7 @@
                 "probability": 0.005
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.005
             }
@@ -3684,7 +3684,7 @@
                 "probability": 0.0625
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0625
             },
@@ -3734,7 +3734,7 @@
                 "probability": 0.005
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.005
             }
@@ -3808,7 +3808,7 @@
                 "probability": 0.005
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.005
             }
@@ -3837,7 +3837,7 @@
                 "probability": 0.0313
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0313
             },
@@ -3862,7 +3862,7 @@
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0094
             },
@@ -3897,7 +3897,7 @@
                 "probability": 0.005
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.005
             }
@@ -3926,7 +3926,7 @@
                 "probability": 0.0313
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0313
             },
@@ -4035,7 +4035,7 @@
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0188
             },
@@ -4094,7 +4094,7 @@
                 "probability": 0.0313
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionGaussPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0313
             },
@@ -4119,12 +4119,12 @@
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0094
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0094
             },
@@ -4178,7 +4178,7 @@
                 "probability": 0.0313
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionGaussPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0313
             },
@@ -4203,7 +4203,7 @@
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0188
             },
@@ -4282,7 +4282,7 @@
                 "probability": 0.0188
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0188
             },
@@ -4307,7 +4307,7 @@
                 "probability": 0.015
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.015
             }
@@ -5471,7 +5471,7 @@
                 "probability": 0.0485
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.1845
             }
@@ -5518,7 +5518,7 @@
                 "probability": 0.0357
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.1357
             },
@@ -5565,7 +5565,7 @@
                 "probability": 0.0472
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.1792
             },
@@ -5646,7 +5646,7 @@
                 "probability": 0.0485
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.1845
             }
@@ -5693,7 +5693,7 @@
                 "probability": 0.0357
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.1357
             },
@@ -5740,7 +5740,7 @@
                 "probability": 0.0472
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.1792
             },
@@ -6254,12 +6254,12 @@
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
@@ -6269,12 +6269,12 @@
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
@@ -6284,12 +6284,12 @@
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0114
             },
@@ -6326,12 +6326,12 @@
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
@@ -6341,12 +6341,12 @@
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
@@ -6356,12 +6356,12 @@
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
@@ -6386,22 +6386,22 @@
                 "probability": 0.1404
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
@@ -6416,7 +6416,7 @@
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0058
             },
@@ -6436,7 +6436,7 @@
                 "probability": 0.0058
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0058
             }
@@ -6468,12 +6468,12 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6483,12 +6483,12 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6498,12 +6498,12 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6528,22 +6528,22 @@
                 "probability": 0.1013
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6558,7 +6558,7 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6578,7 +6578,7 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6603,37 +6603,37 @@
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0042
             },
@@ -6660,22 +6660,22 @@
                 "probability": 0.1611
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
@@ -6690,7 +6690,7 @@
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
@@ -6710,7 +6710,7 @@
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
@@ -6735,37 +6735,37 @@
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionProteaPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
             {
-                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
                 "probability": 0.0067
             },
