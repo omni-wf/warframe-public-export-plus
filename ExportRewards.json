@@ -41930,6 +41930,550 @@
             }
         ]
     ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAA": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/XakuPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BratonPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ShadePrimeSystems",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LexPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/LarkspurPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAB": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GaussPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/FangPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/GunsenPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAC": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GunsenPrimeBlade",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GrendelPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/WispPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BratonPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MasseterPrimeHandle",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAD": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/MasseterPrimeBlade",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HildrynPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 2,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ShadePrimeCerebrum",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimePolearmHandle",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GaussPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAE": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GrendelPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/QuassusPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 2,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeStock",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAF": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AkbroncoPrimeLink",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/MasseterPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/XakuPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowString",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAG": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GaussPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/OkinaPrimeBlade",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/WispPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAH": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VeloxPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeBowUpperLimb",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/FulminPrimeStock",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ProteaPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/AcceltraPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAI": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BurstonPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/VeloxPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAJ": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HildrynPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/PolearmPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GrendelPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LexPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAK": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GaussPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/XakuPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/OkinaPrimeHandle",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/FulminPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BroncoPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAL": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/WispPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BurstonPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 2,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/TrumnaPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/AkbroncoPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAM": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GunsenPrimeHandle",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ProteaPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/LexPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HildrynPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAN": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/HildrynPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/SentinelRecipes/ShadePrimeSentinelBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/FulminPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ZylokPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AkariusPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAO": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 2,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/ZylokPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/PrimeFangBlade",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/SevagothPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAP": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeStock",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/XakuPrimeSystemsBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/BowPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
     "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ZephyrPAA": [
         [
             {

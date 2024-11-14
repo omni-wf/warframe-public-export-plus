@@ -24141,6 +24141,118 @@
             }
         ]
     },
+    "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeBlueprint": {
+        "resultType": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 100,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+                "ItemCount": 5
+            }
+        ]
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisBlueprint": {
+        "resultType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 45,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Alertium",
+                "ItemCount": 2
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Tellurium",
+                "ItemCount": 2
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                "ItemCount": 3600
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+                "ItemCount": 300
+            }
+        ]
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetBlueprint": {
+        "resultType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 15,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                "ItemCount": 3
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+                "ItemCount": 250
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Plastids",
+                "ItemCount": 350
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                "ItemCount": 4250
+            }
+        ]
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsBlueprint": {
+        "resultType": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 45,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+                "ItemCount": 2
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
+                "ItemCount": 3
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Cryotic",
+                "ItemCount": 550
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/Nanospores",
+                "ItemCount": 3175
+            }
+        ]
+    },
     "/Lotus/Types/Recipes/WarframeRecipes/YareliBlueprint": {
         "resultType": "/Lotus/Powersuits/Yareli/Yareli",
         "buildPrice": 25000,
@@ -28706,6 +28818,17 @@
             }
         ]
     },
+    "/Lotus/Types/Recipes/Weapons/BratonBlueprint": {
+        "resultType": "/Lotus/Weapons/Tenno/Rifle/Rifle",
+        "buildPrice": 25000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 0,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "ingredients": []
+    },
     "/Lotus/Types/Recipes/Weapons/BratonPrimeBlueprint": {
         "resultType": "/Lotus/Weapons/Tenno/Rifle/BratonPrime",
         "buildPrice": 15000,
@@ -33055,6 +33178,17 @@
             }
         ]
     },
+    "/Lotus/Types/Recipes/Weapons/LatoBlueprint": {
+        "resultType": "/Lotus/Weapons/Tenno/Pistol/Pistol",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 0,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "ingredients": []
+    },
     "/Lotus/Types/Recipes/Weapons/LatoVandalBlueprint": {
         "resultType": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
         "buildPrice": 25000,
@@ -34324,6 +34458,26 @@
             {
                 "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo",
                 "ItemCount": 1000
+            }
+        ]
+    },
+    "/Lotus/Types/Recipes/Weapons/QuassusPrimeBlueprint": {
+        "resultType": "/Lotus/Weapons/Tenno/Melee/Warfan/PrimeQuassus/PrimeQuassusWeapon",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 45,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+                "ItemCount": 2
+            },
+            {
+                "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+                "ItemCount": 2
             }
         ]
     },
@@ -37049,6 +37203,34 @@
             {
                 "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
                 "ItemCount": 2
+            }
+        ]
+    },
+    "/Lotus/Types/Recipes/Weapons/TrumnaPrimeBlueprint": {
+        "resultType": "/Lotus/Weapons/Tenno/LongGuns/PrimeTrumna/PrimeTrumnaWeapon",
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "consumeOnUse": true,
+        "num": 1,
+        "codexSecret": false,
+        "primeSellingPrice": 15,
+        "ingredients": [
+            {
+                "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+                "ItemCount": 1
+            },
+            {
+                "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+                "ItemCount": 10
             }
         ]
     },

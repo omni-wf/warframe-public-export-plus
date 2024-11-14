@@ -4071,6 +4071,20 @@
         "description": "/Lotus/Language/SteamWorkshop/SWXakuDeatheaSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Tennogen/Suit/Xaku/SWXakuDeatheaSkin.png"
     },
+    "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways": {
+        "name": "/Lotus/Language/ItemDescription/XakuBrokenAlwaysName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/ItemDescription/XakuBrokenAlwaysDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/XakuBrokenAlways.png"
+    },
+    "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever": {
+        "name": "/Lotus/Language/ItemDescription/XakuBrokenNeverName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/ItemDescription/XakuBrokenNeverDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/XakuBrokenNever.png"
+    },
     "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet": {
         "name": "/Lotus/Language/Skins/XakuDeluxeHelmetName",
         "codexSecret": false,
@@ -4082,6 +4096,19 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Skins/XakuDeluxeSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Skins/Xaku/XakuDeluxeSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet": {
+        "name": "/Lotus/Language/Primes/XakuPrimeHelmetName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/XakuPrimeHelmetDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/XakuPrimeHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin": {
+        "name": "/Lotus/Language/Primes/XakuPrimeDefaultSkinName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Primes/XakuPrimeDefaultSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/XakuPrime.png"
     },
     "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo": {
         "name": "/Lotus/Language/Items/GrineerCamoTwinVipersName",
@@ -13400,6 +13427,12 @@
         "description": "/Lotus/Language/Primes/DrifterPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultPrimeD.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE": {
+        "name": "/Lotus/Language/Primes/DrifterBodySuitPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultPrimeE.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic": {
         "name": "/Lotus/Language/Operator/BodyOperatorDrifterArabicName",
         "codexSecret": false,
@@ -13516,6 +13549,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Primes/OperatorPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitPrimeD.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE": {
+        "name": "/Lotus/Language/Primes/OperatorBodySuitPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitPrimeE.png"
     },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe": {
         "name": "/Lotus/Language/Operator/BodysuitZephyrDeluxeName",
@@ -14359,6 +14398,18 @@
         "description": "/Lotus/Language/Primes/DrifterPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultPrimeD.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE": {
+        "name": "/Lotus/Language/Primes/DrifterHoodPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultPrimeE.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina": {
+        "name": "/Lotus/Language/Primes/DrifterHoodPrimeEChinaName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultPrimeEChina.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic": {
         "name": "/Lotus/Language/Operator/HoodOperatorArabicName",
         "codexSecret": false,
@@ -14493,6 +14544,18 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Primes/OperatorPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodPrimeD.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE": {
+        "name": "/Lotus/Language/Primes/OperatorHoodPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodPrimeE.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina": {
+        "name": "/Lotus/Language/Primes/OperatorHoodPrimeEChinaName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodPrimeEChina.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe": {
         "name": "/Lotus/Language/Operator/HoodZephyrDeluxeName",
@@ -14679,6 +14742,12 @@
         "description": "/Lotus/Language/Primes/DrifterPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultPrimeD.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE": {
+        "name": "/Lotus/Language/Primes/DrifterLeggingsPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultPrimeE.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic": {
         "name": "/Lotus/Language/Operator/LeggingsOperatorArabicName",
         "codexSecret": false,
@@ -14795,6 +14864,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Primes/OperatorPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsPrimeD.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE": {
+        "name": "/Lotus/Language/Primes/OperatorLeggingsPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsPrimeE.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe": {
         "name": "/Lotus/Language/Operator/LeggingsZephyrDeluxeName",
@@ -15111,6 +15186,12 @@
         "description": "/Lotus/Language/Primes/DrifterPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultPrimeD.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE": {
+        "name": "/Lotus/Language/Primes/DrifterSleevesPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultPrimeE.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic": {
         "name": "/Lotus/Language/Operator/SleevesOperatorArabicName",
         "codexSecret": false,
@@ -15227,6 +15308,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Primes/OperatorPrimeDDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesPrimeD.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE": {
+        "name": "/Lotus/Language/Primes/OperatorSleevesPrimeEName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/SuitPrimeEDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesPrimeE.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe": {
         "name": "/Lotus/Language/Operator/SleevesZephyrDeluxeName",
@@ -18487,6 +18574,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Primes/AltraPrimeScarfDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Syandanas/AltraPrime.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana": {
+        "name": "/Lotus/Language/Primes/PrimeArtifexSyandanaName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Primes/PrimeArtifexSyandanaDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Syandanas/ArtifexPrime.png"
     },
     "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana": {
         "name": "/Lotus/Language/Primes/PrimeAviaSyandanaName",

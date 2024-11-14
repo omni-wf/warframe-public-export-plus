@@ -3396,7 +3396,7 @@
                 "name": "/Lotus/Language/Suits/GyreSphereAbilityName",
                 "description": "/Lotus/Language/Suits/GyreSphereAbilityDescription",
                 "icon": "/Lotus/Interface/Icons/Abilities/GyreSphere.png",
-                "energyRequiredToActivate": 0
+                "energyRequiredToActivate": 50
             },
             {
                 "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/GyreEnergizedAbility",
@@ -4516,6 +4516,52 @@
                 "icon": "/Lotus/Interface/Icons/Abilities/ChoirEruption.png",
                 "energyRequiredToActivate": 25,
                 "energyConsumptionOverTime": 5
+            }
+        ],
+        "productCategory": "Suits"
+    },
+    "/Lotus/Powersuits/BrokenFrame/XakuPrime": {
+        "name": "/Lotus/Language/Primes/XakuPrimeSuitName",
+        "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+        "description": "/Lotus/Language/Primes/XakuPrimeSuitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/XakuPrime.png",
+        "health": 269,
+        "shield": 263,
+        "armor": 167,
+        "stamina": 3,
+        "power": 181,
+        "codexSecret": false,
+        "masteryReq": 0,
+        "sprintSpeed": 1.07,
+        "passiveDescription": "/Lotus/Language/Suits/BrokenFramePassiveAbilityDesc",
+        "abilities": [
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                "name": "/Lotus/Language/Suits/BrokenRotAbilityName",
+                "description": "/Lotus/Language/Suits/BrokenRotAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/BrokenFrameVoidRot.png",
+                "energyRequiredToActivate": 25
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                "name": "/Lotus/Language/Suits/BrokenGraspAbilityName",
+                "description": "/Lotus/Language/Suits/BrokenGraspAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/BrokenFrameTendrilGrasp.png",
+                "energyRequiredToActivate": 50
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                "name": "/Lotus/Language/Suits/BrokenEmbraceAbilityName",
+                "description": "/Lotus/Language/Suits/BrokenEmbraceAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/BrokenFrameEmbraceTheFallen.png",
+                "energyRequiredToActivate": 0
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                "name": "/Lotus/Language/Suits/BrokenDestructAbilityName",
+                "description": "/Lotus/Language/Suits/BrokenDestructAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/BrokenFrameSelfDestruct.png",
+                "energyRequiredToActivate": 100
             }
         ],
         "productCategory": "Suits"

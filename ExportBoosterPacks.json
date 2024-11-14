@@ -741,15 +741,15 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Pickups/VoidProjectionRandom.png",
         "components": [
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -757,7 +757,7 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -773,11 +773,11 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -793,19 +793,19 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -813,7 +813,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -825,7 +825,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -833,11 +833,11 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "Rarity": "RARE"
             },
             {
@@ -853,11 +853,11 @@
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeABronze",
                 "Rarity": "RARE"
             },
             {
@@ -2062,15 +2062,15 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Pickups/VoidProjectionRandom.png",
         "components": [
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2078,7 +2078,7 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2094,11 +2094,11 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2114,19 +2114,19 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2134,7 +2134,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2146,7 +2146,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2154,11 +2154,11 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "Rarity": "RARE"
             },
             {
@@ -2174,11 +2174,11 @@
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeABronze",
                 "Rarity": "RARE"
             },
             {
@@ -2225,15 +2225,15 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Pickups/VoidProjectionRandom.png",
         "components": [
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeFBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2241,7 +2241,7 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2257,11 +2257,11 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeBBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "Rarity": "COMMON"
             },
             {
@@ -2277,19 +2277,19 @@
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionProteaPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "Rarity": "COMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2297,7 +2297,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeEBronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2309,7 +2309,7 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "Rarity": "UNCOMMON"
             },
             {
@@ -2317,11 +2317,11 @@
                 "Rarity": "UNCOMMON"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeABronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze",
                 "Rarity": "RARE"
             },
             {
@@ -2337,11 +2337,11 @@
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeCBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze",
                 "Rarity": "RARE"
             },
             {
-                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeDBronze",
+                "Item": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeABronze",
                 "Rarity": "RARE"
             },
             {

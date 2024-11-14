@@ -6223,6 +6223,20 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright": {
+        "name": "/Lotus/Language/Primes/AvatarXakuPrimeBrightName",
+        "description": "/Lotus/Language/Primes/AvatarXakuPrimeBrightDesc",
+        "icon": "/Lotus/Interface/Icons/Player/XakuPrimeAvatarBright.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark": {
+        "name": "/Lotus/Language/Primes/AvatarXakuPrimeDarkName",
+        "description": "/Lotus/Language/Primes/AvatarXakuPrimeDarkDesc",
+        "icon": "/Lotus/Interface/Icons/Player/XakuPrimeAvatarDark.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI": {
         "name": "/Lotus/Language/Glyphs/ImageScarletSpearGroundIName",
         "description": "/Lotus/Language/Glyphs/ImageScarletSpearGroundIDesc",
@@ -7068,6 +7082,27 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/AmirAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/AmirAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/AoiAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/AoiAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/ArthurAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ArthurAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction": {
         "name": "/Lotus/Language/Items/AshActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -7149,6 +7184,13 @@
         "name": "/Lotus/Language/Glyphs/AvatarBaruukSilhouetteName",
         "description": "/Lotus/Language/Glyphs/AvatarBaruukDeluxeDesc",
         "icon": "/Lotus/Interface/Icons/Player/BaruukDeluxeGlyph512x512.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph": {
+        "name": "/Lotus/Language/Glyphs/BigBytesPizzaGlyphName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/BigBytesPizzaGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -7279,10 +7321,24 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire": {
+        "name": "/Lotus/Language/Glyphs/CommunityTennobaumGrimoireGlyphName",
+        "description": "/Lotus/Language/Glyphs/CommunityTennobaumGrimoireGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumGrimoireGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow": {
         "name": "/Lotus/Language/Glyphs/CommunityTennobaumKubrowGlyphName",
         "description": "/Lotus/Language/Glyphs/CommunityTennobaumKubrowGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumKubrowGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic": {
+        "name": "/Lotus/Language/Glyphs/CommunityTennobaumRelicGlyphName",
+        "description": "/Lotus/Language/Glyphs/CommunityTennobaumRelicGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumRelicGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -7497,6 +7553,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
         "excludeFromCodex": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/EleanorAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/EleanorAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction": {
         "name": "/Lotus/Language/Items/EmberActionGlyphName",
@@ -8319,6 +8382,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": false
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/LettieAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/LettieAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction": {
         "name": "/Lotus/Language/Items/LokiActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -8574,6 +8644,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph": {
+        "name": "/Lotus/Language/Glyphs/PartyCDGlyphName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/PartyCDGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity": {
         "name": "/Lotus/Language/Glyphs/PrideCommunityGlyphName",
         "description": "/Lotus/Language/Glyphs/PrideCommunityGlyphDesc",
@@ -8595,6 +8672,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
         "excludeFromCodex": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/QuincyAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
+        "icon": "/Lotus/Interface/Icons/Player/QuincyAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction": {
         "name": "/Lotus/Language/Glyphs/RevenantActionGlyphName",
@@ -9159,6 +9243,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": false,
         "excludeFromCodex": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug": {
+        "name": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphName",
+        "description": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph": {
         "name": "/Lotus/Language/Glyphs/DeimosRevolverGlyphName",

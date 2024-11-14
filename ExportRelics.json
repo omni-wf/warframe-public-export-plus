@@ -287,6 +287,150 @@
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagRhinoVaultD"
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDSilver": {
+        "category": "A19",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDGold": {
+        "category": "A19",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDPlatinum": {
+        "category": "A19",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeDBronze": {
+        "category": "A19",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCSilver": {
+        "category": "G14",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAO"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCGold": {
+        "category": "G14",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAO"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCPlatinum": {
+        "category": "G14",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAO"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeCBronze": {
+        "category": "G14",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAO"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBSilver": {
+        "category": "H8",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAN"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBGold": {
+        "category": "H8",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAN"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBPlatinum": {
+        "category": "H8",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAN"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeBBronze": {
+        "category": "H8",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAN"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeASilver": {
+        "category": "T12",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAM"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeAGold": {
+        "category": "T12",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAM"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeAPlatinum": {
+        "category": "T12",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAM"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeABronze": {
+        "category": "T12",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAM"
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionXSilver": {
         "category": "B2",
         "era": "Axi",
@@ -6083,6 +6227,150 @@
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagRhinoVaultC"
     },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDSilver": {
+        "category": "W2",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAL"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDGold": {
+        "category": "W2",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAL"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDPlatinum": {
+        "category": "W2",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAL"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze": {
+        "category": "W2",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAL"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCSilver": {
+        "category": "G8",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAK"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCGold": {
+        "category": "G8",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAK"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCPlatinum": {
+        "category": "G8",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAK"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze": {
+        "category": "G8",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAK"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBSilver": {
+        "category": "Q1",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAJ"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBGold": {
+        "category": "Q1",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAJ"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBPlatinum": {
+        "category": "Q1",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAJ"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze": {
+        "category": "Q1",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAJ"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeASilver": {
+        "category": "L4",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAI"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeAGold": {
+        "category": "L4",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAI"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeAPlatinum": {
+        "category": "L4",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAI"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze": {
+        "category": "L4",
+        "era": "Neo",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicNeoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAI"
+    },
     "/Lotus/Types/Game/Projections/T3VoidProjectionXSilver": {
         "category": "N6",
         "era": "Neo",
@@ -11627,6 +11915,150 @@
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagRhinoVaultB"
     },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDSilver": {
+        "category": "V10",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAH"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDGold": {
+        "category": "V10",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAH"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDPlatinum": {
+        "category": "V10",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAH"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze": {
+        "category": "V10",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAH"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCSilver": {
+        "category": "T7",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAG"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCGold": {
+        "category": "T7",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAG"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCPlatinum": {
+        "category": "T7",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAG"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze": {
+        "category": "T7",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAG"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBSilver": {
+        "category": "E6",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAF"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBGold": {
+        "category": "E6",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAF"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBPlatinum": {
+        "category": "E6",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAF"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze": {
+        "category": "E6",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAF"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeASilver": {
+        "category": "G8",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAE"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeAGold": {
+        "category": "G8",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAE"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeAPlatinum": {
+        "category": "G8",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAE"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze": {
+        "category": "G8",
+        "era": "Meso",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicMesoD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAE"
+    },
     "/Lotus/Types/Game/Projections/T2VoidProjectionXSilver": {
         "category": "V5",
         "era": "Meso",
@@ -17098,6 +17530,150 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagRhinoVaultA"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDSilver": {
+        "category": "M9",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAD"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDGold": {
+        "category": "M9",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAD"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDPlatinum": {
+        "category": "M9",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAD"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeDBronze": {
+        "category": "M9",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAD"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCSilver": {
+        "category": "G13",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAC"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCGold": {
+        "category": "G13",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAC"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCPlatinum": {
+        "category": "G13",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAC"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeCBronze": {
+        "category": "G13",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAC"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBSilver": {
+        "category": "N16",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAB"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBGold": {
+        "category": "N16",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAB"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBPlatinum": {
+        "category": "N16",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAB"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeBBronze": {
+        "category": "N16",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAB"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeASilver": {
+        "category": "X1",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAA"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeAGold": {
+        "category": "X1",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAA"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeAPlatinum": {
+        "category": "X1",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAA"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeABronze": {
+        "category": "X1",
+        "era": "Lith",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicLithD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/XakuPAA"
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionXSilver": {
         "category": "A2",
