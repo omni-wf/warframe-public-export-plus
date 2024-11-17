@@ -43,6 +43,7 @@ export declare const ExportSentinels: Record<string, ISentinel>;
 export declare const ExportSyndicates: Record<string, ISyndicate>;
 export declare const ExportTextIcons: Record<string, ITextIcon>;
 export declare const ExportUpgrades: Record<string, IUpgrade>;
+export declare const ExportVirtuals: Record<string, IVirtual>;
 export declare const ExportWarframes: Record<string, IPowersuit>;
 export declare const ExportWeapons: Record<string, IWeapon>;
 
@@ -525,6 +526,11 @@ export interface IUpgrade {
             overrideTag?: string;
         }[];
     }[];
+}
+
+export interface IVirtual {
+    parentName: string;
+    name?: string;
 }
 
 export interface IPowersuit {

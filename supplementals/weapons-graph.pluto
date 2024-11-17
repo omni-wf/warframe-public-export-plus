@@ -1,0 +1,54 @@
+local { json } = require "*"
+
+local dict_en = io.contents("../dict.en.json") |> json.decode
+local ExportWeapons = io.contents("../ExportWeapons.json") |> json.decode
+local ExportVirtuals = io.contents("../ExportVirtuals.json") |> json.decode
+
+local function find_data(path)
+	if weapon := ExportWeapons[path] then
+		return weapon
+	end
+	if virtual := ExportVirtuals[path] then
+		return virtual
+	end
+end
+
+local function path_to_name(path)
+	if data := find_data(path) then
+		if data.name then
+			return dict_en[data.name].." ("..path..")"
+		end
+	end
+	return path
+end
+
+print "digraph {"
+print "\trankdir=\"LR\""
+local needs_mapping = {}
+for weaponPath, weapon in ExportWeapons do
+	if weapon.behaviours then
+		needs_mapping[weaponPath] = false
+		needs_mapping[weapon.parentName] ??= true
+		print $"\t\"{path_to_name(weaponPath)}\" [shape=box,style=filled,fillcolor=cyan];"
+		print $"\t\"{path_to_name(weapon.parentName)}\" -> \"{path_to_name(weaponPath)}\";"
+	end
+end
+local function add_virtual(path)
+	local data = find_data(path)
+	if data?.parentName then
+		print $"\t\"{path_to_name(path)}\" [shape=box];"
+		print $"\t\"{path_to_name(data.parentName)}\" -> \"{path_to_name(path)}\";"
+		if needs_mapping[data.parentName] == nil then
+			needs_mapping[data.parentName] = false
+			add_virtual(data.parentName)
+		end
+	else
+		print $"\t\"{path_to_name(path)}\" [shape=box];"
+	end
+end
+for path, value in needs_mapping do
+	if value then
+		add_virtual(path)
+	end
+end
+print "}"

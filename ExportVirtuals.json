@@ -1,0 +1,407 @@
+{
+    "/Lotus/Powersuits/Choir/ChoirEruptWeaponBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol"
+    },
+    "/Lotus/Powersuits/Cowgirl/SlingerPistolsBase": {
+        "parentName": "/Lotus/Types/Weapon/LotusCustomAimWeapon",
+        "name": "/Lotus/Language/Items/GunFuGunName"
+    },
+    "/Lotus/Powersuits/Fairy/BaseFlightPistols": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol",
+        "name": "/Lotus/Language/Items/FairyArchwingPistols"
+    },
+    "/Lotus/Powersuits/Fairy/BaseFlightSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/FlightSword"
+    },
+    "/Lotus/Powersuits/Garuda/GarudaBaseClaws": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Suits/GarudaClawsName"
+    },
+    "/Lotus/Powersuits/IronFrame/BlastWeaponBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol",
+        "name": "/Lotus/Language/Suits/IronFrameBlasterName"
+    },
+    "/Lotus/Powersuits/MonkeyKing/MonkeyKingStaffBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/MonkeyKingStaffName"
+    },
+    "/Lotus/Powersuits/Pagemaster/ExaltedBookBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+    },
+    "/Lotus/Powersuits/Ranger/ExaltedBowBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Bows/LotusBow",
+        "name": "/Lotus/Language/Suits/RangerBowAbilityName"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/CatbrowPetAntigenBase": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetAntigen"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/CatbrowPetMutagenBase": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetPart"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/KubrowPetAntigenBase": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetAntigen"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/KubrowPetMutagenBase": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetPart"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/MoaPetEngineBase": {
+        "parentName": "/Lotus/Types/Game/MoaPetParts/LotusMoaPetEngine"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/MoaPetHeadBase": {
+        "parentName": "/Lotus/Types/Game/MoaPetParts/LotusMoaPetHead"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/MoaPetLegBase": {
+        "parentName": "/Lotus/Types/Game/MoaPetParts/LotusMoaPetLeg"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/MoaPetPayloadBase": {
+        "parentName": "/Lotus/Types/Game/MoaPetParts/LotusMoaPetPayload"
+    },
+    "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetBodyBase": {
+        "parentName": "/Lotus/Types/Game/ZanukaPetParts/LotusZanukaBodyPart"
+    },
+    "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetHeadBase": {
+        "parentName": "/Lotus/Types/Game/ZanukaPetParts/LotusZanukaHeadPart"
+    },
+    "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetLegBase": {
+        "parentName": "/Lotus/Types/Game/ZanukaPetParts/LotusZanukaLegPart"
+    },
+    "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon"
+    },
+    "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetTailBase": {
+        "parentName": "/Lotus/Types/Game/ZanukaPetParts/LotusZanukaTailPart"
+    },
+    "/Lotus/Types/Items/Conservation/CritterWoundedAnimalRewardItem": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetBreed",
+        "name": "/Lotus/Language/Items/OrokinCell"
+    },
+    "/Lotus/Types/Items/Conservation/PredatorWoundedAnimalRewardItem": {
+        "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetBreed",
+        "name": "/Lotus/Language/Items/OrokinCell"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardPartDeckBase": {
+        "parentName": "/Lotus/Types/Game/HoverboardParts/LotusHoverboardDeck"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardPartEngineBase": {
+        "parentName": "/Lotus/Types/Game/HoverboardParts/LotusHoverboardEngine"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardPartFrontBase": {
+        "parentName": "/Lotus/Types/Game/HoverboardParts/LotusHoverboardFront"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardPartJetBase": {
+        "parentName": "/Lotus/Types/Game/HoverboardParts/LotusHoverboardJet"
+    },
+    "/Lotus/Weapons/Archon/Melee/DualDaggers/ArchonDualDaggersWep": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusDualDagger",
+        "name": "/Lotus/Language/Weapons/ArchonDualDaggersName"
+    },
+    "/Lotus/Weapons/Archon/Melee/Trident/ArchonTridentWep": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusPolearm",
+        "name": "/Lotus/Language/Weapons/ArchonTridentName"
+    },
+    "/Lotus/Weapons/Archon/Melee/Whip/ArchonWhipWep": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusWhip",
+        "name": "/Lotus/Language/Weapons/ArchonWhipName"
+    },
+    "/Lotus/Weapons/ClanTech/LotusSpeargunRifle": {
+        "parentName": "/Lotus/Weapons/ClanTech/LotusSpecialRifle",
+        "name": "/Lotus/Language/Items/SpeargunCategoryName"
+    },
+    "/Lotus/Weapons/ClanTech/LotusSpecialRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusAssaultRifle",
+        "name": "/Lotus/Language/Items/UniqueCategoryName"
+    },
+    "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannon": {
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/MassDriverBase",
+        "name": "/Lotus/Language/CrewShip/Wpn_ElectricTether"
+    },
+    "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannon": {
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/MassDriverBase",
+        "name": "/Lotus/Language/CrewShip/Wpn_IceSniper"
+    },
+    "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaser": {
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
+        "name": "/Lotus/Language/CrewShip/Wpn_GatlingLaser"
+    },
+    "/Lotus/Weapons/CrewShip/MassDriver/MassDriverBase": {
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon"
+    },
+    "/Lotus/Weapons/CrewShip/RailjackTurretWeapon": {
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackWeapon"
+    },
+    "/Lotus/Weapons/CrewShip/RailjackWeapon": {
+        "parentName": "/Lotus/Types/Game/LotusWeapon"
+    },
+    "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistol": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolGun",
+        "name": "/Lotus/Language/Items/GrineerHeavyPistolName"
+    },
+    "/Lotus/Weapons/Operator/Melee/DrifterTazer/DrifterTazerWep": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusDagger",
+        "name": "/Lotus/Language/Weapons/DrifterTazerName"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponBlade": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponBlade"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponHilt": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponHilt"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponWeight": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponWeight"
+    },
+    "/Lotus/Weapons/Sentients/OperatorAmplifiers/LotusWeaponAmpBrace": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponAmpBrace"
+    },
+    "/Lotus/Weapons/Sentients/OperatorAmplifiers/LotusWeaponAmpCore": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponAmpCore"
+    },
+    "/Lotus/Weapons/Sentients/OperatorAmplifiers/LotusWeaponAmpOculus": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponAmpOculus"
+    },
+    "/Lotus/Weapons/Sentients/OperatorAmplifiers/OperatorAmpWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/LotusBulletWeapon",
+        "name": "/Lotus/Language/Items/OperatorVoidBeam"
+    },
+    "/Lotus/Weapons/SolarisUnited/LotusGunBarrel": {
+        "parentName": "/Lotus/Types/Weapon/LotusGunBarrel"
+    },
+    "/Lotus/Weapons/SolarisUnited/LotusGunClip": {
+        "parentName": "/Lotus/Types/Weapon/LotusGunClip"
+    },
+    "/Lotus/Weapons/SolarisUnited/LotusGunPrimaryHandle": {
+        "parentName": "/Lotus/Types/Weapon/LotusGunPrimaryHandle"
+    },
+    "/Lotus/Weapons/SolarisUnited/LotusGunSecondaryHandle": {
+        "parentName": "/Lotus/Types/Weapon/LotusGunSecondaryHandle"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/LotusAkimbo": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/LotusAkimboOther": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/LotusThrown": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol",
+        "name": "/Lotus/Language/Items/ThrownCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHeavyAxe": {
+        "parentName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchMeleeWeapon",
+        "name": "/Lotus/Language/Items/AxesCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Melee/ArchMeleeWeapon": {
+        "parentName": "/Lotus/Types/Game/LotusMeleeWeapon",
+        "name": "/Lotus/Language/Items/ArchwingMelee"
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ArchGun": {
+        "parentName": "/Lotus/Types/Game/LotusWeapon",
+        "name": "/Lotus/Language/Items/ArchwingGun"
+    },
+    "/Lotus/Weapons/Tenno/Bows/DaxDuviriAsymetricalBow/DaxDuviriAsymmetricalLongBow": {
+        "parentName": "/Lotus/Weapons/Tenno/Bows/LotusLongBow",
+        "name": "/Lotus/Language/Items/AntlerBowName"
+    },
+    "/Lotus/Weapons/Tenno/Bows/LotusBow": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusRifle",
+        "name": "/Lotus/Language/Items/BowCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Bows/LotusCrossBow": {
+        "parentName": "/Lotus/Weapons/Tenno/Bows/LotusBow"
+    },
+    "/Lotus/Weapons/Tenno/Bows/LotusLongBow": {
+        "parentName": "/Lotus/Weapons/Tenno/Bows/LotusBow"
+    },
+    "/Lotus/Weapons/Tenno/Bows/Omicrus/OmicrusWep": {
+        "parentName": "/Lotus/Weapons/Tenno/Bows/LotusLongBow",
+        "name": "/Lotus/Language/Weapons/OmicrusName"
+    },
+    "/Lotus/Weapons/Tenno/LotusLongGun": {
+        "parentName": "/Lotus/Weapons/Tenno/LotusBulletWeapon",
+        "name": "/Lotus/Language/Menu/Loadout_LongGun"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDaggerBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusDagger",
+        "name": "/Lotus/Language/Items/DarkDaggerName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Hammer/DaxDuviriHammer/DaxDuviriHammerPlayerWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusHeavyHammer",
+        "name": "/Lotus/Language/Weapons/DaxHammerName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/HeavyScytheWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusChainedSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/SwordWhipCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusClaw": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/ClawsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusDagger": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/DaggersCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusDualDagger": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/DualDaggersCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusDualKatana": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Mods/DualKatanaCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusDualSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/DualSwordsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusFist": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/FistsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusGlaiveWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusGlaiveWeaponBase",
+        "name": "/Lotus/Language/Items/GlaivesCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusGlaiveWeaponBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/ThrowingMeleeCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusGunblade": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/GunbladeCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusHeavy": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusHeavyAxe": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusHeavy",
+        "name": "/Lotus/Language/Items/AxesCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusHeavyHammer": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusHeavy",
+        "name": "/Lotus/Language/Items/HammersCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusKatanaSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/KatanasCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusLongKatanaSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/LongKatanasCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusLongSword": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/SwordsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusMachete": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/MacheteCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusNunchaku": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/NunchakuCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusPolearm": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/PoleArmsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusPunchKick": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/PunchKickCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusRapier": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/RapierCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusSawBlade": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/SwordsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusScythe": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/ScythesCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusStaff": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/StavesCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusSwordShield": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/SwordShieldCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusTonfa": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/TonfaCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusWarfan": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LotusWhip": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
+        "name": "/Lotus/Language/Items/WhipsCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon": {
+        "parentName": "/Lotus/Types/Game/LotusMeleeWeapon"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/BaseStaff": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusStaff",
+        "name": "/Lotus/Language/Items/StaffName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/DaxDuviriKatana/DaxDuviriKatanaPlayerWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusKatanaSword",
+        "name": "/Lotus/Language/Weapons/DaxSingleKatanaName"
+    },
+    "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/DaxDuviriMaceShieldPlayerWeapon": {
+        "parentName": "/Lotus/Weapons/Tenno/Melee/LotusSwordShield",
+        "name": "/Lotus/Language/Weapons/DaxMaceShieldName"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusGrimoire": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol",
+        "name": "/Lotus/Language/Items/GrimoireCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistol": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusPistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolBeam": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolGun": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolOther": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolShotgun": {
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolGun"
+    },
+    "/Lotus/Weapons/Tenno/Rifle/BaseTennoSniperRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusSniperRifle",
+        "name": "/Lotus/Language/Items/TennoSniperRifleName"
+    },
+    "/Lotus/Weapons/Tenno/Rifle/LotusAssaultRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusRifle",
+        "name": "/Lotus/Language/Items/AssaultRifleCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Rifle/LotusAssaultStandardRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusAssaultRifle"
+    },
+    "/Lotus/Weapons/Tenno/Rifle/LotusRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/LotusLongGun",
+        "name": "/Lotus/Language/Items/RifleCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Rifle/LotusSniperRifle": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusRifle",
+        "name": "/Lotus/Language/Items/SniperCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Shotgun/LotusShotgun": {
+        "parentName": "/Lotus/Weapons/Tenno/LotusLongGun",
+        "name": "/Lotus/Language/Items/ShotgunCategoryName"
+    },
+    "/Lotus/Weapons/Tenno/Shotgun/LotusStandardShotgun": {
+        "parentName": "/Lotus/Weapons/Tenno/Shotgun/LotusShotgun"
+    },
+    "/Lotus/Weapons/Tenno/Shotgun/QuadShotgunBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Shotgun/LotusStandardShotgun",
+        "name": "/Lotus/Language/Items/QuadShotgunName"
+    }
+}
