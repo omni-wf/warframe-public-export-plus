@@ -33,6 +33,6 @@ Most exports here have an `icon` field, which contains a path, e.g. `/Lotus/Inte
 - The `health`, `shield`, `armor`, and `power` values represent the state at rank 0. [See here for an approach to level-scaling these stats.](https://github.com/Sainan/warframe-build-evaluator/blob/d05257f704e688ec387c697c6768b951cf3d5389/evaluator.pluto#L438-L500)
 
 ### ExportWeapons
-- Non-weapon items such as modular parts are in here as well. These can be filtered by checking if `behaviors` is absent.
+- Non-weapon items such as modular parts are in here as well. These can be filtered by checking if `behaviours` is absent.
 - Kitgun Chambers also have a `primeOmegaAttenuation` \[sic\] field, this is the Riven Disposition for when the Kitgun is a primary instead of secondary weapon.
-- The `damagePerShot` array is documented [here](https://warframe.fandom.com/wiki/Public_Export#Guns), although the `behaviors` array should be preferred.
+- The `damagePerShot` array is documented [here](https://warframe.fandom.com/wiki/Public_Export#Guns), although the `behaviours` array should be preferred.
