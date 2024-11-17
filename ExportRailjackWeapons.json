@@ -1,6 +1,7 @@
 {
     "/Lotus/Weapons/CrewShip/Countermeasures/DecoyCountermeasure": {
         "name": "/Lotus/Language/CrewShip/Countermeasure_Decoy",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Countermeasures/RailjackPayloadRearChaff.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -55,6 +56,7 @@
     },
     "/Lotus/Weapons/CrewShip/Countermeasures/SmokeCountermeasure": {
         "name": "/Lotus/Language/CrewShip/Countermeasure_Smoke",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Countermeasures/RailjackPayloadRearSmoke.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -109,6 +111,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ElectricTetherTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -169,6 +172,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ElectricTetherTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -229,6 +233,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ElectricTetherTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -289,6 +294,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanElectricTetherTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -349,6 +355,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanElectricTetherTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -409,6 +416,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanElectricTetherTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/LavanElectricTetherCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -469,6 +477,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarElectricTetherTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -529,6 +538,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarElectricTetherTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -589,6 +599,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarElectricTetherTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/VidarElectricTetherCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -649,6 +660,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiElectricTetherTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -709,6 +721,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiElectricTetherTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -769,6 +782,7 @@
     },
     "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiElectricTetherTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ElectricTether/ZektiElectricTetherCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ElectricTether.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -829,6 +843,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_IceSniperTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -891,6 +906,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_IceSniperTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -953,6 +969,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_IceSniperTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1015,6 +1032,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanIceSniperTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1077,6 +1095,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanIceSniperTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1139,6 +1158,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanIceSniperTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/LavanIceSniperCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1201,6 +1221,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarIceSniperTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1263,6 +1284,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarIceSniperTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1325,6 +1347,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarIceSniperTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/VidarIceSniperCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1387,6 +1410,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiIceSniperTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/IceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1449,6 +1473,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiIceSniperTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1511,6 +1536,7 @@
     },
     "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiIceSniperTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/IceSniper/ZektiIceSniperCannonTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/IceSniper.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1573,6 +1599,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBeamWeaponTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1629,6 +1656,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBeamWeaponTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1685,6 +1713,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBeamWeaponTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/LavanRailJackBeamWeaponTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1741,6 +1770,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeapon": {
         "name": "/Lotus/Language/CrewShip/Wpn_BeamWeapon",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1797,6 +1827,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_BeamWeaponTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1853,6 +1884,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_BeamWeaponTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1909,6 +1941,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_BeamWeaponTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -1965,6 +1998,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBeamWeaponTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2021,6 +2055,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBeamWeaponTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2077,6 +2112,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBeamWeaponTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2133,6 +2169,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBeamWeaponTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/RailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2189,6 +2226,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBeamWeaponTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2245,6 +2283,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBeamWeaponTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Beam/ZektiRailJackBeamWeaponTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretB.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2301,6 +2340,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/Blaster": {
         "name": "/Lotus/Language/CrewShip/Wpn_Blaster",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2364,6 +2404,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgun": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterShotgun",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2426,6 +2467,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgun",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2488,6 +2530,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2550,6 +2593,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2612,6 +2656,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/Blaster",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2675,6 +2720,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2738,6 +2784,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_BlasterTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2801,6 +2848,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2863,6 +2911,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2925,6 +2974,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -2987,6 +3037,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/Blaster",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3050,6 +3101,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3113,6 +3165,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanBlasterTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/LavanBlasterTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3176,6 +3229,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3238,6 +3292,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3300,6 +3355,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3362,6 +3418,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/Blaster",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3425,6 +3482,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3488,6 +3546,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarBlasterTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3551,6 +3610,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/BlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3613,6 +3673,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3675,6 +3736,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlasterShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3737,6 +3799,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/Blaster",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3800,6 +3863,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3863,6 +3927,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiBlasterTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/Blaster/ZektiBlasterTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretBlaster.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3926,6 +3991,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_GatlingLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -3979,6 +4045,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_GatlingLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4032,6 +4099,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_GatlingLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4085,6 +4153,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanGatlingLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4138,6 +4207,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanGatlingLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4191,6 +4261,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanGatlingLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/LavanGatlingLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4244,6 +4315,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarGatlingLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4297,6 +4369,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarGatlingLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4350,6 +4423,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarGatlingLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4403,6 +4477,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiGatlingLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/GatlingLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4456,6 +4531,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiGatlingLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4509,6 +4585,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiGatlingLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/ZektiGatlingLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/GatlingLaser.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4562,6 +4639,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanPulseLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4618,6 +4696,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanPulseLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4674,6 +4753,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanPulseLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/LavanPulseLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4730,6 +4810,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaser": {
         "name": "/Lotus/Language/CrewShip/Wpn_PulseLaser",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4786,6 +4867,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_PulseLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4842,6 +4924,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_PulseLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4898,6 +4981,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_PulseLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -4954,6 +5038,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarPulseLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5010,6 +5095,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarPulseLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5066,6 +5152,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarPulseLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/VidarPulseLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5122,6 +5209,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiPulseLaserTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaser",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5178,6 +5266,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiPulseLaserTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5234,6 +5323,7 @@
     },
     "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiPulseLaserTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/ZektiPulseLaserTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretC.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5290,6 +5380,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon": {
         "name": "/Lotus/Language/CrewShip/Wpn_AutoCannon",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/MassDriverBase",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5351,6 +5442,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_AutoCannonTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5412,6 +5504,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_AutoCannonTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5473,6 +5566,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_AutoCannonTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5534,6 +5628,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanAutoCannonTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5595,6 +5690,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanAutoCannonTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5656,6 +5752,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanAutoCannonTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/LavanAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5717,6 +5814,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarAutoCannonTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5778,6 +5876,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarAutoCannonTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5839,6 +5938,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarAutoCannonTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/VidarAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5900,6 +6000,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiAutoCannonTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -5961,6 +6062,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiAutoCannonTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6022,6 +6124,7 @@
     },
     "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiAutoCannonTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/ZektiAutoCannonTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/RailjackTurretAutoCannon.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6083,6 +6186,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanShrapnelShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6147,6 +6251,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanShrapnelShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6211,6 +6316,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_LavanShrapnelShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/LavanShrapnelShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6275,6 +6381,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgun": {
         "name": "/Lotus/Language/CrewShip/Wpn_ShrapnelShotgun",
+        "parentName": "/Lotus/Weapons/CrewShip/RailjackTurretWeapon",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6339,6 +6446,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ShrapnelShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgun",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6403,6 +6511,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ShrapnelShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6467,6 +6576,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ShrapnelShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6531,6 +6641,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarShrapnelShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6595,6 +6706,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarShrapnelShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6659,6 +6771,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_VidarShrapnelShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/VidarShrapnelShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6723,6 +6836,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierA": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiShrapnelShotgunTierA",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6787,6 +6901,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierB": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiShrapnelShotgunTierB",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierA",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [
@@ -6851,6 +6966,7 @@
     },
     "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierC": {
         "name": "/Lotus/Language/CrewShip/Wpn_ZektiShrapnelShotgunTierC",
+        "parentName": "/Lotus/Weapons/CrewShip/ShrapnelShotgun/ZektiShrapnelShotgunTierB",
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Turrets/ShrapnelShotgun.png",
         "codexSecret": false,
         "damagePerShot": [

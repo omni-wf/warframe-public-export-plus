@@ -321,6 +321,7 @@ export interface IExportNightwave {
 
 export interface IRailjackWeapon {
     name:               string;
+    parentName:         string;
     icon:               string;
     codexSecret:        boolean;
     damagePerShot:      number[];
@@ -548,6 +549,7 @@ export interface IPowersuit {
 
 export interface IWeapon {
     name:                   string;
+    parentName:             string;
     icon:                   string;
     codexSecret:            boolean;
     damagePerShot:          number[];
