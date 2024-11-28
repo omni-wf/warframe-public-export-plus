@@ -13,6 +13,13 @@ Most exports here have an `icon` field, which contains a path, e.g. `/Lotus/Inte
 - browse.wf hosts all images and can be queried like this: <https://browse.wf/Lotus/Interface/Icons/Player/LotusSymbol.png>
 - ExportImages can be used to find out if an image is hosted on `content.warframe.com/PublicExport`, in which case it can be obtained by adding an exclamation mark followed by the `contentHash`, like so: <https://content.warframe.com/PublicExport/Lotus/Interface/Icons/Player/LotusSymbol.png!00_WC8orfy4NOtWelndlH7qmQ>
 
+### Compression
+
+If you are interested in high-quality images, you should check ExportImages first. For glyphs specifically, you might also manually find the uncompressed image on the forums. For comparison:
+- [Uncompressed original](<https://media.invisioncic.com/Mwarframe/pages_media/1_DanteGlyph.png>)
+- [Mildly compressed image for Public Export](<https://content.warframe.com/PublicExport/Lotus/Interface/Icons/Player/DanteGlyph.png!00_bWgrY3O49Z3RYaqGpuawpg>)
+- [Heavily compressed image shipped with the game](<https://browse.wf/Lotus/Interface/Icons/Player/DanteGlyph.png>)
+
 ## Notes
 
 ### ExportRegions
