@@ -15573,6 +15573,63 @@
             }
         ]
     },
+    "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon": {
+        "name": "/Lotus/Language/Weapons/TnBeltFedRifleWeaponName",
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusAssaultStandardRifle",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TnBeltFedRifle.png",
+        "codexSecret": false,
+        "damagePerShot": [
+            16,
+            24,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "totalDamage": 40,
+        "description": "/Lotus/Language/Weapons/TnBeltFedRifleWeaponDesc",
+        "criticalChance": 0.28,
+        "criticalMultiplier": 2.8,
+        "procChance": 0.16,
+        "fireRate": 8,
+        "masteryReq": 14,
+        "productCategory": "LongGuns",
+        "holsterCategory": "RIFLE",
+        "slot": 1,
+        "accuracy": 33.333332,
+        "omegaAttenuation": 0.5,
+        "noise": "ALARMING",
+        "trigger": "AUTO",
+        "magazineSize": 200,
+        "reloadTime": 5,
+        "multishot": 1,
+        "compatibilityTags": [
+            "ASSAULT_AMMO"
+        ],
+        "behaviours": [
+            {
+                "stateName": "/Lotus/Language/Menu/Loadout_TriggerAuto",
+                "impact": {
+                    "DT_IMPACT": 16.0,
+                    "DT_PUNCTURE": 24.0
+                }
+            }
+        ]
+    },
     "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle": {
         "name": "/Lotus/Language/Weapons/TnBardRifleName",
         "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusAssaultRifle",
@@ -21010,7 +21067,7 @@
         "name": "/Lotus/Language/Primes/AkmagnusPrimeName",
         "parentName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/AkmagnusPrime.png",
-        "codexSecret": true,
+        "codexSecret": false,
         "damagePerShot": [
             44.099998,
             26.950001,
@@ -23632,6 +23689,62 @@
                 "impact": {
                     "DT_IMPACT": 81.0,
                     "DT_PUNCTURE": 9.0
+                }
+            }
+        ]
+    },
+    "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon": {
+        "name": "/Lotus/Language/Weapons/LasSilencedPistolWeaponName",
+        "parentName": "/Lotus/Weapons/Tenno/Pistol/LotusSinglePistolGun",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/LasSilencedPistolWeapon.png",
+        "codexSecret": false,
+        "damagePerShot": [
+            72,
+            108.00001,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "totalDamage": 180,
+        "description": "/Lotus/Language/Weapons/LasSilencedPistolWeaponDesc",
+        "criticalChance": 0.24,
+        "criticalMultiplier": 2.6,
+        "procChance": 0.26,
+        "fireRate": 2.083334,
+        "masteryReq": 14,
+        "productCategory": "Pistols",
+        "slot": 0,
+        "accuracy": 16,
+        "omegaAttenuation": 0.5,
+        "noise": "SILENT",
+        "trigger": "SEMI",
+        "magazineSize": 8,
+        "reloadTime": 2.35,
+        "multishot": 1,
+        "compatibilityTags": [
+            "SEMI_AUTO"
+        ],
+        "behaviours": [
+            {
+                "stateName": "/Lotus/Language/Menu/Loadout_TriggerSemiAuto",
+                "impact": {
+                    "DT_IMPACT": 72.0,
+                    "DT_PUNCTURE": 108.0
                 }
             }
         ]
@@ -32248,7 +32361,7 @@
     "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex": {
         "name": "/Lotus/Language/Weapons/PrismaObexName",
         "parentName": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/Obex.png",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/PrismaObex.png",
         "codexSecret": false,
         "damagePerShot": [
             105,
@@ -38462,6 +38575,70 @@
                     "DT_PUNCTURE": 54.56,
                     "DT_SLASH": 173.6
                 }
+            }
+        ]
+    },
+    "/Lotus/Powersuits/Frumentarius/ExaltedSniper": {
+        "name": "/Lotus/Language/Weapons/TnExaltedSniperName",
+        "parentName": "/Lotus/Powersuits/Frumentarius/ExaltedSniperBase",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/ExaltedWeapons/FrumentariusExaltedSniper.png",
+        "codexSecret": true,
+        "damagePerShot": [
+            12.75,
+            216.75,
+            25.49999,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "totalDamage": 254.99998,
+        "description": "/Lotus/Language/Weapons/TnExaltedSniperDesc",
+        "criticalChance": 0.45,
+        "criticalMultiplier": 3,
+        "procChance": 0.1,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "productCategory": "SpecialItems",
+        "holsterCategory": "SNIPER",
+        "excludeFromCodex": true,
+        "slot": 7,
+        "accuracy": 13.333333,
+        "omegaAttenuation": 1.3,
+        "noise": "ALARMING",
+        "trigger": "SEMI",
+        "magazineSize": 12,
+        "reloadTime": 2.25,
+        "multishot": 1,
+        "compatibilityTags": [
+            "POWER_WEAPON",
+            "SEMI_AUTO",
+            "SNIPER_AMMO"
+        ],
+        "behaviours": [
+            {
+                "stateName": "/Lotus/Language/Menu/Loadout_TriggerSemiAuto",
+                "impact": {
+                    "DT_IMPACT": 12.75,
+                    "DT_PUNCTURE": 216.75,
+                    "DT_SLASH": 25.5
+                }
+            },
+            {
+                "stateName": "/Lotus/Language/Menu/Loadout_TriggerSemiAuto"
             }
         ]
     },

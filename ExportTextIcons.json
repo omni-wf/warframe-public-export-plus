@@ -185,6 +185,13 @@
         "DIT_SWITCH": "/EE/Interface/Graphics/PlatformKeys/Switch/SwitchMinus_d.png",
         "DIT_PS5": "/EE/Interface/Graphics/PlatformKeys/PS5_Create01_d.png"
     },
+    "GAMEPAD_DPAD": {
+        "DIT_PS4": "/EE/Interface/Graphics/PlatformKeys/PS4D-PadFull_d.png",
+        "DIT_XBONE": "/EE/Interface/Graphics/PlatformKeys/XboxOneDPad_d.png",
+        "DIT_STEAM": "/EE/Interface/Graphics/PlatformKeys/SteamController/PadLeft.png",
+        "DIT_AGNOSTIC": "/Lotus/Interface/Graphics/OperatorHud/Empty.png",
+        "DIT_SWITCH": "/EE/Interface/Graphics/PlatformKeys/Switch/SwitchCircleDPad_d.png"
+    },
     "GAMEPAD_UP": {
         "DIT_PS4": "/EE/Interface/Graphics/PlatformKeys/PS4_D-PadUp_d.png",
         "DIT_XBONE": "/EE/Interface/Graphics/PlatformKeys/XboxOneDPadUp_d.png",
@@ -701,85 +708,169 @@
     "STAT_CORROSIVE": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/CorrosiveSymbol.png"
     },
+    "STAT_CORROSIVE_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/CorrosiveSymbol.png"
+    },
     "STAT_CORROSIVE_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/CorrosiveSymbol.png"
+    },
+    "STAT_CORROSIVE_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/CorrosiveSymbol.png"
     },
     "STAT_ELECTRICITY": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ElectricitySymbol.png"
     },
+    "STAT_ELECTRICITY_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ElectricitySymbol.png"
+    },
     "STAT_ELECTRICITY_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ElectricitySymbol.png"
+    },
+    "STAT_ELECTRICITY_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ElectricitySymbol.png"
     },
     "STAT_EXPLOSION": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/BlastSymbol.png"
     },
+    "STAT_EXPLOSION_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/BlastSymbol.png"
+    },
     "STAT_EXPLOSION_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/BlastSymbol.png"
+    },
+    "STAT_EXPLOSION_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/BlastSymbol.png"
     },
     "STAT_FIRE": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/HeatSymbol.png"
     },
+    "STAT_FIRE_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/HeatSymbol.png"
+    },
     "STAT_FIRE_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/HeatSymbol.png"
+    },
+    "STAT_FIRE_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/HeatSymbol.png"
     },
     "STAT_FREEZE": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ColdSymbol.png"
     },
+    "STAT_FREEZE_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ColdSymbol.png"
+    },
     "STAT_FREEZE_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ColdSymbol.png"
+    },
+    "STAT_FREEZE_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ColdSymbol.png"
     },
     "STAT_GAS": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/GasSymbol.png"
     },
+    "STAT_GAS_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/GasSymbol.png"
+    },
     "STAT_GAS_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/GasSymbol.png"
+    },
+    "STAT_GAS_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/GasSymbol.png"
     },
     "STAT_IMPACT": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ImpactSymbol.png"
     },
+    "STAT_IMPACT_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ImpactSymbol.png"
+    },
     "STAT_IMPACT_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ImpactSymbol.png"
+    },
+    "STAT_IMPACT_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ImpactSymbol.png"
     },
     "STAT_MAGNETIC": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/MagneticSymbol.png"
     },
+    "STAT_MAGNETIC_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/MagneticSymbol.png"
+    },
     "STAT_MAGNETIC_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/MagneticSymbol.png"
+    },
+    "STAT_MAGNETIC_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/MagneticSymbol.png"
     },
     "STAT_POISON": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ToxinSymbol.png"
     },
+    "STAT_POISON_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ToxinSymbol.png"
+    },
     "STAT_POISON_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ToxinSymbol.png"
+    },
+    "STAT_POISON_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ToxinSymbol.png"
     },
     "STAT_PUNCTURE": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/PunctureSymbol.png"
     },
+    "STAT_PUNCTURE_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/PunctureSymbol.png"
+    },
     "STAT_PUNCTURE_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/PunctureSymbol.png"
+    },
+    "STAT_PUNCTURE_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/PunctureSymbol.png"
     },
     "STAT_RADIATION": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/RadiationSymbol.png"
     },
+    "STAT_RADIATION_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/RadiationSymbol.png"
+    },
     "STAT_RADIATION_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/RadiationSymbol.png"
+    },
+    "STAT_RADIATION_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/RadiationSymbol.png"
     },
     "STAT_RADIANT": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/VoidSymbol.png"
     },
+    "STAT_RADIANT_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/VoidSymbol.png"
+    },
     "STAT_RADIANT_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/VoidSymbol.png"
+    },
+    "STAT_RADIANT_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/VoidSymbol.png"
     },
     "STAT_SLASH": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/SlashSymbol.png"
     },
+    "STAT_SLASH_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/SlashSymbol.png"
+    },
     "STAT_SLASH_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/SlashSymbol.png"
+    },
+    "STAT_SLASH_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/SlashSymbol.png"
     },
     "STAT_VIRAL": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ViralSymbol.png"
     },
+    "STAT_VIRAL_TINT": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ViralSymbol.png"
+    },
     "STAT_VIRAL_NO_ADV": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ViralSymbol.png"
+    },
+    "STAT_VIRAL_TINT_NO_ADV": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ViralSymbol.png"
     },
     "STAT_NEGATIVE": {
@@ -789,6 +880,9 @@
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/PositiveSymbol.png"
     },
     "STAT_RESIST": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ResistSymbol.png"
+    },
+    "STAT_RESIST_TINT": {
         "DIT_AUTO": "/Lotus/Interface/Icons/StatSymbols/ResistSymbol.png"
     },
     "AMMO_MUTATION": {
@@ -1703,6 +1797,24 @@
     "IOS_MOTORCYCLE_ABILITY_2": {
         "DIT_IOS": "/Lotus/Interface/Icons/Abilities/Misc/MotorcycleDismountExplosion.png"
     },
+    "IOS_SUMMON_ATOMICYCLE": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSAtomicycleSpawn_d.png"
+    },
+    "IOS_CALIBERCHICKS_DASH": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSMinigameCCDash_d.png"
+    },
+    "IOS_CALIBERCHICKS_HOLDSHOOT": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSMinigameCCHoldShoot_d.png"
+    },
+    "IOS_CALIBERCHICKS_JUMP": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSMinigameCCJump_d.png"
+    },
+    "IOS_CALIBERCHICKS_SHOOT": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSMinigameCCShoot_d.png"
+    },
+    "IOS_CALIBERCHICKS_ULTIMATE": {
+        "DIT_IOS": "/EE/Interface/Graphics/PlatformKeys/IOSController/IOSMinigameCCUltimate_d.png"
+    },
     "CARGO": {
         "DIT_AUTO": "/Lotus/Interface/Icons/RailjackResourceCompactorIcon.png"
     },
@@ -2147,5 +2259,17 @@
     },
     "PICKUP_DOUBLED": {
         "DIT_AUTO": "/Lotus/Interface/Icons/DoublePickups/2XIcon.png"
+    },
+    "ENTRATI_EYE": {
+        "DIT_AUTO": "/Lotus/Interface/Graphics/Retro/EyeGlitch/EyeGlitchA.png"
+    },
+    "STAT_BASE": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/SubStatIndicatorIcon/TinyBaseDiamond.png"
+    },
+    "STAT_POS": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/SubStatIndicatorIcon/PositiveDiamond.png"
+    },
+    "STAT_NEG": {
+        "DIT_AUTO": "/Lotus/Interface/Icons/SubStatIndicatorIcon/NegativeDiamond.png"
     }
 }

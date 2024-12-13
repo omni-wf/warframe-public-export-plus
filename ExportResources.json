@@ -180,6 +180,569 @@
         "parentName": "/Lotus/Types/Game/SpectreArmyItem",
         "productCategory": "MiscItems"
     },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver": {
+        "name": "/Lotus/Language/Gifts/AVReceiver",
+        "description": "/Lotus/Language/Gifts/AVReceiverDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AVReceiver.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/AirHockeyTable": {
+        "name": "/Lotus/Language/Gifts/AirHockeyTable",
+        "description": "/Lotus/Language/Gifts/AirHockeyTableDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AirHockey.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle": {
+        "name": "/Lotus/Language/Gifts/Bicycle",
+        "description": "/Lotus/Language/Gifts/BicycleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Bicycle.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Binder": {
+        "name": "/Lotus/Language/Gifts/Binder",
+        "description": "/Lotus/Language/Gifts/BinderDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Binder.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator": {
+        "name": "/Lotus/Language/Gifts/Calculator",
+        "description": "/Lotus/Language/Gifts/CalculatorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Calculator.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/CardboardBox": {
+        "name": "/Lotus/Language/Gifts/CardboardBox",
+        "description": "/Lotus/Language/Gifts/CardboardBoxDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CardboardBox.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/CellPhone": {
+        "name": "/Lotus/Language/Gifts/CellPhone",
+        "description": "/Lotus/Language/Gifts/CellPhoneDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CellPhone.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeCup": {
+        "name": "/Lotus/Language/Gifts/CoffeeCup",
+        "description": "/Lotus/Language/Gifts/CoffeeCupDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeCup.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine": {
+        "name": "/Lotus/Language/Gifts/CoffeeMachine",
+        "description": "/Lotus/Language/Gifts/CoffeeMachineDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeMachine.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/CompactDisc": {
+        "name": "/Lotus/Language/Gifts/CompactDisc",
+        "description": "/Lotus/Language/Gifts/CompactDiscDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CompactDiscC.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone": {
+        "name": "/Lotus/Language/Gifts/DigitalPhone",
+        "description": "/Lotus/Language/Gifts/DigitalPhoneDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/DigitalPhone.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/EntratiPoster": {
+        "name": "/Lotus/Language/Gifts/EntratiPoster",
+        "description": "/Lotus/Language/Gifts/EntratiPosterDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/EntratiPoster.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher": {
+        "name": "/Lotus/Language/Gifts/FireExtinguisher",
+        "description": "/Lotus/Language/Gifts/FireExtinguisherDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FireExtinguisher.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/FloodLight": {
+        "name": "/Lotus/Language/Gifts/Floodlight",
+        "description": "/Lotus/Language/Gifts/FloodlightDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FloodLight.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/HardwareGPU": {
+        "name": "/Lotus/Language/Gifts/HardwareGPU",
+        "description": "/Lotus/Language/Gifts/HardwareGPUDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HardwareGPU.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Headphones": {
+        "name": "/Lotus/Language/Gifts/Headphones",
+        "description": "/Lotus/Language/Gifts/HeadphonesDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HeadPhones.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Highlighters": {
+        "name": "/Lotus/Language/Gifts/Highlighters",
+        "description": "/Lotus/Language/Gifts/HighlightersDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Highlighters.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanLarge": {
+        "name": "/Lotus/Language/Gifts/JerryCanLarge",
+        "description": "/Lotus/Language/Gifts/JerryCanLargeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanLarge.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall": {
+        "name": "/Lotus/Language/Gifts/JerryCanSmall",
+        "description": "/Lotus/Language/Gifts/JerryCanSmallDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanSmall.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/KeyChain": {
+        "name": "/Lotus/Language/Gifts/KeyChain",
+        "description": "/Lotus/Language/Gifts/KeyChainDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/KeyChain.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/LunchBox": {
+        "name": "/Lotus/Language/Gifts/LunchBox",
+        "description": "/Lotus/Language/Gifts/LunchBoxDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/LunchBox.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit": {
+        "name": "/Lotus/Language/Gifts/MedKit",
+        "description": "/Lotus/Language/Gifts/MedKitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/MedKit.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone": {
+        "name": "/Lotus/Language/Gifts/Microphone",
+        "description": "/Lotus/Language/Gifts/MicrophoneDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microphone.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave": {
+        "name": "/Lotus/Language/Gifts/Microwave",
+        "description": "/Lotus/Language/Gifts/MicrowaveDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microwave.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/MousePad": {
+        "name": "/Lotus/Language/Gifts/MousePad",
+        "description": "/Lotus/Language/Gifts/MousePadDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mousepad.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug": {
+        "name": "/Lotus/Language/Gifts/Mug",
+        "description": "/Lotus/Language/Gifts/MugDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mug.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Notepad": {
+        "name": "/Lotus/Language/Gifts/Notepad",
+        "description": "/Lotus/Language/Gifts/NotepadDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Notepad.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/OfficePhone": {
+        "name": "/Lotus/Language/Gifts/OfficePhone",
+        "description": "/Lotus/Language/Gifts/OfficePhoneDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/OfficePhone.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedBoomBox": {
+        "name": "/Lotus/Language/Gifts/PackagedBoomBox",
+        "description": "/Lotus/Language/Gifts/PackagedBoomBoxDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedBoomBox.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedGameConsole": {
+        "name": "/Lotus/Language/Gifts/PackagedGameConsole",
+        "description": "/Lotus/Language/Gifts/PackagedGameConsoleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedGameConsole.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedMonitor": {
+        "name": "/Lotus/Language/Gifts/PackagedMonitor",
+        "description": "/Lotus/Language/Gifts/PackagedMonitorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedMonitor.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedPortableTV": {
+        "name": "/Lotus/Language/Gifts/PackagedPortableTV",
+        "description": "/Lotus/Language/Gifts/PackagedPortableTVDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedPortableTV.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedSpeaker": {
+        "name": "/Lotus/Language/Gifts/PackagedSpeaker",
+        "description": "/Lotus/Language/Gifts/PackagedSpeakerDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedSpeaker.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedStereoAmp": {
+        "name": "/Lotus/Language/Gifts/PackagedStereoAmp",
+        "description": "/Lotus/Language/Gifts/PackagedStereoAmpDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedStereoAmp.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedVideoCamera": {
+        "name": "/Lotus/Language/Gifts/PackagedVideoCamera",
+        "description": "/Lotus/Language/Gifts/PackagedVideoCameraDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedVideoCamera.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PartyHat": {
+        "name": "/Lotus/Language/Gifts/PartyHat",
+        "description": "/Lotus/Language/Gifts/PartyHatDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PartyHat.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Pen": {
+        "name": "/Lotus/Language/Gifts/Pen",
+        "description": "/Lotus/Language/Gifts/PenDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pen.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Pencil": {
+        "name": "/Lotus/Language/Gifts/Pencil",
+        "description": "/Lotus/Language/Gifts/PencilDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pencil.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Pillow": {
+        "name": "/Lotus/Language/Gifts/Pillow",
+        "description": "/Lotus/Language/Gifts/PillowDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pillow.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PizzaBox": {
+        "name": "/Lotus/Language/Gifts/PizzaBox",
+        "description": "/Lotus/Language/Gifts/PizzaBoxDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PizzaBox.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Planter": {
+        "name": "/Lotus/Language/Gifts/Planter",
+        "description": "/Lotus/Language/Gifts/PlanterDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Planter.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas": {
+        "name": "/Lotus/Language/Gifts/PropaneGas",
+        "description": "/Lotus/Language/Gifts/PropaneGasDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PropaneGas.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter": {
+        "name": "/Lotus/Language/Gifts/Scooter",
+        "description": "/Lotus/Language/Gifts/ScooterDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Scooter.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Sign": {
+        "name": "/Lotus/Language/Gifts/Sign",
+        "description": "/Lotus/Language/Gifts/SignDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Sign.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/StickyNotes": {
+        "name": "/Lotus/Language/Gifts/StickyNotes",
+        "description": "/Lotus/Language/Gifts/StickyNotesDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/StickyNotes.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Television": {
+        "name": "/Lotus/Language/Gifts/Television",
+        "description": "/Lotus/Language/Gifts/TelevisionDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/TelevisionA.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/Toaster": {
+        "name": "/Lotus/Language/Gifts/Toaster",
+        "description": "/Lotus/Language/Gifts/ToasterDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Toaster.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven": {
+        "name": "/Lotus/Language/Gifts/ToasterOven",
+        "description": "/Lotus/Language/Gifts/ToasterOvenDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/ToasterOven.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette": {
+        "name": "/Lotus/Language/Gifts/VideoCassette",
+        "description": "/Lotus/Language/Gifts/VideoCassetteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/VideoCasseteA.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Quest/LoanerWeaponsItem": {
+        "name": "/Lotus/Language/1999Quest/LoanerWeapons",
+        "description": "",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/LoanerWeapons.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA": {
+        "name": "/Lotus/Language/1999/1999ResourceCommonA",
+        "description": "/Lotus/Language/1999/1999ResourceCommonADesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonA.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB": {
+        "name": "/Lotus/Language/1999/1999ResourceCommonB",
+        "description": "/Lotus/Language/1999/1999ResourceCommonBDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonB.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA": {
+        "name": "/Lotus/Language/1999/1999ResourceRareA",
+        "description": "/Lotus/Language/1999/1999ResourceRareADesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceRareA.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA": {
+        "name": "/Lotus/Language/1999/1999ResourceUncommonA",
+        "description": "/Lotus/Language/1999/1999ResourceUncommonADesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonA.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB": {
+        "name": "/Lotus/Language/1999/1999ResourceUncommonB",
+        "description": "/Lotus/Language/1999/1999ResourceUncommonBDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonB.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir": {
+        "name": "/Lotus/Language/1999/HexDogTagAmirName",
+        "description": "/Lotus/Language/1999/HexDogTagAmirDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAmir.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi": {
+        "name": "/Lotus/Language/1999/HexDogTagAoiName",
+        "description": "/Lotus/Language/1999/HexDogTagAoiDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAoi.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur": {
+        "name": "/Lotus/Language/1999/HexDogTagArthurName",
+        "description": "/Lotus/Language/1999/HexDogTagArthurDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagArthur.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor": {
+        "name": "/Lotus/Language/1999/HexDogTagEleanorName",
+        "description": "/Lotus/Language/1999/HexDogTagEleanorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagEleanor.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie": {
+        "name": "/Lotus/Language/1999/HexDogTagLettieName",
+        "description": "/Lotus/Language/1999/HexDogTagLettieDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagLettie.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy": {
+        "name": "/Lotus/Language/1999/HexDogTagQuincyName",
+        "description": "/Lotus/Language/1999/HexDogTagQuincyDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagQuincy.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare": {
+        "name": "/Lotus/Language/1999/HexDogTagRareName",
+        "description": "/Lotus/Language/1999/HexDogTagRareDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagRare.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon": {
+        "name": "/Lotus/Language/1999/HexDogTagUncommonName",
+        "description": "/Lotus/Language/1999/HexDogTagUncommonDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagUncommon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag": {
+        "name": "",
+        "description": "",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericComponent.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "productCategory": "MiscItems"
+    },
     "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem": {
         "name": "/Lotus/Language/Duviri/DuviriFishAItemName",
         "description": "/Lotus/Language/Duviri/DuviriFishAItemDesc",
@@ -1221,6 +1784,24 @@
         "icon": "/Lotus/Interface/Icons/Store/Photobooth/PhotoboothCephalon.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Game/DangerRoomTileItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda": {
+        "name": "/Lotus/Language/CapturaScenes/DangerRoomTile1999MallRotundaName",
+        "description": "/Lotus/Language/CapturaScenes/DangerRoomTile1999MallRotundaDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999MallRotunda.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard": {
+        "name": "/Lotus/Language/CapturaScenes/DangerRoomTile1999StreetCourtyardName",
+        "description": "/Lotus/Language/CapturaScenes/DangerRoomTile1999StreetCourtyardDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999StreetCourtyard.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
         "productCategory": "MiscItems",
         "excludeFromCodex": true
     },
@@ -6050,7 +6631,7 @@
     },
     "/Lotus/Types/Items/MiscItems/FormaOmega": {
         "name": "/Lotus/Language/Consumables/FormaOmegaName",
-        "description": "/Lotus/Language/Consumables/FormaOmegaDesc",
+        "description": "/Lotus/Language/Items/FormaDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/OmegaForma.png",
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/MiscItems/Forma",
@@ -7789,6 +8370,78 @@
         "productCategory": "MiscItems",
         "excludeFromCodex": true
     },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConAlleyValgumaName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConAlleyValguma.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallGrano": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConMallGranoName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallGrano.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConMallStarglaName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallStargla.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConStreetJekabpilsName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetJekabpils.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConStreetMatisaName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConJunctionMatisa.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConStreetOgresName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetOgres.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaConStreetStrencuName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetStrencu.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaIntMallArcadeName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaIntMallArcade.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothVaniaTailorShopName",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaTailorShop.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati",
+        "productCategory": "MiscItems"
+    },
     "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre": {
         "name": "/Lotus/Language/CapturaScenes/PhotoboothZarAmphitheatre",
         "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
@@ -8341,6 +8994,33 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Research/SampleBase",
         "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExArmyManWinterTennoBaumToyDeco": {
+        "name": "/Lotus/Language/ShipDecorations/LisetPropTAExArmyManWinterName",
+        "description": "/Lotus/Language/ShipDecorations/LisetPropTAExArmyManWinterDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExArmyManWinterTennoBaumToyDeco.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExPlushAstronautRayTennoBaumToyDeco": {
+        "name": "/Lotus/Language/ShipDecorations/LisetPropTAExPlushAstronautRayName",
+        "description": "/Lotus/Language/ShipDecorations/LisetPropTAExPlushAstronautRayDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExPlushAstronautRayTennoBaumToyDeco.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco": {
+        "name": "/Lotus/Language/ShipDecorations/LisetPropTAExRocketShipName",
+        "description": "/Lotus/Language/ShipDecorations/LisetPropTAExRocketShipDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExRocketShipTennoBaumToyDeco.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
     },
     "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinBlack": {
         "name": "/Lotus/Language/ShipDecorations/LisetPropGreedCoinBlackName",
@@ -9712,6 +10392,15 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophy1999Bronze": {
+        "name": "/Lotus/Language/ShipDecorations/PlanetTrophy1999BronzeName",
+        "description": "/Lotus/Language/ShipDecorations/PlanetTrophy1999BronzeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/PlanetTrophy/1999TrophyBronze.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze": {
         "name": "/Lotus/Language/ShipDecorations/PlanetTrophyCeresBronzeName",
         "description": "/Lotus/Language/ShipDecorations/PlanetTrophyCeresBronzeDesc",
@@ -10112,6 +10801,22 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAmir": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyAmirName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyAmirDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAmir.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyAoiName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyAoiDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAoi.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur": {
         "name": "/Lotus/Language/ShipDecorations/PlushyArthurName",
         "description": "/Lotus/Language/ShipDecorations/PlushyArthurDesc",
@@ -10188,6 +10893,14 @@
         "name": "/Lotus/Language/ShipDecorations/PlushyDesertSkateName",
         "description": "/Lotus/Language/ShipDecorations/PlushyDesertSkateDesc",
         "icon": "/Lotus/Interface/Icons/Store/Plushies/Theme/PlushyDesertSkate.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyEleanorName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyEleanorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyEleanor.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
@@ -10296,6 +11009,14 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyLettieName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyLettieDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLettie.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus": {
         "name": "/Lotus/Language/ShipDecorations/PlushyLotusName",
         "description": "/Lotus/Language/ShipDecorations/PlushyLotusDesc",
@@ -10372,6 +11093,14 @@
         "name": "/Lotus/Language/SolarisVenus/PlushyPobbersUncommonDirtyName",
         "description": "/Lotus/Language/SolarisVenus/PlushyPobbersUncommonDirtyDesc",
         "icon": "/Lotus/Interface/Icons/Store/Plushies/Theme/PlushyPobberUncommonDirty.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyQuincyName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyQuincyDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyQuincy.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
@@ -12375,6 +13104,14 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/Albrecht2in1Display": {
+        "name": "/Lotus/Language/ShipDecorations/Albrecht2in1DisplayName",
+        "description": "/Lotus/Language/ShipDecorations/Albrecht2in1DisplayDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Albrecht2in1Display.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase",
+        "productCategory": "ShipDecorations"
+    },
     "/Lotus/Types/Items/ShipDecos/AlbrechtPortrait": {
         "name": "/Lotus/Language/ShipDecorations/AlbrechtPortraitPosterName",
         "description": "/Lotus/Language/ShipDecorations/AlbrechtPortraitPosterDesc",
@@ -12853,6 +13590,38 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead": {
+        "name": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksAnnaKiName",
+        "description": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksAnnaKiDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksAnnaKiBobbleHead.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead": {
+        "name": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksJillianName",
+        "description": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksJillianDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksJillianBobbleHead.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead": {
+        "name": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksLillianName",
+        "description": "/Lotus/Language/ShipDecorations/BobbleheadCaliberChicksLillianDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksLillianBobbleHead.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/CaliberChicksPoster": {
+        "name": "/Lotus/Language/ShipDecorations/CaliberChicksPosterName",
+        "description": "/Lotus/Language/ShipDecorations/CaliberChicksPosterDesc",
+        "icon": "/Lotus/Objects/CaliberChicks/CaliberChicksPoster.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
     "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament": {
         "name": "/Lotus/Language/ShipDecorations/OrnamentCephalonSudaName",
         "description": "/Lotus/Language/ShipDecorations/OrnamentCephalonSudaDesc",
@@ -13232,6 +14001,14 @@
         "name": "/Lotus/Language/Fragments/CorpusGreedReliefKName",
         "description": "/Lotus/Language/Fragments/CorpusGreedReliefKDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Reliefs/CorpusGreedReliefK.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco": {
+        "name": "/Lotus/Language/ShipDecorations/Cyte09ExaltedSniperShipDecoName",
+        "description": "/Lotus/Language/ShipDecorations/Cyte09ExaltedSniperShipDecoDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/ExaltedSniperShipDeco.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
@@ -14357,6 +15134,14 @@
         "name": "/Lotus/Language/ShipDecorations/LisetPropCleaningDroneBeachcomberName",
         "description": "/Lotus/Language/ShipDecorations/LisetPropCleaningDroneBeachcomberDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneBeachcomber.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks": {
+        "name": "/Lotus/Language/ShipDecorations/LisetPropCleaningDroneCaliberChicksName",
+        "description": "/Lotus/Language/ShipDecorations/LisetPropCleaningDroneCaliberChicksDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneCaliberChicks.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
@@ -15880,6 +16665,14 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/TarotCardCyte": {
+        "name": "/Lotus/Language/Tarot/TarotCardCyteName",
+        "description": "/Lotus/Language/Tarot/TarotCardCyteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardCyte.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations"
+    },
     "/Lotus/Types/Items/ShipDecos/TarotCardDagath": {
         "name": "/Lotus/Language/Tarot/TarotCardDagathName",
         "description": "/Lotus/Language/Tarot/TarotCardDagathDesc",
@@ -17269,7 +18062,7 @@
     },
     "/Lotus/Types/Items/ShipFeatureItems/ModsTransmuteFeatureItem": {
         "name": "/Lotus/Language/ShipFeatureItems/ShipFeatureModsTransmute",
-        "description": "/Lotus/Language/ShipFeatureItems/ModsTransmuteFeatureItemDesc",
+        "description": "",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/LisetCartridge.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
@@ -17699,6 +18492,148 @@
         "excludeFromCodex": true,
         "showInInventory": false
     },
+    "/Lotus/Types/Items/SongItems/CC16BitGirlsSongItem": {
+        "name": "/Lotus/Language/Fragments/16BitGirlsSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem": {
+        "name": "/Lotus/Language/Fragments/AnnaKiGOBSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCAnnaKiPunkSongItem": {
+        "name": "/Lotus/Language/Fragments/AnnaKiPunkSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCBizMarqueBopSongItem": {
+        "name": "/Lotus/Language/Fragments/BizMarqueBopSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem": {
+        "name": "/Lotus/Language/Fragments/IWannaBeYourGOBSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCKickOutTheGunsSongItem": {
+        "name": "/Lotus/Language/Fragments/KickOutTheGunsSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCLundoraCallingSongItem": {
+        "name": "/Lotus/Language/Fragments/LundoraCallingSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CCPsychoKillianSongItem": {
+        "name": "/Lotus/Language/Fragments/PsychoKillianSongName",
+        "description": "/Lotus/Language/Fragments/CaliberChicksSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CorpusLichLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/CorpusLichLoginSongName",
+        "description": "/Lotus/Language/Fragments/CorpusLichLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/CorpusRailjackLoginSongName",
+        "description": "/Lotus/Language/Fragments/CorpusRailjackLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/DanteUnboundLoginSongName",
+        "description": "/Lotus/Language/Fragments/DanteUnboundLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/DeadlockLoginSongName",
+        "description": "/Lotus/Language/Fragments/DeadlockLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/DeimosLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/DeimosLoginSongName",
+        "description": "/Lotus/Language/Fragments/DeimosLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/DuviriKullervoLoginSongName",
+        "description": "/Lotus/Language/Fragments/DuviriKullervoLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/DuviriLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/DuviriLoginSongName",
+        "description": "/Lotus/Language/Fragments/DuviriLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
     "/Lotus/Types/Items/SongItems/EmpyreanSongItem": {
         "name": "/Lotus/Language/Fragments/EmpyreanLoginSongName",
         "description": "/Lotus/Language/Fragments/EmpyreanLoginSongDesc",
@@ -17754,6 +18689,16 @@
         "productCategory": "MiscItems",
         "showInInventory": false
     },
+    "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/JadeShadowsLoginSongName",
+        "description": "/Lotus/Language/Fragments/JadeShadowsLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
     "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem": {
         "name": "/Lotus/Language/Fragments/KhoraPrimeSongName",
         "description": "/Lotus/Language/Fragments/KhoraPrimeSongDesc",
@@ -17761,6 +18706,16 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Game/SongItem",
         "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/KuvaLichLoginSongName",
+        "description": "/Lotus/Language/Fragments/KuvaLichLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
         "showInInventory": false
     },
     "/Lotus/Types/Items/SongItems/LotusEatersSongItem": {
@@ -17809,6 +18764,105 @@
         "productCategory": "MiscItems",
         "showInInventory": false
     },
+    "/Lotus/Types/Items/SongItems/OnlyneArsenalSongItem": {
+        "name": "/Lotus/Language/Fragments/ArsenalSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneCoreContainmentSongItem": {
+        "name": "/Lotus/Language/Fragments/CoreContainmentSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneCutThroughSongItem": {
+        "name": "/Lotus/Language/Fragments/CutThroughSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneInfectionSongItem": {
+        "name": "/Lotus/Language/Fragments/InfectionSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneNumbSongItem": {
+        "name": "/Lotus/Language/Fragments/NumbSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlynePartyOfYourLifetimeSongItem": {
+        "name": "/Lotus/Language/Fragments/PartyOfYourLifetimeSongName",
+        "description": "/Lotus/Language/Fragments/OnlyneSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/OnlyneSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlynePickASideSongItem": {
+        "name": "/Lotus/Language/Fragments/PickASideSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneRottenLivesSongItem": {
+        "name": "/Lotus/Language/Fragments/RottenLivesSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneShutItDownSongItem": {
+        "name": "/Lotus/Language/Fragments/ShutItDownSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneTheCallSongItem": {
+        "name": "/Lotus/Language/Fragments/TheCallSongName",
+        "description": "/Lotus/Language/1999/MiscSongDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/OnlyneTheGreatDespairSongItem": {
+        "name": "/Lotus/Language/Fragments/TheGreatDespairSongName",
+        "description": "/Lotus/Language/Fragments/OnlyneSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/OnlyneSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "showInInventory": false
+    },
     "/Lotus/Types/Items/SongItems/ProteaPrimeSongItem": {
         "name": "/Lotus/Language/Fragments/ProteaPrimeSongName",
         "description": "/Lotus/Language/Fragments/ProteaPrimeSongDesc",
@@ -17836,6 +18890,26 @@
         "productCategory": "MiscItems",
         "showInInventory": false
     },
+    "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/TheNewWarLoginSongName",
+        "description": "/Lotus/Language/Fragments/TheNewWarLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/TheSacrificeLoginSongName",
+        "description": "/Lotus/Language/Fragments/TheSacrificeLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
     "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem": {
         "name": "/Lotus/Language/Fragments/VaubanPrimeSongName",
         "description": "/Lotus/Language/Fragments/VaubanPrimeSongDesc",
@@ -17845,6 +18919,46 @@
         "productCategory": "MiscItems",
         "showInInventory": false
     },
+    "/Lotus/Types/Items/SongItems/VeilbreakerLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/VeilbreakerLoginSongName",
+        "description": "/Lotus/Language/Fragments/VeilbreakerLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/VenusOrbVallisLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/VenusOrbVallisLoginSongName",
+        "description": "/Lotus/Language/Fragments/VenusOrbVallisLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/VoidEclipseLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/VoidEclipseLoginSongName",
+        "description": "/Lotus/Language/Fragments/VoidEclipseLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/WhispersInTheWallLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/WhispersInTheWallsLoginSongName",
+        "description": "/Lotus/Language/Fragments/WhispersInTheWallsLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/WhispersInTheWallSongItemStoreItem.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
+        "showInInventory": false
+    },
     "/Lotus/Types/Items/SongItems/WispPrimeSongItem": {
         "name": "/Lotus/Language/Fragments/WispPrimeSongName",
         "description": "/Lotus/Language/Fragments/WispPrimeSongDesc",
@@ -17852,6 +18966,16 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Game/SongItem",
         "productCategory": "MiscItems",
+        "showInInventory": false
+    },
+    "/Lotus/Types/Items/SongItems/ZarimanLoginSongItem": {
+        "name": "/Lotus/Language/Fragments/ZarimanLoginSongName",
+        "description": "/Lotus/Language/Fragments/ZarimanLoginSongDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/AngelsOfTheZarimanSongItemStoreIcon.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Game/SongItem",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true,
         "showInInventory": false
     },
     "/Lotus/Types/Items/SyndicateDogTags/ArbitersDogTag": {
@@ -18881,6 +20005,30 @@
     "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameSystemsComponent": {
         "name": "/Lotus/Language/WarframeCrafting/CraftingComponent_ConcreteFrameSystemsName",
         "description": "/Lotus/Language/WarframeCrafting/CraftingComponent_ConcreteFrameSystemsDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeSystem.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent": {
+        "name": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09ChassisName",
+        "description": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09ChassisDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeChassis.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent": {
+        "name": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09HelmetName",
+        "description": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09HelmetDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+        "productCategory": "MiscItems"
+    },
+    "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent": {
+        "name": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09SystemsName",
+        "description": "/Lotus/Language/WarframeCrafting/CraftingComponent_Cyte09SystemsDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeSystem.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
@@ -22750,6 +23898,33 @@
         "productCategory": "MiscItems",
         "primeSellingPrice": 45
     },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel": {
+        "name": "/Lotus/Language/CraftingComponents/LasSilencedPistolBarrel",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver": {
+        "name": "/Lotus/Language/CraftingComponents/LasSilencedPistolReceiver",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock": {
+        "name": "/Lotus/Language/CraftingComponents/LasSilencedPistolStock",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel": {
         "name": "/Lotus/Language/Menu/CraftingComponent_LatoVandalBarrel",
         "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
@@ -24238,6 +25413,33 @@
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
         "productCategory": "MiscItems"
     },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel": {
+        "name": "/Lotus/Language/CraftingComponents/TnBeltFedRifleBarrel",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver": {
+        "name": "/Lotus/Language/CraftingComponents/TnBeltFedRifleReceiver",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock": {
+        "name": "/Lotus/Language/CraftingComponents/TnBeltFedRifleStock",
+        "description": "/Lotus/Language/CraftingComponents/NonPrimeWeaponCraftingComponentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "productCategory": "MiscItems",
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunBarrel": {
         "name": "/Lotus/Language/Weapons/CraftingComponent_TnConcreteArchgunBarrel",
         "description": "/Lotus/Language/CraftingComponents/NonPrimeArchWeaponCraftingComponentDesc",
@@ -24630,18 +25832,18 @@
         "primeSellingPrice": 45
     },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA": {
-        "name": "/Lotus/Language/PrimeStore/MPVLastChanceTileName",
-        "description": "/Lotus/Language/PrimeStore/MPVLastChanceTileDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/LastChance.png",
+        "name": "/Lotus/Language/PrimePacks/MPVLastChanceRotationName",
+        "description": "/Lotus/Language/PrimeStore/MPVPostEventTitleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Varzia.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
         "excludeFromCodex": true
     },
     "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemB": {
-        "name": "/Lotus/Language/PrimeStore/MPVLastChance2TileName",
-        "description": "/Lotus/Language/PrimeStore/MPVLastChance2TileDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/LastChance.png",
+        "name": "/Lotus/Language/PrimePacks/MPVPart2RotationName",
+        "description": "/Lotus/Language/PrimeStore/MPVPostEventTitleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Varzia.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
         "productCategory": "MiscItems",

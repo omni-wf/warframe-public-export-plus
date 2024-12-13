@@ -709,7 +709,7 @@
         "codexSecret": false,
         "masteryReq": 0,
         "sprintSpeed": 1.1,
-        "passiveDescription": "/Lotus/Language/Primes/TrinityPrimePassiveAbility",
+        "passiveDescription": "/Lotus/Language/Suits/TrinityPassiveAbility",
         "abilities": [
             {
                 "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
@@ -2958,7 +2958,7 @@
         "codexSecret": false,
         "masteryReq": 0,
         "sprintSpeed": 1.125,
-        "passiveDescription": "/Lotus/Language/Primes/NyxPrimePassiveAbility",
+        "passiveDescription": "/Lotus/Language/Suits/NyxPassiveAbility",
         "abilities": [
             {
                 "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
@@ -2986,8 +2986,7 @@
                 "name": "/Lotus/Language/Suits/AbsorbAbilityName",
                 "description": "/Lotus/Language/Suits/AbsorbAbilityDesc",
                 "icon": "/Lotus/Interface/Icons/Abilities/NyxAbsorb.png",
-                "energyRequiredToActivate": 25,
-                "energyConsumptionOverTime": 4
+                "energyRequiredToActivate": 75
             }
         ],
         "productCategory": "Suits"
@@ -3033,8 +3032,7 @@
                 "name": "/Lotus/Language/Suits/AbsorbAbilityName",
                 "description": "/Lotus/Language/Suits/AbsorbAbilityDesc",
                 "icon": "/Lotus/Interface/Icons/Abilities/NyxAbsorb.png",
-                "energyRequiredToActivate": 25,
-                "energyConsumptionOverTime": 4
+                "energyRequiredToActivate": 75
             }
         ],
         "productCategory": "Suits"
@@ -3647,6 +3645,55 @@
                 "description": "/Lotus/Language/Suits/GarudaUnstopplableAbilityDesc",
                 "icon": "/Lotus/Interface/Icons/Abilities/GarudaBoneZone.png",
                 "energyRequiredToActivate": 100
+            }
+        ],
+        "productCategory": "Suits"
+    },
+    "/Lotus/Powersuits/Frumentarius/Frumentarius": {
+        "name": "/Lotus/Language/Suits/FrumentariusSuitName",
+        "parentName": "/Lotus/Powersuits/Frumentarius/FrumentariusBaseSuit",
+        "description": "/Lotus/Language/Suits/FrumentariusSuitDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png",
+        "health": 225,
+        "shield": 135,
+        "armor": 150,
+        "stamina": 3,
+        "power": 180,
+        "codexSecret": false,
+        "masteryReq": 0,
+        "sprintSpeed": 1.1,
+        "passiveDescription": "/Lotus/Language/Suits/FrumentariusPassiveDesc",
+        "exalted": [
+            "/Lotus/Powersuits/Frumentarius/ExaltedSniper"
+        ],
+        "abilities": [
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+                "name": "/Lotus/Language/Suits/FrumentariusScanAbilityName",
+                "description": "/Lotus/Language/Suits/FrumentariusScanAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/FrumentariusSeek.png",
+                "energyRequiredToActivate": 25
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+                "name": "/Lotus/Language/Suits/FrumentariusAmmoAbilityName",
+                "description": "/Lotus/Language/Suits/FrumentariusAmmoAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/FrumentariusResupply.png",
+                "energyRequiredToActivate": 50
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+                "name": "/Lotus/Language/Suits/FrumentariusCloakAbilityName",
+                "description": "/Lotus/Language/Suits/FrumentariusCloakAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/FrumentariusEvade.png",
+                "energyRequiredToActivate": 75
+            },
+            {
+                "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+                "name": "/Lotus/Language/Suits/FrumentariusSniperAbilityName",
+                "description": "/Lotus/Language/Suits/FrumentariusSniperAbilityDesc",
+                "icon": "/Lotus/Interface/Icons/Abilities/FrumentariusNeutralize.png",
+                "energyRequiredToActivate": 5
             }
         ],
         "productCategory": "Suits"

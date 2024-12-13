@@ -1761,6 +1761,228 @@
             }
         ]
     },
+    "/Lotus/Types/StoreItems/Packages/1999CaliberChicksBundle": {
+        "name": "/Lotus/Language/Bundles/1999CaliberChicksBundleName",
+        "description": "/Lotus/Language/Bundles/1999CaliberChicksBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Misc/1999CaliberChicksBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/CaliberChicksJillianBandana",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/CaliberChicksLillianEyepatch",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hair/HairCaliberChicksJillian",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hair/HairCaliberChicksLillian",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/CaliberChicks/CaliberChicksIgnisSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CaliberChicksArmour/CaliberChicksArmourA",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/CaliberChicksPoster",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 470
+    },
+    "/Lotus/Types/StoreItems/Packages/1999FloofBundle": {
+        "name": "/Lotus/Language/Bundles/1999FloofBundleName",
+        "description": "/Lotus/Language/Bundles/1999FloofBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/ShipDecos/1999FloofBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyAoi",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyArthur",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyQuincy",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyAmir",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyLettie",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 170
+    },
+    "/Lotus/Types/StoreItems/Packages/1999OperatorCosmeticsBundle": {
+        "name": "/Lotus/Language/Bundles/1999OperatorCosmeticsBundleName",
+        "description": "/Lotus/Language/Bundles/1999OperatorCosmeticsBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Operator/1999OperatorCosmeticsBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeAAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeBAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeCAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccBEar",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccCEar",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 365
+    },
+    "/Lotus/Types/StoreItems/Packages/2024Bundles/Cyte09SupporterPack": {
+        "name": "/Lotus/Language/Bundles/Cyte09SupPackName",
+        "description": "/Lotus/Language/Bundles/Cyte09SupPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/Cyte09PackMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/WarframeBundles/Cyte09ItemsBundle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 1
+    },
     "/Lotus/Types/StoreItems/Packages/2024Bundles/DanteChroniclesPack": {
         "name": "/Lotus/Language/Bundles/DanteChroniclesPackBundleName",
         "description": "/Lotus/Language/Bundles/DanteChroniclesPackBundleDesc",
@@ -1851,6 +2073,37 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sigils/HeirloomEmberSigil",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 1
+    },
+    "/Lotus/Types/StoreItems/Packages/2024Bundles/GeminiHexCompleteSupporterPack": {
+        "name": "/Lotus/Language/Bundles/GeminiHexCompSupPackName",
+        "description": "/Lotus/Language/Bundles/GeminiHexCompSupPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/GeminiHexCompletePackMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/GeminiSkins1999Bundle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/WarframeBundles/Cyte09ItemsBundle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 1
+    },
+    "/Lotus/Types/StoreItems/Packages/2024Bundles/GeminiSkinsSupporterPack": {
+        "name": "/Lotus/Language/Bundles/GeminiSkinsSupPackName",
+        "description": "/Lotus/Language/Bundles/GeminiSkinsSupPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/GeminiSkinsPackMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Packages/GeminiSkins1999Bundle",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             }
@@ -2004,6 +2257,44 @@
             }
         ]
     },
+    "/Lotus/Types/StoreItems/Packages/2025Bundles/RhinoHeirloomPack": {
+        "name": "/Lotus/Language/Bundles/RhinoHeirloomPackName",
+        "description": "/Lotus/Language/Bundles/RhinoHeirloomPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/RhinoHeirloomMarketTile.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/TarotCardRhinoHeirloom",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/HeirloomRhinoGlyph",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerRhinoHeirloom",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomRhinoCrown",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHeirloomSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sigils/HeirloomRhinoSigil",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 1
+    },
     "/Lotus/Types/StoreItems/Packages/AcolyteNoggleBundle": {
         "name": "/Lotus/Language/Items/AcolyteNoggleBundleName",
         "description": "/Lotus/Language/Items/AcolyteNoggleBundleDesc",
@@ -2123,6 +2414,67 @@
         ],
         "premiumPrice": 130
     },
+    "/Lotus/Types/StoreItems/Packages/AdultOperatorSuitAthleticBundle": {
+        "name": "/Lotus/Language/Bundles/AdultOperatorAthleticBundleName",
+        "description": "/Lotus/Language/Bundles/AdultOperatorAthleticBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Operator/AdultSuitAthleticBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 100
+    },
+    "/Lotus/Types/StoreItems/Packages/AdultOperatorSuitGothBundle": {
+        "name": "/Lotus/Language/Bundles/AdultOperatorGothBundleName",
+        "description": "/Lotus/Language/Bundles/AdultOperatorGothBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Operator/AdultSuitGothBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 110
+    },
     "/Lotus/Types/StoreItems/Packages/AdultOperatorSuitGrineerBundle": {
         "name": "/Lotus/Language/Bundles/AdultOperatorSuitGrineerBundleName",
         "description": "/Lotus/Language/Bundles/AdultOperatorSuitGrineerBundleDesc",
@@ -2156,6 +2508,39 @@
             }
         ],
         "premiumPrice": 110
+    },
+    "/Lotus/Types/StoreItems/Packages/AdultOperatorSuitGrungeBundle": {
+        "name": "/Lotus/Language/Bundles/AdultOperatorGrungeBundleName",
+        "description": "/Lotus/Language/Bundles/AdultOperatorGrungeBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Operator/AdultSuitGrungeBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 130
     },
     "/Lotus/Types/StoreItems/Packages/AdultOperatorSuitOutfit1ABundle": {
         "name": "/Lotus/Language/Bundles/AdultOperatorSuitOutfit1ABundleName",
@@ -3138,6 +3523,42 @@
             {
                 "typeName": "/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem",
                 "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleLarge": {
+        "name": "/Lotus/Language/1999/CalendarKuvaBundleLargeName",
+        "description": "/Lotus/Language/Items/KuvaDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Currency/Kuva.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "purchaseQuantity": 6000,
+                "durability": "COMMON"
+            }
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/Calendar/CalendarKuvaBundleSmall": {
+        "name": "/Lotus/Language/1999/CalendarKuvaBundleSmallName",
+        "description": "/Lotus/Language/Items/KuvaDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Currency/Kuva.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "purchaseQuantity": 2000,
+                "durability": "COMMON"
+            }
+        ]
+    },
+    "/Lotus/Types/StoreItems/Packages/Calendar/CalendarVosforPack": {
+        "name": "/Lotus/Language/1999/CalendarVosforPackName",
+        "description": "/Lotus/Language/1999/CalendarVosforPackDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/DistillPoints.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/DistillPoints",
+                "purchaseQuantity": 200,
                 "durability": "COMMON"
             }
         ]
@@ -6324,6 +6745,28 @@
         ],
         "premiumPrice": 1
     },
+    "/Lotus/Types/StoreItems/Packages/EpicWeaponSkinBundle": {
+        "name": "/Lotus/Language/Bundles/EpicWeaponSkinBundleName",
+        "description": "/Lotus/Language/Bundles/EpicWeaponSkinBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Weapons/EpicWeaponSkinBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/StahltaShockRifleSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/OgrisRocketLauncherSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/DrakgoonFlakCannonSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ]
+    },
     "/Lotus/Types/StoreItems/Packages/EquinoxDeluxeSkinBundle": {
         "name": "/Lotus/Language/Bundles/EquinoxDeluxeSkinBundleName",
         "description": "/Lotus/Language/Bundles/EquinoxDeluxeSkinBundleDesc",
@@ -7394,6 +7837,44 @@
             }
         ],
         "premiumPrice": 160
+    },
+    "/Lotus/Types/StoreItems/Packages/GeminiSkins1999Bundle": {
+        "name": "/Lotus/Language/Bundles/GeminiSkins1999BundleName",
+        "description": "/Lotus/Language/Bundles/GeminiSkins1999BundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Skins/GeminiSkinBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburLasriaSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Mag/WF1999MagSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Volt/WF1999VoltSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Jade/WF1999NyxSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Trinity/WF1999TrinitySkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Frumentarius/WF1999FrumentariusSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 1200
     },
     "/Lotus/Types/StoreItems/Packages/GenericRenownPack": {
         "name": "/Lotus/Language/Bundles/RenownGenericPackName",
@@ -18994,6 +19475,49 @@
             }
         ]
     },
+    "/Lotus/Types/StoreItems/Packages/MotorcycleSkins1999Bundle": {
+        "name": "/Lotus/Language/Bundles/MotorcycleSkins1999BundleName",
+        "description": "/Lotus/Language/Bundles/MotorcycleSkins1999BundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Misc/1999MotorcycleBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 320
+    },
     "/Lotus/Types/StoreItems/Packages/NecramechEssentialModBundle": {
         "name": "/Lotus/Language/Bundles/NecramechEssentialModBundleName",
         "description": "/Lotus/Language/Bundles/NecramechEssentialModBundleDesc",
@@ -20293,24 +20817,6 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Upgrades/Skins/Ornate/OrnateVectis",
-                "purchaseQuantity": 1,
-                "durability": "COMMON"
-            }
-        ]
-    },
-    "/Lotus/Types/StoreItems/Packages/OrokinReactorAndCatalystBundle": {
-        "name": "/Lotus/Language/Items/OrokinReactorAndCatalystName",
-        "description": "/Lotus/Language/Items/OrokinReactorAndCatalystDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/ComponentCatalystReactorCombo.png",
-        "excludeFromCodex": true,
-        "components": [
-            {
-                "typeName": "/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint",
-                "purchaseQuantity": 1,
-                "durability": "COMMON"
-            },
-            {
-                "typeName": "/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             }
@@ -25468,29 +25974,6 @@
             }
         ]
     },
-    "/Lotus/Types/StoreItems/Packages/Tennocon2018ArmourBundle": {
-        "name": "/Lotus/Language/Bundles/Tennocon2018ArmourBundleName",
-        "description": "/Lotus/Language/Bundles/Tennocon2018ArmourBundleDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Armour/Tennocon2018ArmourBundle.png",
-        "components": [
-            {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorA",
-                "purchaseQuantity": 1,
-                "durability": "COMMON"
-            },
-            {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorC",
-                "purchaseQuantity": 1,
-                "durability": "COMMON"
-            },
-            {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorL",
-                "purchaseQuantity": 1,
-                "durability": "COMMON"
-            }
-        ],
-        "premiumPrice": 100
-    },
     "/Lotus/Types/StoreItems/Packages/Tennocon2019ArmourBundle": {
         "name": "/Lotus/Language/Bundles/Tennocon2019ArmourBundleName",
         "description": "/Lotus/Language/Bundles/Tennocon2019ArmourBundleName",
@@ -25805,6 +26288,47 @@
             }
         ],
         "premiumPrice": 1
+    },
+    "/Lotus/Types/StoreItems/Packages/TennoGen1999BundleA": {
+        "name": "/Lotus/Language/Bundles/TennoGen1999Bundle1Name",
+        "description": "/Lotus/Language/Bundles/TennoGenBundleGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/TennoGen/TennogenBundle1999A.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SWButterflyEyeAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 55
+    },
+    "/Lotus/Types/StoreItems/Packages/TennoGen1999BundleB": {
+        "name": "/Lotus/Language/Bundles/TennoGen1999Bundle2Name",
+        "description": "/Lotus/Language/Bundles/TennoGenBundleGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/TennoGen/TennogenBundle1999B.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SW1999F19CondrocEarsAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SWMillenniumVisorFacialAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/SWChoroidEyeAcc",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 85
     },
     "/Lotus/Types/StoreItems/Packages/TennoGenBundleA": {
         "name": "/Lotus/Language/Bundles/TennoGenBundleAName",
@@ -30440,6 +30964,49 @@
         ],
         "premiumPrice": 740
     },
+    "/Lotus/Types/StoreItems/Packages/WarframeBundles/Cyte09ItemsBundle": {
+        "name": "/Lotus/Language/Bundles/Cyte09ItemsBundleName",
+        "description": "/Lotus/Language/Bundles/Cyte09ItemsBundleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/WarframeBundles/Cyte09ItemsBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Powersuits/Frumentarius/Frumentarius",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Frumentarius/FrumentariusAltHelmet",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sigils/Cyte09Sigil",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 600
+    },
     "/Lotus/Types/StoreItems/Packages/WarframeBundles/DagathItemsBundle": {
         "name": "/Lotus/Language/Bundles/DagathItemsBundleName",
         "description": "/Lotus/Language/Bundles/DagathItemsBundleDesc",
@@ -31485,6 +32052,28 @@
             }
         ],
         "premiumPrice": 110
+    },
+    "/Lotus/Types/StoreItems/Packages/WinterSolsticeArcaArmourBundle": {
+        "name": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourBundleName",
+        "description": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Armour/WinterSolsticeArcaArmourBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorA",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorC",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorL",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ]
     },
     "/Lotus/Types/StoreItems/Packages/WispBundle": {
         "name": "/Lotus/Language/Bundles/WispBundleName",

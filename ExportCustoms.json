@@ -1098,6 +1098,12 @@
         "description": "/Lotus/Language/Cosmetics/BillowingArmourDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/BillowingLArmour.png"
     },
+    "/Lotus/Upgrades/Skins/Armor/CaliberChicksArmour/CaliberChicksArmourA": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksShoulderName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksShoulderDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CaliberChicksArmourA.png"
+    },
     "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA": {
         "name": "/Lotus/Language/Cosmetics/CephArmorAName",
         "codexSecret": false,
@@ -1239,6 +1245,27 @@
         "excludeFromCodex": true,
         "description": "/Lotus/Language/Cosmetics/CrpHighArmorDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CrpHighArmorL.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourA": {
+        "name": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourAName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourA.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourC": {
+        "name": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourCName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourC.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourL": {
+        "name": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourLName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Seasonal/WinterSolsticeArcaArmourDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourL.png"
     },
     "/Lotus/Upgrades/Skins/Armor/CrpIndexTwo/CrpIndexTwoAArmor": {
         "name": "/Lotus/Language/Items/CrpIndexTwoArmArmourName",
@@ -4110,6 +4137,18 @@
         "description": "/Lotus/Language/Primes/XakuPrimeDefaultSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/XakuPrime.png"
     },
+    "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksBratonSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksBratonSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksBratonSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksIgnisSkin": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksIgnisSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksIgnisSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksIgnisSkin.png"
+    },
     "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo": {
         "name": "/Lotus/Language/Items/GrineerCamoTwinVipersName",
         "codexSecret": false,
@@ -4493,6 +4532,13 @@
         "description": "/Lotus/Language/Cosmetics/ScarletSpearSpaceIIIEmblemDesc",
         "icon": "/Lotus/Interface/Quests/ScarletSpear/ScarletSpearMedallionsSpace3.png"
     },
+    "/Lotus/Upgrades/Skins/Clan/1999CommunityARGBadgeItem": {
+        "name": "/Lotus/Language/Cosmetics/1999CommunityARGEmblemName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Cosmetics/1999CommunityARGEmblemDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/1999CommunityARGEmblem.png"
+    },
     "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem": {
         "name": "/Lotus/Language/Items/AggressionEventCorpusBadgeName",
         "codexSecret": false,
@@ -4576,6 +4622,13 @@
         "description": "/Lotus/Language/Cosmetics/CNY2023EmblemDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Emblems/Cny2023RabbitEmblem.png"
     },
+    "/Lotus/Upgrades/Skins/Clan/CNY2025SnakeEmblem": {
+        "name": "/Lotus/Language/Seasonal/CNY2025SnakeEmblemName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Seasonal/CNY2025SnakeEmblemDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/Cny2025SnakeEmblem.png"
+    },
     "/Lotus/Upgrades/Skins/Clan/CY17173MediaBadge": {
         "name": "/Lotus/Language/Changyou/CY17173BadgeName",
         "codexSecret": false,
@@ -4610,6 +4663,12 @@
         "excludeFromCodex": true,
         "description": "/Lotus/Language/Changyou/CYPlayBadgeDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Emblems/CYPlayBadge.png"
+    },
+    "/Lotus/Upgrades/Skins/Clan/CaliberChicksCorgiEmblemItem": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksCorgiEmblemName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksCorgiEmblemDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emblems/CaliberChicksCorgi.png"
     },
     "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem": {
         "name": "/Lotus/Language/Items/ClanEmblemName",
@@ -7014,6 +7073,12 @@
         "description": "/Lotus/Language/Items/SWROneExcaliburHelmetDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SWROneExcaliburHelmet.png"
     },
+    "/Lotus/Upgrades/Skins/Excalibur/ExcaliburLasriaSkin": {
+        "name": "/Lotus/Language/Skins/ExcaliburLasriaSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/ExcaliburLasriaSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999ExcaliburSkin.png"
+    },
     "/Lotus/Upgrades/Skins/Excalibur/ExcaliburNobleAnims": {
         "name": "/Lotus/Language/Items/ExcaliburNobleAnims",
         "codexSecret": false,
@@ -7697,6 +7762,66 @@
         "codexSecret": false,
         "description": "/Lotus/Language/SteamWorkshop/FrostSummitHelmetDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrostSummitHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAgileAnims": {
+        "name": "/Lotus/Language/Cosmetics/FrumentariusAgileAnims",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Cosmetics/FrumentariusAgileAnimsDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusAgile.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakA": {
+        "name": "/Lotus/Language/ItemDescription/InvisibilityOverrideAName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/ItemDescription/InvisibilityOverrideADesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusA.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakB": {
+        "name": "/Lotus/Language/ItemDescription/InvisibilityOverrideBName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/ItemDescription/InvisibilityOverrideBDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusB.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltHelmet": {
+        "name": "/Lotus/Language/Suits/FrumentariusAltHelmetName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Suits/FrumentariusAltHelmetDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusAltHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusHelmet": {
+        "name": "/Lotus/Language/Suits/FrumentariusHelmetName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Suits/FrumentariusHelmetDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusNobleAnims": {
+        "name": "/Lotus/Language/Cosmetics/FrumentariusNobleAnims",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Cosmetics/FrumentariusNobleAnimsDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusNoble.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusSkin": {
+        "name": "/Lotus/Language/Suits/FrumentariusDefaultSkinName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Suits/FrumentariusDefaultSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusAuxHat": {
+        "name": "/Lotus/Language/Skins/WF1999FrumentariusHatName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/WF1999FrumentariusHatDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999FrumentariusHat.png"
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusSkin": {
+        "name": "/Lotus/Language/Skins/WF1999FrumentariusSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/WF1999FrumentariusSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999FrumentariusSkin.png"
     },
     "/Lotus/Upgrades/Skins/Garuda/GarudaAgileAnims": {
         "name": "/Lotus/Language/Cosmetics/GarudaAgileAnims",
@@ -9909,6 +10034,12 @@
         "description": "/Lotus/Language/SteamWorkshop/SWTechnopsycheSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/NyxSWTechnopsyche.png"
     },
+    "/Lotus/Upgrades/Skins/Jade/WF1999NyxSkin": {
+        "name": "/Lotus/Language/Skins/WF1999NyxSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/WF1999NyxSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999NyxSkin.png"
+    },
     "/Lotus/Upgrades/Skins/KDrive/KDriveVelocipodRareSkin": {
         "name": "/Lotus/Language/Skins/KDriveVelocipodRareSkinName",
         "codexSecret": false,
@@ -10813,6 +10944,12 @@
         "description": "/Lotus/Language/Skins/XakuDeluxeLotusSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/LotusSkins/XakuDeluxeLotusSkin.png"
     },
+    "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin": {
+        "name": "/Lotus/Language/Seasonal/CNY2025ScytheSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/CNY2025ScytheSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/Halloween2024HateSkin.png"
+    },
     "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil": {
         "name": "/Lotus/Language/Sigils/LNY2024DragonSigilName",
         "codexSecret": false,
@@ -11138,6 +11275,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/SWToroidalMagHelmetDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SteamToroidalMagHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Mag/WF1999MagSkin": {
+        "name": "/Lotus/Language/Skins/WF1999MagSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/WF1999MagSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999MagSkin.png"
     },
     "/Lotus/Upgrades/Skins/Magician/LimboDeluxeHelmet": {
         "name": "/Lotus/Language/Skins/LimboDeluxeHelmetName",
@@ -11735,6 +11878,73 @@
         "description": "/Lotus/Language/Cosmetics/WukongPrimeDefaultSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/WukongPrime.png"
     },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleColourShiftSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleColourShiftSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleColourShiftSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleDefaultSkinName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/MotorcycleDefaultSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleDefaultSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleFlamesSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleFlamesSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleFlamesSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleGraffitiSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleGraffitiSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleGraffitiSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleLightsSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleLightsSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleLightsSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleMedicSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleMedicSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMedicSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleMonsterSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleMonsterSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMonsterSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleNakedBikeSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleNakedBikeSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleNakedBikeSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleNakedSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleRacingSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleRacingSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRacingSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRustSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleRustSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleRustSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRustSkin.png"
+    },
+    "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin": {
+        "name": "/Lotus/Language/Skins/MotorcycleTennoSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/MotorcycleTennoSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleTennoSkin.png"
+    },
     "/Lotus/Upgrades/Skins/Mustache/Stache": {
         "name": "/Lotus/Language/Items/MoustacheGentleman",
         "codexSecret": true,
@@ -12061,13 +12271,6 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/SWRThreeLazarusHelmetDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SWRThreeLazarusHelmet.png"
-    },
-    "/Lotus/Upgrades/Skins/Necro/SWVisceraNekrosAuxillaryScarf": {
-        "name": "/Lotus/Language/SteamWorkshop/NekrosVisceraBindsName",
-        "codexSecret": false,
-        "excludeFromCodex": true,
-        "description": "/Lotus/Language/SteamWorkshop/NekrosVisceraBindsDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/NekrosVisceraAuxillaryArmor.png"
     },
     "/Lotus/Upgrades/Skins/NewPlayerXP/NewPlayerXPBoSkin": {
         "name": "/Lotus/Language/Skins/NewPlayerXPBoSkinName",
@@ -12617,6 +12820,18 @@
         "description": "/Lotus/Language/Cosmetics/OperatorVisorBaroDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/BaroVisor.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksJillianBandana": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksJillianBandanaName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksJillianBandanaDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/CaliberChicksJillianBandana.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksLillianEyepatch": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksLillianEyepatchName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksLillianEyepatchDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/CaliberChicksLillianEyepatch.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Accessories/CircletA": {
         "name": "/Lotus/Language/Items/OperatorCircletA",
         "codexSecret": false,
@@ -12720,6 +12935,12 @@
         "description": "/Lotus/Language/Items/GenericOperatorAccessoryDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/NoraEarpiece.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory": {
+        "name": "/Lotus/Language/Operator/OperatorGothFaceAccessoryName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGothFaceAccessoryDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/GothFaceAccessory.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorNefAnyoMask": {
         "name": "/Lotus/Language/Cosmetics/OperatorNefAnyoMaskName",
         "codexSecret": false,
@@ -12762,6 +12983,42 @@
         "description": "/Lotus/Language/Cosmetics/RevDeluxeOperatorAccDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/RevenantDeluxeMask.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999F19CondrocEarsAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SW1999F19CondrocEarsAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/SteamWorkshop/SW1999F19CondrocEarsAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWF19CondrocEar.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccBEar": {
+        "name": "/Lotus/Language/Operator/1999Y2kAccBEarName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorDrifterAccessoryDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarB.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccCEar": {
+        "name": "/Lotus/Language/Operator/1999Y2kAccCEarName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorDrifterAccessoryDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarC.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeAAcc": {
+        "name": "/Lotus/Language/Operator/1999Y2kEyeAAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorDrifterAccessoryDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeA.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeBAcc": {
+        "name": "/Lotus/Language/Operator/1999Y2kEyeBAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorDrifterAccessoryDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeB.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeCAcc": {
+        "name": "/Lotus/Language/Operator/1999Y2kEyeCAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/GenericOperatorDrifterAccessoryDescription",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeC.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Accessories/SWAuresCrownFacialAcc": {
         "name": "/Lotus/Language/SteamWorkshop/SWAuresFaceAccessoryName",
         "codexSecret": false,
@@ -12780,17 +13037,49 @@
         "description": "/Lotus/Language/SteamWorkshop/SWBlazeEyeAccDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWBlazeOculusEyepiece.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWButterflyEyeAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWButterflyEyeAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/SteamWorkshop/SWButterflyEyeAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWButterflyEye.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Accessories/SWCaeruleaVisorEyeAcc": {
         "name": "/Lotus/Language/SteamWorkshop/SWCaeruleaVisorName",
         "codexSecret": false,
         "description": "/Lotus/Language/SteamWorkshop/SWCaeruleaVisorDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Tennogen/Operator/Eyepiece/SWCaeruleaVisor.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWChoroidEyeAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWChoroidEyeAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/SteamWorkshop/SWChoroidEyeAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWChoroidEye.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Accessories/SWCorailDiademFacialAcc": {
         "name": "/Lotus/Language/SteamWorkshop/SWCorailDiademName",
         "codexSecret": false,
         "description": "/Lotus/Language/SteamWorkshop/SWCorailDiademDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWCorailDiadem.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarLAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarLAccName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarRAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarRAccName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/SteamWorkshop/SWFrameFriendEarAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuEarAcc": {
         "name": "/Lotus/Language/SteamWorkshop/SWGarasuEarAccessoryName",
@@ -12839,6 +13128,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/SteamWorkshop/SWLumisEyeAccessoryDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWLumisEyepiece.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWMillenniumVisorFacialAcc": {
+        "name": "/Lotus/Language/SteamWorkshop/SWMillenniumVisorFacialAccName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/SteamWorkshop/SWMillenniumVisorFacialAccDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWMilleniumVisor.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Accessories/SWOptimaEyeAcc": {
         "name": "/Lotus/Language/SteamWorkshop/SWOptimaEyeAccessoryName",
@@ -13294,6 +13589,12 @@
         "description": "/Lotus/Language/Operator/DrifterArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultArabic.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic": {
+        "name": "/Lotus/Language/Operator/BodySuitDrifterAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultC": {
         "name": "/Lotus/Language/Cosmetics/BodySuitAdultCName",
         "codexSecret": false,
@@ -13360,6 +13661,12 @@
         "description": "/Lotus/Language/Operator/AdultGDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultG.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge": {
+        "name": "/Lotus/Language/Operator/BodySuitDrifterGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ": {
         "name": "/Lotus/Language/Operator/AdultBodyJName",
         "codexSecret": false,
@@ -13389,6 +13696,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/NovaEngineerBodyDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/NovaEngineerBody.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/BodySuitDrifterGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOutfit1A": {
         "name": "/Lotus/Language/Operator/BodySuitAdultOutfit1AName",
@@ -13439,6 +13752,12 @@
         "description": "/Lotus/Language/Operator/OperatorArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitArabic.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic": {
+        "name": "/Lotus/Language/Operator/BodySuitOperatorAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitB": {
         "name": "/Lotus/Language/Items/OperatorBodySuitB",
         "codexSecret": false,
@@ -13478,6 +13797,12 @@
         "description": "/Lotus/Language/Operator/OperatorDexDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/DexBody.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge": {
+        "name": "/Lotus/Language/Operator/BodySuitOperatorGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitInfestedA": {
         "name": "/Lotus/Language/Operator/BodysuitInfestedName",
         "codexSecret": false,
@@ -13513,6 +13838,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/SuitODesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitO.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/BodySuitOperatorGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit1A": {
         "name": "/Lotus/Language/Operator/BodySuitOperatorOutfit1AName",
@@ -13671,6 +14002,18 @@
         "excludeFromCodex": true,
         "description": "/Lotus/Language/Items/GenericOperatorHairDescription",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairC.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksJillian": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksJillianHairName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksJillianHairDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairJillian.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksLillian": {
+        "name": "/Lotus/Language/Cosmetics/CaliberChicksLillianHairName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Cosmetics/CaliberChicksLillianHairDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairLillian.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Hair/HairD": {
         "name": "",
@@ -14337,6 +14680,12 @@
         "description": "/Lotus/Language/Operator/AdultGDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultG.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge": {
+        "name": "/Lotus/Language/Operator/HoodDrifterGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ": {
         "name": "/Lotus/Language/Operator/AdultHoodJName",
         "codexSecret": false,
@@ -14360,6 +14709,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/NovaEngineerHoodDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodNovaEngineer.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/HoodDrifterGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOutfit1A": {
         "name": "/Lotus/Language/Operator/HoodAdultOutfit1AName",
@@ -14467,6 +14822,12 @@
         "description": "/Lotus/Language/Operator/HoodDuviriChildDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodDuviri.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge": {
+        "name": "/Lotus/Language/Operator/HoodOperatorGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodInfestedA": {
         "name": "/Lotus/Language/Operator/HoodInfestedName",
         "codexSecret": false,
@@ -14508,6 +14869,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/SuitODesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodO.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/HoodOperatorGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit1A": {
         "name": "/Lotus/Language/Operator/HoodOperatorOutfit1AName",
@@ -14609,6 +14976,12 @@
         "description": "/Lotus/Language/Operator/DrifterArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultArabic.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic": {
+        "name": "/Lotus/Language/Operator/LeggingsDrifterAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultC": {
         "name": "/Lotus/Language/Cosmetics/LeggingsAdultCName",
         "codexSecret": false,
@@ -14675,6 +15048,12 @@
         "description": "/Lotus/Language/Operator/AdultGDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultG.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge": {
+        "name": "/Lotus/Language/Operator/LeggingsDrifterGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ": {
         "name": "/Lotus/Language/Operator/AdultLeggingsJName",
         "codexSecret": false,
@@ -14704,6 +15083,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/NovaEngineerLeggingsDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/NovaEngineerLeggings.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/LeggingsDrifterGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOutfit1A": {
         "name": "/Lotus/Language/Operator/LeggingsAdultOutfit1AName",
@@ -14754,6 +15139,12 @@
         "description": "/Lotus/Language/Operator/OperatorArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/ArabicLegs.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic": {
+        "name": "/Lotus/Language/Operator/LeggingsOperatorAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsB": {
         "name": "/Lotus/Language/Items/OperatorLeggingsB",
         "codexSecret": false,
@@ -14793,6 +15184,12 @@
         "description": "/Lotus/Language/Operator/OperatorDexDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/DexLegs.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge": {
+        "name": "/Lotus/Language/Operator/LeggingsOperatorGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsInfestedA": {
         "name": "/Lotus/Language/Operator/LeggingsInfestedName",
         "codexSecret": false,
@@ -14828,6 +15225,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/SuitODesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/SuitOLegs.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/LeggingsOperatorGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit1A": {
         "name": "/Lotus/Language/Operator/LeggingsOperatorOutfit1AName",
@@ -14889,6 +15292,12 @@
         "description": "/Lotus/Language/Operator/DrifterArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultArabic.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic": {
+        "name": "/Lotus/Language/Operator/SkirtDrifterAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultC": {
         "name": "/Lotus/Language/Cosmetics/SkirtAdultCName",
         "codexSecret": false,
@@ -14925,6 +15334,12 @@
         "description": "/Lotus/Language/Operator/AdultGDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultG.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge": {
+        "name": "/Lotus/Language/Operator/SkirtDrifterGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ": {
         "name": "/Lotus/Language/Operator/AdultSkirtJName",
         "codexSecret": false,
@@ -14955,6 +15370,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/OperatorArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/ArabicHip.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic": {
+        "name": "/Lotus/Language/Operator/SkirtOperatorAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAthletic.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtB": {
         "name": "/Lotus/Language/Items/OperatorSkirtB",
@@ -14997,6 +15418,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/MageArmourHipDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/MageArmourHip.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge": {
+        "name": "/Lotus/Language/Operator/SkirtOperatorGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtGrunge.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ": {
         "name": "/Lotus/Language/Operator/ApparatistArmourHipName",
@@ -15052,6 +15479,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/DrifterArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultArabic.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic": {
+        "name": "/Lotus/Language/Operator/SleevesDrifterAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultAthletic.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultC": {
         "name": "/Lotus/Language/Cosmetics/SleevesAdultCName",
@@ -15119,6 +15552,12 @@
         "description": "/Lotus/Language/Operator/AdultGDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultG.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge": {
+        "name": "/Lotus/Language/Operator/SleevesDrifterGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ": {
         "name": "/Lotus/Language/Operator/AdultSleevesJName",
         "codexSecret": false,
@@ -15148,6 +15587,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/NovaEngineerSleevesDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/NovaEngineerArms.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/SleevesDrifterGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOutfit1A": {
         "name": "/Lotus/Language/Operator/SleevesAdultOutfit1AName",
@@ -15198,6 +15643,12 @@
         "description": "/Lotus/Language/Operator/OperatorArabicDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesArabic.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic": {
+        "name": "/Lotus/Language/Operator/SleevesOperatorAthleticName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorAthleticDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAthletic.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesB": {
         "name": "/Lotus/Language/Items/OperatorSleevesB",
         "codexSecret": false,
@@ -15237,6 +15688,12 @@
         "description": "/Lotus/Language/Operator/OperatorDexDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesDex.png"
     },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge": {
+        "name": "/Lotus/Language/Operator/SleevesOperatorGrungeName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGrungeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGrunge.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesInfestedA": {
         "name": "/Lotus/Language/Operator/SleevesInfestedName",
         "codexSecret": false,
@@ -15272,6 +15729,12 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/SuitODesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SuitOSleeves.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth": {
+        "name": "/Lotus/Language/Operator/SleevesOperatorGothName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/OperatorGothDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGoth.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit1A": {
         "name": "/Lotus/Language/Operator/SleevesOperatorOutfit1AName",
@@ -15466,6 +15929,30 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Operator/DrifterTattooLoveRoseDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooLoveRose.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoB": {
+        "name": "/Lotus/Language/Operator/DrifterTattooTennoBName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterTattooGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoB.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoC": {
+        "name": "/Lotus/Language/Operator/DrifterTattooTennoCName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterTattooGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoC.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoD": {
+        "name": "/Lotus/Language/Operator/DrifterTattooTennoDName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterTattooGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoD.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoF": {
+        "name": "/Lotus/Language/Operator/DrifterTattooTennoFName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Operator/DrifterTattooGenericDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoF.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoG": {
         "name": "/Lotus/Language/Operator/DrifterTattooTennoGName",
@@ -16463,6 +16950,24 @@
         "description": "/Lotus/Language/Skins/TennobaumAtomosSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/SolsticeAtomos.png"
     },
+    "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBoltor": {
+        "name": "/Lotus/Language/Seasonal/TennobaumBoltorName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/TennobaumBoltorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumBoltor.png"
+    },
+    "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBrokenWar": {
+        "name": "/Lotus/Language/Seasonal/TennobaumBrokenWarName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/TennobaumBrokenWarDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/TennobaumBrokenWar.png"
+    },
+    "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCantare": {
+        "name": "/Lotus/Language/Seasonal/TennobaumCantareName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/TennobaumCantareDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumCantare.png"
+    },
     "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCycronSkin": {
         "name": "/Lotus/Language/Skins/TennobaumCycronSkinName",
         "codexSecret": false,
@@ -16486,6 +16991,18 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Skins/TennobaumGramSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/SolsticeGram.png"
+    },
+    "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumOcucor": {
+        "name": "/Lotus/Language/Seasonal/TennobaumOcucorName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/TennobaumOcucorDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumOcucor.png"
+    },
+    "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumParis": {
+        "name": "/Lotus/Language/Seasonal/TennobaumParisName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Seasonal/TennobaumParisDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumParis.png"
     },
     "/Lotus/Upgrades/Skins/Promo/Twitch/AkjagaraIridosSkin": {
         "name": "/Lotus/Language/Skins/AkjagaraIridosSkinName",
@@ -17508,13 +18025,6 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/RhinoPrimeHelmetDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/RhinoPrimeHelmet.png"
-    },
-    "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeSkin": {
-        "name": "/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinName",
-        "codexSecret": false,
-        "excludeFromCodex": true,
-        "description": "/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Primes/RhinoPrime.png"
     },
     "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkin": {
         "name": "/Lotus/Language/Items/RubedoSkinRhinoName",
@@ -20502,6 +21012,36 @@
         "description": "/Lotus/Language/Sigils/EntratiRankSigilDesc",
         "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel2.png"
     },
+    "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive": {
+        "name": "/Lotus/Language/Sigils/HexRankFiveSigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/HexRankSigilDesc",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel5.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour": {
+        "name": "/Lotus/Language/Sigils/HexRankFourSigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/HexRankSigilDesc",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel4.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne": {
+        "name": "/Lotus/Language/Sigils/HexRankOneSigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/HexRankSigilDesc",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel1.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree": {
+        "name": "/Lotus/Language/Sigils/HexRankThreeSigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/HexRankSigilDesc",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel3.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo": {
+        "name": "/Lotus/Language/Sigils/HexRankTwoSigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/HexRankSigilDesc",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel2.png"
+    },
     "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFive": {
         "name": "/Lotus/Language/Sigils/HoldfastsRankFiveSigilName",
         "codexSecret": false,
@@ -20914,6 +21454,12 @@
         "description": "/Lotus/Language/Sigils/CorpusLichSigilDesc",
         "icon": "/Lotus/Interface/Icons/Sigils/CorpusLichSigil.png"
     },
+    "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil": {
+        "name": "/Lotus/Language/Sigils/Cyte09SigilName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Sigils/Cyte09SigilDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cyte09Sigil.png"
+    },
     "/Lotus/Upgrades/Skins/Sigils/DanteSigil": {
         "name": "/Lotus/Language/Sigils/DanteSigilName",
         "codexSecret": false,
@@ -21284,7 +21830,6 @@
     "/Lotus/Upgrades/Skins/Sigils/NWStalkerSigil": {
         "name": "/Lotus/Language/Sigils/NWStalkerSigilName",
         "codexSecret": false,
-        "excludeFromCodex": true,
         "description": "/Lotus/Language/Sigils/NWStalkerSigilDesc",
         "icon": "/Lotus/Interface/Icons/Sigils/StalkerSigil.png"
     },
@@ -22157,6 +22702,13 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Sigils/WeGameNewYearRabbitSigilDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2023RabbitSigil.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil": {
+        "name": "/Lotus/Language/Sigils/WeGameNewYearSnakeSigilName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Sigils/WeGameNewYearSnakeSigilDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2025SnakeSigil.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearTigerSigil": {
         "name": "/Lotus/Language/Sigils/WeGameNewYearTigerSigilName",
@@ -23750,6 +24302,12 @@
         "description": "/Lotus/Language/Cosmetics/TrinityDefaultSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Warframes/Trinity.png"
     },
+    "/Lotus/Upgrades/Skins/Trinity/WF1999TrinitySkin": {
+        "name": "/Lotus/Language/Skins/WF1999TrinitySkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/WF1999TrinitySkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999TrinitySkin.png"
+    },
     "/Lotus/Upgrades/Skins/Umbra/UmbraAltHelmet": {
         "name": "/Lotus/Language/Cosmetics/UmbraAltHelmetName",
         "codexSecret": false,
@@ -24161,6 +24719,19 @@
         "excludeFromCodex": true,
         "description": "/Lotus/Language/Skins/VoltTwitchSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/VoltTwitch.png"
+    },
+    "/Lotus/Upgrades/Skins/Volt/WF1999VoltAuxHat": {
+        "name": "/Lotus/Language/Skins/WF1999VoltHatName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/WF1999VoltHatDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999VoltHat.png"
+    },
+    "/Lotus/Upgrades/Skins/Volt/WF1999VoltSkin": {
+        "name": "/Lotus/Language/Skins/WF1999VoltSkinName",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Skins/WF1999VoltSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999VoltSkin.png"
     },
     "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre": {
         "name": "/Lotus/Language/Skins/BroncoSpectreName",

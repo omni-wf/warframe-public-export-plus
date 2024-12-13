@@ -23,6 +23,174 @@
         "codexSecret": true,
         "rewards": []
     },
+    "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain": {
+        "name": "/Lotus/Language/1999Quest/GoodEndKeychainName",
+        "description": "/Lotus/Language/1999Quest/GoodEndKeychainDesc",
+        "icon": "/Lotus/Interface/Quests/1999QuestKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "chainStages": [
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999PartyOfALifetimeKey",
+                "itemsToGiveWhenTriggered": [],
+                "messageToSendWhenTriggered": {
+                    "sender": "/Lotus/Language/Bosses/Arthur",
+                    "title": "/Lotus/Language/1999Quest/QuestCompGoodEndInboxSubject",
+                    "body": "/Lotus/Language/1999Quest/QuestCompGoodEndInboxBody"
+                }
+            }
+        ]
+    },
+    "/Lotus/Types/Keys/1999Quest/1999PartyOfALifetimeKey": {
+        "name": "/Lotus/Language/1999Quest/StageTwelveName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain": {
+        "name": "/Lotus/Language/1999Quest/QuestTitle",
+        "description": "/Lotus/Language/1999Quest/QuestDesc",
+        "icon": "/Lotus/Interface/Quests/1999QuestKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "chainStages": [
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999MallIntroKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999LasriaStreetsKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999QuestStage2Key",
+                "itemsToGiveWhenTriggered": [
+                    "/Lotus/StoreItems/Types/Restoratives/MotorcycleSummon",
+                    "/Lotus/StoreItems/Types/Vehicles/Motorcycle/MotorcyclePowerSuit"
+                ]
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999RideOrDie",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999QuestStage4Key",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999SporeBusters",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999QuestStage6Key",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999QuestTailorShopKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999ConvoyMission",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999QuestTailorShopKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999Zoo",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999FuturePast",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/1999Quest/1999PartyOfADeathtimeKey",
+                "itemsToGiveWhenTriggered": [
+                    "/Lotus/StoreItems/Types/Items/EmailItems/PlayableDemo1999EmailItem"
+                ],
+                "messageToSendWhenTriggered": {
+                    "sender": "/Lotus/Language/EntratiLab/EntratiGeneral/HumanLoid",
+                    "title": "/Lotus/Language/1999Quest/QuestCompBadEndInboxSubject",
+                    "body": "/Lotus/Language/1999Quest/QuestCompBadEndInboxBody"
+                }
+            }
+        ]
+    },
+    "/Lotus/Types/Keys/1999Quest/1999MallIntroKey": {
+        "name": "/Lotus/Language/1999Quest/StageZeroName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999LasriaStreetsKey": {
+        "name": "/Lotus/Language/1999Quest/StageOneName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999QuestStage2Key": {
+        "name": "/Lotus/Language/1999Quest/StageTwoName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestHubKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999RideOrDie": {
+        "name": "/Lotus/Language/1999Quest/StageThreeName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999QuestStage4Key": {
+        "name": "/Lotus/Language/1999Quest/StageFourName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestHubKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999SporeBusters": {
+        "name": "/Lotus/Language/1999Quest/StageFiveName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999QuestStage6Key": {
+        "name": "/Lotus/Language/1999Quest/StageSixName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestHubKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999QuestTailorShopKey": {
+        "name": "[HC] Entrati's Hideaway",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999ConvoyMission": {
+        "name": "/Lotus/Language/1999Quest/StageEightName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999Zoo": {
+        "name": "/Lotus/Language/1999Quest/StageTenName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999FuturePast": {
+        "name": "/Lotus/Language/1999Quest/StageElevenName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
+    "/Lotus/Types/Keys/1999Quest/1999PartyOfADeathtimeKey": {
+        "name": "/Lotus/Language/1999Quest/StageTwelveName",
+        "parentName": "/Lotus/Types/Keys/1999Quest/1999QuestBaseKey",
+        "codexSecret": true,
+        "rewards": []
+    },
     "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain": {
         "name": "/Lotus/Language/Apostasy/ApostasyKeyChainName",
         "description": "/Lotus/Language/Apostasy/ApostasyKeyChainDesc",

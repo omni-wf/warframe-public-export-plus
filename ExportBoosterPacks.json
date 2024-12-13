@@ -1,4 +1,147 @@
 {
+    "/Lotus/Types/BoosterPacks/CalendarArtifactPack": {
+        "name": "/Lotus/Language/1999/CalendarArtifactPackName",
+        "description": "/Lotus/Language/1999/CalendarArtifactPackDesc",
+        "icon": "/Lotus/Interface/Icons/Rewards/ArcaneGenericRareIcon128.png",
+        "components": [
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+                "Rarity": "RARE"
+            }
+        ],
+        "rarityWeightsPerRoll": [
+            {
+                "COMMON": 0,
+                "UNCOMMON": 0,
+                "RARE": 1,
+                "LEGENDARY": 0
+            }
+        ]
+    },
+    "/Lotus/Types/BoosterPacks/CalendarMajorArtifactPack": {
+        "name": "/Lotus/Language/1999/CalendarMajorArtifactPackName",
+        "description": "/Lotus/Language/1999/CalendarMajorArtifactPackDesc",
+        "icon": "/Lotus/Interface/Icons/Rewards/ArcaneGenericRareDoubleIcon128.png",
+        "components": [
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+                "Rarity": "RARE"
+            }
+        ],
+        "rarityWeightsPerRoll": [
+            {
+                "COMMON": 0,
+                "UNCOMMON": 0,
+                "RARE": 1,
+                "LEGENDARY": 0
+            },
+            {
+                "COMMON": 0,
+                "UNCOMMON": 0,
+                "RARE": 1,
+                "LEGENDARY": 0
+            }
+        ]
+    },
+    "/Lotus/Types/BoosterPacks/CalendarRivenPack": {
+        "name": "/Lotus/Language/Consumables/RivenModPackName",
+        "description": "/Lotus/Language/Consumables/RivenModPackDesc",
+        "icon": "/Lotus/Interface/Icons/OmegaModUnknown.png",
+        "components": [
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawMeleeRandomMod",
+                "Rarity": "COMMON"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawPistolRandomMod",
+                "Rarity": "UNCOMMON"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawRifleRandomMod",
+                "Rarity": "UNCOMMON"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawModularMeleeRandomMod",
+                "Rarity": "LEGENDARY"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawModularPistolRandomMod",
+                "Rarity": "LEGENDARY"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawShotgunRandomMod",
+                "Rarity": "RARE"
+            },
+            {
+                "Item": "/Lotus/Upgrades/Mods/Randomized/RawSentinelWeaponRandomMod",
+                "Rarity": "RARE"
+            }
+        ],
+        "rarityWeightsPerRoll": [
+            {
+                "COMMON": 0.35,
+                "UNCOMMON": 0.5,
+                "RARE": 0.08,
+                "LEGENDARY": 0.07
+            }
+        ]
+    },
     "/Lotus/Types/BoosterPacks/EntratiLabsArcanePackAlbrechtsLaboratories": {
         "name": "/Lotus/Language/Entrati/EntratiLabsArcanePackAlbrechtsLabs",
         "description": "/Lotus/Language/Entrati/EntratiLabsArcanePackContentDesc",

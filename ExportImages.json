@@ -575,6 +575,9 @@
     "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingMelee/ArchwingEventFireStatusMeleeMod.jpg": {
         "contentHash": "00_dQ0MDA7JsLaHjGLZx9zT+A"
     },
+    "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingMelee/ArchwingEventMagneticCritDamageMeleeMod.jpg": {
+        "contentHash": "00_0aiibKfaQSPQqS2iNML2rA"
+    },
     "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingMelee/ArchwingEventToxinStatusMeleeMod.jpg": {
         "contentHash": "00_SZiZq1+gXl0ox-YybPVEQg"
     },
@@ -634,6 +637,9 @@
     },
     "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingRifle/ArchwingEventFireStatusRifleMod.jpg": {
         "contentHash": "00_iWzkC3uQFHx9UI9hVOTT7g"
+    },
+    "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingRifle/ArchwingEventMagneticFireRateRifleMod.jpg": {
+        "contentHash": "00_q6iVdIBk6t8ZyVQHWShxbg"
     },
     "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingRifle/ArchwingEventToxinStatusRifleMod.jpg": {
         "contentHash": "00_VQRk1xnr9++eYn2s4yoApQ"
@@ -752,11 +758,17 @@
     "/Lotus/Interface/Cards/Images/Auras/FairyQuestStandUnited.jpg": {
         "contentHash": "00_YecXij-02JYur6IILItPwg"
     },
+    "/Lotus/Interface/Cards/Images/Auras/PlayerCompanionSummonDamageAuraMod.jpg": {
+        "contentHash": "00_W-towRtFNC2aSPxSaxULyw"
+    },
     "/Lotus/Interface/Cards/Images/Auras/PlayerEnergyHealthRegenAuraMod.jpg": {
         "contentHash": "00_H9f-0+UH93dKq5rLTXn2Hg"
     },
     "/Lotus/Interface/Cards/Images/Auras/PlayerMeleeStartingComboAuraMod.jpg": {
         "contentHash": "00_y0g6CFeN0gZqZ3v9Wbx9xw"
+    },
+    "/Lotus/Interface/Cards/Images/Auras/PlayerWeakpointCriticalChanceAuraMod.jpg": {
+        "contentHash": "00_LMBmLAHjDy0HX890tW7B0w"
     },
     "/Lotus/Interface/Cards/Images/Auras/WarframeAuraBladedRestraintMod.jpg": {
         "contentHash": "00_k-N1FqstWp4-BpfHMi9yLg"
@@ -1292,6 +1304,9 @@
     "/Lotus/Interface/Cards/Images/Kubrow/KubrowLifeLink.jpg": {
         "contentHash": "00_sJsGr64TKVLOVe7TnRppqQ"
     },
+    "/Lotus/Interface/Cards/Images/Kubrow/KubrowMagneticEventMeleeMod.jpg": {
+        "contentHash": "00_6TfeF+37p9v9B3IWuF63mg"
+    },
     "/Lotus/Interface/Cards/Images/Kubrow/KubrowModFinisherDamage.jpg": {
         "contentHash": "00_z-HUi78F7fFkVxvLJo5XpQ"
     },
@@ -1300,6 +1315,9 @@
     },
     "/Lotus/Interface/Cards/Images/Kubrow/KubrowPackLeader.jpg": {
         "contentHash": "00_4JcMaWXx+pwpeq8rpaQCNw"
+    },
+    "/Lotus/Interface/Cards/Images/Kubrow/KubrowRadiationEventMeleeMod.jpg": {
+        "contentHash": "00_UrtTDuGSirjmj4RFsKT8UA"
     },
     "/Lotus/Interface/Cards/Images/Kubrow/KubrowRetrieve.jpg": {
         "contentHash": "00_FHN2nxR69KIo7rMKbbx6Rw"
@@ -1384,6 +1402,9 @@
     },
     "/Lotus/Interface/Cards/Images/Melee/JatKittagNightwatchMod.jpg": {
         "contentHash": "00_SxyZ1aWebAcvPvq9MFx45w"
+    },
+    "/Lotus/Interface/Cards/Images/Melee/MagneticAttackSpeedMeleeMod.jpg": {
+        "contentHash": "00_2HgnRs01hFXh+JZfWRRxMw"
     },
     "/Lotus/Interface/Cards/Images/Melee/MeleeArmorPiercingDamageMod.jpg": {
         "contentHash": "00_iS844BX2lEebsLG8cSneWQ"
@@ -2066,6 +2087,9 @@
     "/Lotus/Interface/Cards/Images/Pistol/CritDamageWhileAiming.jpg": {
         "contentHash": "00_527IP-9smE8izKKbxpw9UQ"
     },
+    "/Lotus/Interface/Cards/Images/Pistol/CriticalDamagePunchThroughMod.jpg": {
+        "contentHash": "00_Rx5Fvzc2qvzqzDaiBrGIFw"
+    },
     "/Lotus/Interface/Cards/Images/Pistol/DualStatFireProcPistol.jpg": {
         "contentHash": "00_AU7-nDk77erjaqMvStbfMg"
     },
@@ -2101,6 +2125,9 @@
     },
     "/Lotus/Interface/Cards/Images/Pistol/ImpactDamagePistolMod.jpg": {
         "contentHash": "00_TydavNM8+YkxdBn3XKMqKg"
+    },
+    "/Lotus/Interface/Cards/Images/Pistol/MagneticCritDamagePistolMod.jpg": {
+        "contentHash": "00_Ft014lO94tfd5ZxOe5AY7g"
     },
     "/Lotus/Interface/Cards/Images/Pistol/MagnusNightwaveMod.jpg": {
         "contentHash": "00_tbquLldAHHMgQceoYgMSPw"
@@ -2200,6 +2227,9 @@
     },
     "/Lotus/Interface/Cards/Images/Pistol/WeaponProjectileSpeedPistolMod.jpg": {
         "contentHash": "00_5mzJW4Y-dVFuFqVMahbUqA"
+    },
+    "/Lotus/Interface/Cards/Images/Pistol/WeaponWeakpointCriticalChanceMod.jpg": {
+        "contentHash": "00_VLKbsGCWl31vstqrtpxsuQ"
     },
     "/Lotus/Interface/Cards/Images/PvP/Augments/AntiMatterAugment.jpg": {
         "contentHash": "00_KZp6NEMi-h-07iYw4OnbYw"
@@ -2888,6 +2918,9 @@
     "/Lotus/Interface/Cards/Images/Rifle/JumpRefreshOnKillRifleMod.jpg": {
         "contentHash": "00_IwqYUPMyvo9lOKwo4euRuA"
     },
+    "/Lotus/Interface/Cards/Images/Rifle/MagneticClipRifleMod.jpg": {
+        "contentHash": "00_0tJnFSeJx4n8Exe-yIyVIg"
+    },
     "/Lotus/Interface/Cards/Images/Rifle/OgrisNightwatchMod.jpg": {
         "contentHash": "00_sY5KDT4EfOKKWDAoTrl0xA"
     },
@@ -3002,6 +3035,9 @@
     "/Lotus/Interface/Cards/Images/Rifle/WeaponBleedOnImpactProcRifleMod.jpg": {
         "contentHash": "00_F00EOGNgR2T2npg7oxCo+w"
     },
+    "/Lotus/Interface/Cards/Images/Rifle/WeaponDamageAmountInvisibleMod.jpg": {
+        "contentHash": "00_SPFVjdyGi6Ny+iQT7RdOeA"
+    },
     "/Lotus/Interface/Cards/Images/Rifle/WeaponFactionDamageMurmurs.jpg": {
         "contentHash": "00_NpeJWOsJhW+O1E7d+hrnVg"
     },
@@ -3016,6 +3052,9 @@
     },
     "/Lotus/Interface/Cards/Images/Rifle/WeaponSpreadFreezeProcsMod.jpg": {
         "contentHash": "00_gQ07ZCYgfRONB5bE40SruQ"
+    },
+    "/Lotus/Interface/Cards/Images/Rifle/WeaponWeakpointCriticalChanceMod.jpg": {
+        "contentHash": "00_sKkNx8QS5fztCSYjcq0hCg"
     },
     "/Lotus/Interface/Cards/Images/SentinelShieldingPrecept.jpg": {
         "contentHash": "00_iaDIgOr58cUsd7MKXaukQg"
@@ -3356,6 +3395,9 @@
     "/Lotus/Interface/Cards/Images/Shotgun/ImpactDamageShotgunMod.jpg": {
         "contentHash": "00_THDldRGKc2kP31uRjL74Rw"
     },
+    "/Lotus/Interface/Cards/Images/Shotgun/MagneticFireRateShotgunMod.jpg": {
+        "contentHash": "00_r5xlda3j4Hbl85kncERo7g"
+    },
     "/Lotus/Interface/Cards/Images/Shotgun/PoisonDamageShotgunMod.jpg": {
         "contentHash": "00_+5AyfFX4H1IQajY7ndBj9w"
     },
@@ -3430,6 +3472,9 @@
     },
     "/Lotus/Interface/Cards/Images/Shotgun/StatusChanceWhileAiming.jpg": {
         "contentHash": "00_k730llmsKpwbqV246OYj4Q"
+    },
+    "/Lotus/Interface/Cards/Images/Shotgun/WeaponMagneticOnImpactShotgunMod.jpg": {
+        "contentHash": "00_OEP9uMmdo-NFQhm6xjuuWg"
     },
     "/Lotus/Interface/Cards/Images/Shotgun/WeaponNoiseReductionMod.jpg": {
         "contentHash": "00_kodj-gTvZVHdcznmWkha2g"
@@ -3890,6 +3935,12 @@
     "/Lotus/Interface/Graphics/Cursors/CursorLineStyle9.png": {
         "contentHash": "00_LCE3N4LeTflDI-SAtIdW1Q"
     },
+    "/Lotus/Interface/Graphics/Cursors/CursorRetro.png": {
+        "contentHash": "00_11BbeY68HcM7bsRiKuW+vg"
+    },
+    "/Lotus/Interface/Graphics/Cursors/CursorThrowback.png": {
+        "contentHash": "00_tKMCutzU7NuwlNMHkRs9MQ"
+    },
     "/Lotus/Interface/Graphics/Cursors/CursorYareli.png": {
         "contentHash": "00_ZsACsiUfbq-8bVUiayKBkw"
     },
@@ -4186,6 +4237,18 @@
     },
     "/Lotus/Interface/Icons/Abilities/FrostSnowGlobe.png": {
         "contentHash": "00_sjFbN7s4zfIUmzoyoL9HpA"
+    },
+    "/Lotus/Interface/Icons/Abilities/FrumentariusEvade.png": {
+        "contentHash": "00_rTOxvtwtUSPxPiGMNMnEww"
+    },
+    "/Lotus/Interface/Icons/Abilities/FrumentariusNeutralize.png": {
+        "contentHash": "00_v4uK3NOTQPyX-XUGwHxb4w"
+    },
+    "/Lotus/Interface/Icons/Abilities/FrumentariusResupply.png": {
+        "contentHash": "00_CMV2p-LEbq6C5gnNzNV+Bw"
+    },
+    "/Lotus/Interface/Icons/Abilities/FrumentariusSeek.png": {
+        "contentHash": "00_LXLSMARaMjuy3AqpvMbU5w"
     },
     "/Lotus/Interface/Icons/Abilities/GarudaBloodSunder.png": {
         "contentHash": "00_LzKU+4QXZt4QGHUlPb02yg"
@@ -5029,6 +5092,30 @@
     },
     "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDH.png": {
         "contentHash": "00_oMK3CXCDLuNiGuahSSC3xg"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDI.png": {
+        "contentHash": "00_yd7VHJvRwxEGdeslHUDVTw"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDK.png": {
+        "contentHash": "00_pxFHR1YEKqu9gQEUsKH88A"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDL.png": {
+        "contentHash": "00_B2Oek7joCNZv97DCqhF09w"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDM.png": {
+        "contentHash": "00_W6KnK2OVzmX54w78Tv0nVA"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDN.png": {
+        "contentHash": "00_60v+gjJRJyOtelgHsvP3VA"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDO.png": {
+        "contentHash": "00_3D+2S6TtmKQyP8-qCqoGuQ"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDP.png": {
+        "contentHash": "00_HGREMoMGzfTTZqK1Mo3fHA"
+    },
+    "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDQ.png": {
+        "contentHash": "00_+rYZgryTvNHdBdWTQ7KHZg"
     },
     "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionGas.png": {
         "contentHash": "00_dd4YyJhErYEy67CA3R1A2w"
@@ -6017,11 +6104,20 @@
     "/Lotus/Interface/Icons/Player/AmirAccoladeGlyph.png": {
         "contentHash": "00_yzbA8EY0CjNJ0KMpQhD3hg"
     },
+    "/Lotus/Interface/Icons/Player/AmirPixelGlyph.png": {
+        "contentHash": "00_YM14yufwLCiU8eYzLAHIfw"
+    },
     "/Lotus/Interface/Icons/Player/AoiAccoladeGlyph.png": {
         "contentHash": "00_clO9daUXNOA7SxQBRSJphw"
     },
+    "/Lotus/Interface/Icons/Player/AoiPixelGlyph.png": {
+        "contentHash": "00_ntr541WmUPdk+u15tTOEsA"
+    },
     "/Lotus/Interface/Icons/Player/ArthurAccoladeGlyph.png": {
         "contentHash": "00_hmXNM-jqtVOOq2yzTpWwmA"
+    },
+    "/Lotus/Interface/Icons/Player/ArthurPixelGlyph.png": {
+        "contentHash": "00_mSqMUmRKwYuq8rp5HdXJvg"
     },
     "/Lotus/Interface/Icons/Player/AshAvatarBright.png": {
         "contentHash": "00_mpYTV2x4Di2fciOd0KZLQw"
@@ -6266,14 +6362,26 @@
     "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png": {
         "contentHash": "00_DTiCRgqNI0cDbUM7nyq2Ew"
     },
+    "/Lotus/Interface/Icons/Player/CommunityTennobaumAoi.png": {
+        "contentHash": "00_yl84edZdQUcYpnkErUBNxg"
+    },
+    "/Lotus/Interface/Icons/Player/CommunityTennobaumCozyStalker.png": {
+        "contentHash": "00_gakgSBqXcphZjuVD1pEd2g"
+    },
     "/Lotus/Interface/Icons/Player/CommunityTennobaumFrostGlyph.png": {
         "contentHash": "00_469fpBbsqzekhm4w1xH4gw"
     },
     "/Lotus/Interface/Icons/Player/CommunityTennobaumGrimoireGlyph.png": {
         "contentHash": "00_qG9X-CTilI6P3YA-Hyu+wQ"
     },
+    "/Lotus/Interface/Icons/Player/CommunityTennobaumJade.png": {
+        "contentHash": "00_uyYHRt-cnM+x60qfFoBtoA"
+    },
     "/Lotus/Interface/Icons/Player/CommunityTennobaumKubrowGlyph.png": {
         "contentHash": "00_NGZYwL95rl+cQKJ6N0TStg"
+    },
+    "/Lotus/Interface/Icons/Player/CommunityTennobaumManintheCookie.png": {
+        "contentHash": "00_NzOMJqCovyJ6Y0vcVCSHpw"
     },
     "/Lotus/Interface/Icons/Player/CommunityTennobaumRelicGlyph.png": {
         "contentHash": "00_Gk-pNpYGVrOY+pyxrwaW+A"
@@ -6581,9 +6689,6 @@
     "/Lotus/Interface/Icons/Player/ContentCreators/Crusader.png": {
         "contentHash": "00_gOUFKBtEawwdGwQ2KKGbng"
     },
-    "/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png": {
-        "contentHash": "00_+CJdF7c0KRui1nBAsgNM6g"
-    },
     "/Lotus/Interface/Icons/Player/ContentCreators/DJTechlive.png": {
         "contentHash": "00_m5G0+9OZ4Yxk9P1ZKICY0g"
     },
@@ -6670,6 +6775,9 @@
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/ElCanaldeRow.png": {
         "contentHash": "00_dPp4FP0CMHC6xEZWs-jidw"
+    },
+    "/Lotus/Interface/Icons/Player/ContentCreators/ElDanker.png": {
+        "contentHash": "00_vlwoBxZvsYDu87i6Flj5kg"
     },
     "/Lotus/Interface/Icons/Player/ContentCreators/ElGrineerExiliado.png": {
         "contentHash": "00_QXjZpGC2vfE7vcW2TB2jHw"
@@ -7712,6 +7820,9 @@
     "/Lotus/Interface/Icons/Player/CyGlyph.png": {
         "contentHash": "00_YQhKB1EYJCRhyRbdqR+t1Q"
     },
+    "/Lotus/Interface/Icons/Player/Cyte09Glyph.png": {
+        "contentHash": "00_qjt2Ji2T1DNHNvRVMHeBog"
+    },
     "/Lotus/Interface/Icons/Player/DagathAltAvatarBright.png": {
         "contentHash": "00_QluzoDn0nr-YRrAiSIQnTA"
     },
@@ -7739,6 +7850,12 @@
     "/Lotus/Interface/Icons/Player/DiscipleBadge.png": {
         "contentHash": "00_BuzmncSMJI-7DVXqzJGWhQ"
     },
+    "/Lotus/Interface/Icons/Player/DjromHumanGlyph.png": {
+        "contentHash": "00_+nyL3hTA1P9q84W9Pi+MnQ"
+    },
+    "/Lotus/Interface/Icons/Player/DjromInfestedGlyph.png": {
+        "contentHash": "00_y+lN023LZ0xQPwzLM8bZJw"
+    },
     "/Lotus/Interface/Icons/Player/DogDays2024Glyph.png": {
         "contentHash": "00_71qRpGiaphIM9aRMjWuBbg"
     },
@@ -7757,11 +7874,20 @@
     "/Lotus/Interface/Icons/Player/DrakeRifleGlyph.png": {
         "contentHash": "00_Os+b4Tn4hbzI8+06lLygYg"
     },
+    "/Lotus/Interface/Icons/Player/DrillbitHumanGlyph.png": {
+        "contentHash": "00_rvU+cE6ZA-UZqQ04QzOgsQ"
+    },
+    "/Lotus/Interface/Icons/Player/DrillbitInfestedGlyph.png": {
+        "contentHash": "00_ejDJIheKBxDSGsaKN+wBgA"
+    },
     "/Lotus/Interface/Icons/Player/DrippyGlyph.png": {
         "contentHash": "00_ru4Qg9vHlkUcs1aViIdm1w"
     },
     "/Lotus/Interface/Icons/Player/EleanorAccoladeGlyph.png": {
         "contentHash": "00_SVkodEa3o2axl45T2NN5gQ"
+    },
+    "/Lotus/Interface/Icons/Player/EleanorPixelGlyph.png": {
+        "contentHash": "00_eLusw4MWAAtEk3tebWtIug"
     },
     "/Lotus/Interface/Icons/Player/EmberAvatarBright.png": {
         "contentHash": "00_KrwwaZT9xUYtHU1qgMYTbw"
@@ -7934,6 +8060,18 @@
     "/Lotus/Interface/Icons/Player/FrostS3AvatarDark.png": {
         "contentHash": "00_cTjPnut2NVgdqZ3UNWrZKg"
     },
+    "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarBright.png": {
+        "contentHash": "00_cIxF9Z3VLVC64BGeoYT6AA"
+    },
+    "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarDark.png": {
+        "contentHash": "00_FGrzcnqSYgO-U1MYOzmbQA"
+    },
+    "/Lotus/Interface/Icons/Player/FrumentariusAvatarBright.png": {
+        "contentHash": "00_Pv0sZDJku1BQkqzHY1CvLw"
+    },
+    "/Lotus/Interface/Icons/Player/FrumentariusAvatarDark.png": {
+        "contentHash": "00_bDb65O0feVUL+MmoXeuUuA"
+    },
     "/Lotus/Interface/Icons/Player/GalaxyGlyph.png": {
         "contentHash": "00_iHPXEs1WDNQ4kGw8LALBvA"
     },
@@ -7981,6 +8119,9 @@
     },
     "/Lotus/Interface/Icons/Player/GasMask.png": {
         "contentHash": "00_1XnUfbhtugPbGZxY6dxQkw"
+    },
+    "/Lotus/Interface/Icons/Player/GaussAccoladeGlyph.png": {
+        "contentHash": "00_0NCA9NHknIMiRGXEm2K0yQ"
     },
     "/Lotus/Interface/Icons/Player/GaussAltAvatarBright.png": {
         "contentHash": "00_q+LOs9cKgcAMBWqfxZXi3A"
@@ -8295,7 +8436,7 @@
         "contentHash": "00_bWR9MAHAfPnlXm5YjFhFjQ"
     },
     "/Lotus/Interface/Icons/Player/GrandMasterBadge.png": {
-        "contentHash": "00_pMUHh+fVTVQIntq5zLB3Sw"
+        "contentHash": "00_rwQ6S+gOg+0zSIhG6PbowQ"
     },
     "/Lotus/Interface/Icons/Player/GrendelAltAvatarBright.png": {
         "contentHash": "00_laQET8XhyYRHX5ag2ObAKQ"
@@ -8453,6 +8594,12 @@
     "/Lotus/Interface/Icons/Player/Halloween24Sister02.png": {
         "contentHash": "00_S5WinwJ4cR1qxnoGjpIyNg"
     },
+    "/Lotus/Interface/Icons/Player/HarddriveHumanGlyph.png": {
+        "contentHash": "00_zb7zV1jN8UXAS8+9JMajJw"
+    },
+    "/Lotus/Interface/Icons/Player/HarddriveInfestedGlyph.png": {
+        "contentHash": "00_3BDZRQeettyL1kRVdGReVg"
+    },
     "/Lotus/Interface/Icons/Player/HarrowAlt2HelmBright.png": {
         "contentHash": "00_RK1j+Fi5UKUWOaFepXdpVw"
     },
@@ -8499,7 +8646,7 @@
         "contentHash": "00_W5iXGAHHWzFj3jnJqKZciA"
     },
     "/Lotus/Interface/Icons/Player/HunterBadge.png": {
-        "contentHash": "00_lNEv5cmcmF5575+k+K4XnA"
+        "contentHash": "00_RvuDfPUmynRku5og3TR2ig"
     },
     "/Lotus/Interface/Icons/Player/HydroidDeluxeAvatar.png": {
         "contentHash": "00_o+UX+TfI94aKXqIGsJq3JA"
@@ -8581,6 +8728,9 @@
     },
     "/Lotus/Interface/Icons/Player/IvaraPrimeAvatarDark.png": {
         "contentHash": "00_sSYK6j-joo5l2SoJgqQ-Tw"
+    },
+    "/Lotus/Interface/Icons/Player/JadeAccoladeGlyph.png": {
+        "contentHash": "00_KYPmCTNICSlPWboAtdeclA"
     },
     "/Lotus/Interface/Icons/Player/JadeAltAvatarBright.png": {
         "contentHash": "00_4Y0sQtEPe3NELBy+MQgc1g"
@@ -8687,6 +8837,9 @@
     "/Lotus/Interface/Icons/Player/LettieAccoladeGlyph.png": {
         "contentHash": "00_abpuSInTJQ6su5R5TDZMWQ"
     },
+    "/Lotus/Interface/Icons/Player/LettiePixelGlyph.png": {
+        "contentHash": "00_-Cligx9E+eh9tZSBKI0cdw"
+    },
     "/Lotus/Interface/Icons/Player/LimboAristeasAvatarBright.png": {
         "contentHash": "00_e427hU6B+qrYZBbXE9ZpZQ"
     },
@@ -8716,6 +8869,12 @@
     },
     "/Lotus/Interface/Icons/Player/LoginGlyphC.png": {
         "contentHash": "00_P1AHRw8ATpuwBv6ALjVUlg"
+    },
+    "/Lotus/Interface/Icons/Player/LogoHumanGlyph.png": {
+        "contentHash": "00_Cle0jXknl-iTBdNwe5s0Gg"
+    },
+    "/Lotus/Interface/Icons/Player/LogoInfestedGlyph.png": {
+        "contentHash": "00_tfUCPk+o1xz2YL9WD+mEkg"
     },
     "/Lotus/Interface/Icons/Player/LokiAvatarBright.png": {
         "contentHash": "00_j78fqgn5K7M7vPPvP+WnSg"
@@ -8811,7 +8970,7 @@
         "contentHash": "00_Jow5a1WSA5sso0UB+AFR0g"
     },
     "/Lotus/Interface/Icons/Player/MasterBadge.png": {
-        "contentHash": "00_qNvNLvvuxjN+-0lUT9tn6g"
+        "contentHash": "00_jrtWygfRy6bBa2oMOUz6LQ"
     },
     "/Lotus/Interface/Icons/Player/MesaDeluxeAvatar.png": {
         "contentHash": "00_noBOhfMN2OfISl0RRRLwdw"
@@ -8824,6 +8983,39 @@
     },
     "/Lotus/Interface/Icons/Player/MesaPrimeAvatarDark.png": {
         "contentHash": "00_oZt5QPLv5MTkvID1Yw5kLw"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectA.png": {
+        "contentHash": "00_G4fmX+rnCISQnSUK0aK0rA"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectB.png": {
+        "contentHash": "00_qJKq3G8mx8HIo6UqRDny3w"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectC.png": {
+        "contentHash": "00_t0PrOmoZJfO-6UunNl16RA"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectD.png": {
+        "contentHash": "00_p91ApjvU0u9C9ZPq0udzBw"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitJillian.png": {
+        "contentHash": "00_FNwGk8TNeusfnX8iJRRyXw"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitLillian.png": {
+        "contentHash": "00_yaQCtOshdZzv6G6upQczIg"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphStickerA.png": {
+        "contentHash": "00_svKtfIHiIVc9byToCogHmw"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphStickerB.png": {
+        "contentHash": "00_Y3ByMy39dlpeHCOYeIEcSw"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphStickerC.png": {
+        "contentHash": "00_tXh9T2hVjWwJyhtESJdJog"
+    },
+    "/Lotus/Interface/Icons/Player/MinigameGlyphStickerD.png": {
+        "contentHash": "00_akqjXfoyfxa7ty9RF-dG7g"
+    },
+    "/Lotus/Interface/Icons/Player/MirageAccoladeGlyph.png": {
+        "contentHash": "00_7Q1jSJLCq5UMJX8BD4YK3A"
     },
     "/Lotus/Interface/Icons/Player/MirageAvatarBright.png": {
         "contentHash": "00_DEcOcksz603f91VyJfQErA"
@@ -9101,6 +9293,12 @@
     "/Lotus/Interface/Icons/Player/PacifistAvatarDark.png": {
         "contentHash": "00_yuAfOUr4y5dvuz2++7fsWg"
     },
+    "/Lotus/Interface/Icons/Player/PacketHumanGlyph.png": {
+        "contentHash": "00_eHdR7mZJeT--cdcV-sCWig"
+    },
+    "/Lotus/Interface/Icons/Player/PacketInfestedGlyph.png": {
+        "contentHash": "00_7FNNU-EKE932ipPbcKvFAg"
+    },
     "/Lotus/Interface/Icons/Player/PagemasterAltAvatarBright.png": {
         "contentHash": "00_VOCW9hCI6F8Vc1oqnwCJnw"
     },
@@ -9146,6 +9344,9 @@
     "/Lotus/Interface/Icons/Player/PrideGlyph2024.png": {
         "contentHash": "00_8spn7LLvdIQkkxsLBft+qg"
     },
+    "/Lotus/Interface/Icons/Player/ProteaAccoladeGlyph.png": {
+        "contentHash": "00_bkfMo1PfAV+c6hXxCdt4ng"
+    },
     "/Lotus/Interface/Icons/Player/ProteaAltAvatarBright.png": {
         "contentHash": "00_w8qYriFMRJD4a36dW5MlaQ"
     },
@@ -9190,6 +9391,9 @@
     },
     "/Lotus/Interface/Icons/Player/QuincyAccoladeGlyph.png": {
         "contentHash": "00_4N1zdMDHXmdB2a4uxsoEWg"
+    },
+    "/Lotus/Interface/Icons/Player/QuincyPixelGlyph.png": {
+        "contentHash": "00_TpuB7XAs9XqUIVj2x9tnEQ"
     },
     "/Lotus/Interface/Icons/Player/RangerAvatarBright.png": {
         "contentHash": "00_gWbMbwXOF4uvmbBs+WxCuw"
@@ -9340,6 +9544,9 @@
     },
     "/Lotus/Interface/Icons/Player/Scarab512x512.png": {
         "contentHash": "00_8dbKloLxxEifOTLvcSh30w"
+    },
+    "/Lotus/Interface/Icons/Player/SevagothAccoladeGlyph.png": {
+        "contentHash": "00_E40KBtitBbjZQbJgZmMVJA"
     },
     "/Lotus/Interface/Icons/Player/SevagothDeluxeAvatar.png": {
         "contentHash": "00_pREJ6UPLWtAIPZsCxlirSw"
@@ -9845,6 +10052,9 @@
     "/Lotus/Interface/Icons/Player/ValkyrPrimeAvatarDark.png": {
         "contentHash": "00_Xwi4qYEPzk2RnFjRViBX2g"
     },
+    "/Lotus/Interface/Icons/Player/VaubanAccoladeGlyph.png": {
+        "contentHash": "00_MDdnWhzi2m0Iqrco23fdUQ"
+    },
     "/Lotus/Interface/Icons/Player/VaubanDeluxeAvatar.png": {
         "contentHash": "00_UU6IfR6NB-1+GqfHP2fYAg"
     },
@@ -10100,6 +10310,12 @@
     "/Lotus/Interface/Icons/Player/YearOfTheRatGlyph.png": {
         "contentHash": "00_ltVvGdYHAdzHIBQmVW5pAA"
     },
+    "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyph.png": {
+        "contentHash": "00_CTvAO0T5CCng6MEv8KLCJw"
+    },
+    "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyphB.png": {
+        "contentHash": "00_mOzoKg-xzc12GQ3GPPQvEw"
+    },
     "/Lotus/Interface/Icons/Player/YoutubeCorpusGlyph.png": {
         "contentHash": "00_6UaMshLNdy1q02NivQls4A"
     },
@@ -10111,6 +10327,12 @@
     },
     "/Lotus/Interface/Icons/Player/ZarimanLogoGlyph.png": {
         "contentHash": "00_k4MsPtqy-pE5YM+vR1fj6Q"
+    },
+    "/Lotus/Interface/Icons/Player/ZekeHumanGlyph.png": {
+        "contentHash": "00_Yg5yH-BK5EGg0RggS0FV2Q"
+    },
+    "/Lotus/Interface/Icons/Player/ZekeInfestedGlyph.png": {
+        "contentHash": "00_YEcC6D2nXOXHpuH5G1R3wg"
     },
     "/Lotus/Interface/Icons/Player/ZephyrAvatarBright.png": {
         "contentHash": "00_DeIwT6nvbuvgtg4EXtpvvg"
@@ -10952,6 +11174,12 @@
     "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrostNoble.png": {
         "contentHash": "00_LiiM2iyMAoe25gCFbtplgA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusAgile.png": {
+        "contentHash": "00_oB5i8EkgRpdAzB7TopU1Og"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusNoble.png": {
+        "contentHash": "00_ae8UCUtf+DorN93HwC94pw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/AnimationSets/GarudaAgile.png": {
         "contentHash": "00_hT1xNX-PCTVHZ+xg-ODtkA"
     },
@@ -11416,6 +11644,33 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Boosters/ResourceBoosterOrangeSilver.png": {
         "contentHash": "00_XYZF6rYKHRs7X3IPAniX6A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConAlleyValguma.png": {
+        "contentHash": "00_EZbadzUZ+zbR9c7bRlwKOw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConJunctionMatisa.png": {
+        "contentHash": "00_UejY4Rugl4pbPdr4l133ug"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallGrano.png": {
+        "contentHash": "00_2BDb59FYt0bGCQ5Xk+8krg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallStargla.png": {
+        "contentHash": "00_5RyMZGFb+rl-rW4rY54C4w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetJekabpils.png": {
+        "contentHash": "00_Z123nv4S7mZQChhvYED2hw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetOgres.png": {
+        "contentHash": "00_9PmKbER1pBdn+IQArqYfWQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetStrencu.png": {
+        "contentHash": "00_f5kOMgSi2LJUuGbIOsXcaA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaIntMallArcade.png": {
+        "contentHash": "00_YzRo2inL1Cutq0s37e3bJw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaTailorShop.png": {
+        "contentHash": "00_i02HKslLvJ0cWlzXdAFxgg"
     },
     "/Lotus/Interface/Icons/StoreIcons/Captura/ArbitersContainment.png": {
         "contentHash": "00_PelBc-Y-sc7dehCYYqXacQ"
@@ -13385,6 +13640,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/BillowingLArmour.png": {
         "contentHash": "00_3e4MjSnURIyBQDq+Rfwdaw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CaliberChicksArmourA.png": {
+        "contentHash": "00_GmLNFIkzLzPIQbK2dRGhLg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CephArmorA.png": {
         "contentHash": "00_qcTOF+MjCadlxny6aDwTuw"
     },
@@ -14405,9 +14663,6 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/NekrosMortosAuxillaryArmor.png": {
         "contentHash": "00_Kg-YKiIuNowL7q16fHkpBw"
     },
-    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/NekrosVisceraAuxillaryArmor.png": {
-        "contentHash": "00_YxHrGQZ3RfqZCapogQpAVA"
-    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/RevenantMephistoSyandana.png": {
         "contentHash": "00_Rc-D2DaxNKDQjfZs7CkSSg"
     },
@@ -14441,6 +14696,15 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/XakuBrokenNever.png": {
         "contentHash": "00_8R5AQhREHaAMnjYLJpE9+w"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourA.png": {
+        "contentHash": "00_hrT9rsDctsaaq2p2A4Tvbw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourC.png": {
+        "contentHash": "00_Nz9FyL3d46TAyEEFSqpIeA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourL.png": {
+        "contentHash": "00_NpQP4Qpkm8g0t+np-yNNMw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WolfArmourA.png": {
         "contentHash": "00_ZhJZV4zFKDrJCxXUaTr7xg"
     },
@@ -14462,11 +14726,17 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/ZenurikArmourC.png": {
         "contentHash": "00_eKgtpM1pWY7TbvJ+B0ydmQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/1999CommunityARGEmblem.png": {
+        "contentHash": "00_dqA8xKRreRhKIJeY40R-gg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/CaviaEventEyeEmblem.png": {
         "contentHash": "00_strykcCWb7GtI2MfSCF66Q"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/Cny2024DragonEmblem.png": {
         "contentHash": "00_w9zf+3Nm86lYkx++NyyZCA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/Cny2025SnakeEmblem.png": {
+        "contentHash": "00_DpRJBzyYrDX0KV9+xl-YlQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/DogDays2024Emblem.png": {
         "contentHash": "00_qx2++KUZ7nAjaC6oVDpCpQ"
@@ -15019,6 +15289,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrostZastrugaHelmet.png": {
         "contentHash": "00_KrFL2J9IXNlzMC8A6TPBRA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusAltHelmet.png": {
+        "contentHash": "00_qAWWlzi3LOjH9EZoYb7yGA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusHelmet.png": {
+        "contentHash": "00_2jInS3KB45FOBA7fjIdiXQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/GaraDeluxeHelmet.png": {
         "contentHash": "00_GK38+MOC8Z4iTvZoquNxsA"
@@ -16466,6 +16742,12 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideAshB.png": {
         "contentHash": "00_GAnElHoMU+tQTbMcrKZaPQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusA.png": {
+        "contentHash": "00_LLJiz16bUrRdCyv1qdAfFA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusB.png": {
+        "contentHash": "00_ITJoIyTunpjEydwNYIUSxA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideIvaraA.png": {
         "contentHash": "00_GHsqJtTvY44NKm5vyeFpAg"
     },
@@ -16619,6 +16901,45 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/RhinoDeluxeV2Wings.png": {
         "contentHash": "00_vZPZ8ERDSzrLx413P6qmsA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999FrumentariusHat.png": {
+        "contentHash": "00_6cXFONVulXxFGeWny9C8aw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999VoltHat.png": {
+        "contentHash": "00_9NmgNpvoYG31MvI80fRtvA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleColourShiftSkin.png": {
+        "contentHash": "00_I4zkcg9etLksKQI7B9XNpw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleDefaultSkin.png": {
+        "contentHash": "00_s0OE7aXjNbNW77dtVUxzdg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleFlamesSkin.png": {
+        "contentHash": "00_C5CKDBqL8dFKG0ypu9lnSg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleGraffitiSkin.png": {
+        "contentHash": "00_Wet4gbE4NPXffeB+VT-oig"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleLightsSkin.png": {
+        "contentHash": "00_j-0Rroh4mwB4ztW8fFSSSQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMedicSkin.png": {
+        "contentHash": "00_9ZFkCLITAy1S83w5u-3kiw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMonsterSkin.png": {
+        "contentHash": "00_YtBQuo8vNQvdyNDTOYPSPg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleNakedSkin.png": {
+        "contentHash": "00_HoVvTz2XBJmP7TYAzKth5w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRacingSkin.png": {
+        "contentHash": "00_DAD-Mi31UXkxBjQSereJIQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRustSkin.png": {
+        "contentHash": "00_CgW5XHCJNWNWnLbuEJG44A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleTennoSkin.png": {
+        "contentHash": "00_00atuWyYcxwQJfsf1wPJ5Q"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Mustaches/MustacheAnvil.png": {
         "contentHash": "00_7lqumY72UdZejHhP2yMa4Q"
     },
@@ -16678,6 +16999,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2024DragonSigil.png": {
         "contentHash": "00_+Ap95ifK-rbbnXLY4mV9Cg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2025SnakeSigil.png": {
+        "contentHash": "00_5u1J5Vrv9Hf63xtJOOa-Sw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cyte09Sigil.png": {
+        "contentHash": "00_gsSNsWlfTsbqBW8Y-KsRDQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/DogDays2024Sigil.png": {
         "contentHash": "00_E9YPse1erk8U-mWm4zIkRg"
@@ -18140,6 +18467,24 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HildrynSWSigrun.png": {
         "contentHash": "00_MoRShMA3ZJ8tIchamr-5oQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999ExcaliburSkin.png": {
+        "contentHash": "00_02lNwg3BlWZxhih7AnOXRA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999FrumentariusSkin.png": {
+        "contentHash": "00_yQkB1O-WeekPwevhCaEICg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999MagSkin.png": {
+        "contentHash": "00_FMYMAtAIP1vNO2OSBLH5oA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999NyxSkin.png": {
+        "contentHash": "00_ccmxJjCFNCcAkJUGR8W4Nw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999TrinitySkin.png": {
+        "contentHash": "00_3sFMNR6Va7iToNdn6+lN6Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999VoltSkin.png": {
+        "contentHash": "00_ETnXSbxzoUClALde9Qm+Jw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HydroidDeluxe.png": {
         "contentHash": "00_etVvIiABUFJKmpERkCRbdQ"
     },
@@ -18474,7 +18819,7 @@
         "contentHash": "00_q9bn-VHnja3ZcTyFR7lOGw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/OctaviaTwitchSkin.png": {
-        "contentHash": "00_koLNLQN9RPxpslaSzD4Hyw"
+        "contentHash": "00_x5G8BMWQclFMC8EpQ1E3wQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/ProteaSWKollapsar.png": {
         "contentHash": "00_EuOrjAUNl5eQkOmJ+hoq+g"
@@ -18941,6 +19286,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Emblems/CYPlayBadge.png": {
         "contentHash": "00_XmJIz9WaBMLLbuEyKwzZeQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Emblems/CaliberChicksCorgi.png": {
+        "contentHash": "00_Vi3tgNmVxKhKSjtG02rT-g"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Emblems/ClanEmblemHolo.png": {
         "contentHash": "00_kBUjZdD0e779yNX3xVncSA"
     },
@@ -19331,6 +19679,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteKuvaFortress.png": {
         "contentHash": "00_OU94H8w462Ry7L+kdcqV0Q"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteLasria.png": {
+        "contentHash": "00_t5b1-JEOYFnvlXf1zZ6pLA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteLua.png": {
         "contentHash": "00_fZZ+W8Aozh5CW9B3p4wnhw"
     },
@@ -19381,6 +19732,24 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteZariman.png": {
         "contentHash": "00_qTlidwiV7eWnAdFNdR2JAQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiCyteEmote.png": {
+        "contentHash": "00_-mGE1jIrOkrf8sifVnKsqQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiExcaliburEmote.png": {
+        "contentHash": "00_H0dPOdKujYnPYAHi6+TvlA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiMagEmote.png": {
+        "contentHash": "00_oB7p3OX2qIqLABTAK8UmBA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiNyxEmote.png": {
+        "contentHash": "00_v09L5Fnu3dgj04SVU-wyvQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiTrinityEmote.png": {
+        "contentHash": "00_l05IC3CeynsSpQ10hhJvCw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiVoltEmote.png": {
+        "contentHash": "00_auGFKh16w2NFBOLu0zbzPw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Emotes/HeartEmoteLeft.png": {
         "contentHash": "00_IuVDy1xLFI1i2qWeLL6GJg"
@@ -20954,9 +21323,6 @@
     "/Lotus/Interface/Icons/StoreIcons/MarketBundles/GearAndResources/TotemShield.png": {
         "contentHash": "00_SI3IyNlf07Y6-vdEUWDSVw"
     },
-    "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/LastChance.png": {
-        "contentHash": "00_-C-ZSbWmKhlzZcueSJLQFA"
-    },
     "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Varzia.png": {
         "contentHash": "00_5F7sPHjfb8IXYpVsbOdf-A"
     },
@@ -21065,11 +21431,161 @@
     "/Lotus/Interface/Icons/StoreIcons/MiscItems/DistillPoints.png": {
         "contentHash": "00_H06g3MjHffl9uZ8WPqFGAw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AVReceiver.png": {
+        "contentHash": "00_WHF4q776KJHy7KtDXbt6FQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AirHockey.png": {
+        "contentHash": "00_vJbrZzv0Jqr8CiO6xQXpbA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Bicycle.png": {
+        "contentHash": "00_B3kaCMqe9uzBf6cbsEWd6A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Binder.png": {
+        "contentHash": "00_PY0xCj-2sA0MuVmSzw5WCA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Calculator.png": {
+        "contentHash": "00_uKn1K2eZwN7aVhaa2RTdsQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CardboardBox.png": {
+        "contentHash": "00_KEDJRcBPA49Hczm2TdEllw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CellPhone.png": {
+        "contentHash": "00_gRRFS1rMjVXflKHirdD7tQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeCup.png": {
+        "contentHash": "00_8ZJDA8lLnn33T8YPhYJ2Fg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeMachine.png": {
+        "contentHash": "00_vQmESaOJOTHSxp10Xbz-tA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CompactDiscC.png": {
+        "contentHash": "00_O2G-wUhacLXBGaSpr5S1eQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/DigitalPhone.png": {
+        "contentHash": "00_lmY3kvCBC2tVE88iiGfqQw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/EntratiPoster.png": {
+        "contentHash": "00_qRu2lqP6o-YVdigwQ8K0BA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FireExtinguisher.png": {
+        "contentHash": "00_ZjYBLJFzUIq6baGNMaiCNg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FloodLight.png": {
+        "contentHash": "00_dnhp6PJrQ-UxhAGgejQZpQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HardwareGPU.png": {
+        "contentHash": "00_lzO+fU+Q24zwHTao5WrbFg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HeadPhones.png": {
+        "contentHash": "00_Cz5vBgEYStA-e9ld1st86Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Highlighters.png": {
+        "contentHash": "00_Zaqf-X1cBGquH5Geyb5ZqA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanLarge.png": {
+        "contentHash": "00_Ss83Mh8OSjEOoxjaEYkSyQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanSmall.png": {
+        "contentHash": "00_yF3RzSR7l8LhGBralB6IdA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/KeyChain.png": {
+        "contentHash": "00_sjX6Oy1BWlCttXxeMvML7w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/LunchBox.png": {
+        "contentHash": "00_Y3zut3uw9Is9XyzdxcM3qA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/MedKit.png": {
+        "contentHash": "00_sVqYQEmN6cGmQ1CFOK4s1g"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microphone.png": {
+        "contentHash": "00_tmkQ0uElvoeBrerC28kyEw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microwave.png": {
+        "contentHash": "00_K9OH7561hLlIMI0tBKlgfg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mousepad.png": {
+        "contentHash": "00_M12arZw4aHWOXJuUjDWlmw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mug.png": {
+        "contentHash": "00_7biaav4SvOXdKVaRF9cevw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Notepad.png": {
+        "contentHash": "00_yHkxnjZP3Uf2HoUp6Zx6JQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/OfficePhone.png": {
+        "contentHash": "00_GYWnUocNfVHMzqtxb6OhEA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedBoomBox.png": {
+        "contentHash": "00_ScohvpalaE6HYLwoHchTXA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedGameConsole.png": {
+        "contentHash": "00_BbXkm3fzHjhCeXTVj0dq8w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedMonitor.png": {
+        "contentHash": "00_JU6f2pU1d87IT7sg0evBSQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedPortableTV.png": {
+        "contentHash": "00_D4pw5csY6GW2Tt5uxIv-Qw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedSpeaker.png": {
+        "contentHash": "00_tH7ErQkB2l82aEbfK5V8Jg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedStereoAmp.png": {
+        "contentHash": "00_u+Qt+zLI6IKBnRTFBplLkw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedVideoCamera.png": {
+        "contentHash": "00_A6gaW3XrlJPtcjMdLtjUIA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PartyHat.png": {
+        "contentHash": "00_sg8wjUBk9hrsyNE02wcIAQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pen.png": {
+        "contentHash": "00_f2uxuTYYmIiy727M1871vw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pencil.png": {
+        "contentHash": "00_Xvl0OBsKGBebqRbhE7SLiQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pillow.png": {
+        "contentHash": "00_cpCGP6R1n3LACj3pdxh14w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PizzaBox.png": {
+        "contentHash": "00_3bmTloaNhtrNjtUZisz4sw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Planter.png": {
+        "contentHash": "00_t3cco29gZ4KPy3ELQhjj8g"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PropaneGas.png": {
+        "contentHash": "00_FL5oxWI3aUiA+mhLgDoHKA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Scooter.png": {
+        "contentHash": "00_DWPHC3Q5nbb8q1Nr8my6jw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Sign.png": {
+        "contentHash": "00_4M7HHauqrLvzCieXL7+65Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/StickyNotes.png": {
+        "contentHash": "00_xaes+VjJ2HpjywJJDhrI4g"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/TelevisionA.png": {
+        "contentHash": "00_P3S+v8VN5OfjioyOrcQkkg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Toaster.png": {
+        "contentHash": "00_jMv+DzH0KAXazbaDXv6eUA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/ToasterOven.png": {
+        "contentHash": "00_NTaMSaeXHjzRwDjkhOY4Jw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/VideoCasseteA.png": {
+        "contentHash": "00_VyRCb65miGudm1kVBALmiw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/MiscItems/GrineerShackleRelease.png": {
         "contentHash": "00_eSejbvL5EGNtOn4eX-DL0w"
     },
     "/Lotus/Interface/Icons/StoreIcons/MiscItems/Icon.png": {
         "contentHash": "00_Krt4vUG2K5XEgcwE4iOqkQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/MiscItems/LoanerWeapons.png": {
+        "contentHash": "00_POVRackAj7Iswg6Fik2osQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/MiscItems/Lunaro/ArcataSkinA.png": {
         "contentHash": "00_IBUsKabmRnrfBi5W6Wsbww"
@@ -21371,6 +21887,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultArabic.png": {
         "contentHash": "00_uAB7SpytL+FtJGUY8IFQvQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultAthletic.png": {
+        "contentHash": "00_obAHUQNJp8OkeWJMy9x4OA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultC.png": {
         "contentHash": "00_CgWEA3HwHZURS72HXd7wRA"
     },
@@ -21401,8 +21920,14 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultG.png": {
         "contentHash": "00_xmi1z-S9oGWVqXItJA2Q4Q"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGoth.png": {
+        "contentHash": "00_mijczctx8Sq6tAIZAseo1A"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGrineer.png": {
         "contentHash": "00_r+AqQhK9XJNz4yxz5BkdBQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGrunge.png": {
+        "contentHash": "00_eB384aiaH8D9uT86KpwkTw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultJ.png": {
         "contentHash": "00_Jjdr1j-5GXzIjPMoDWuU6A"
@@ -21437,6 +21962,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesArabic.png": {
         "contentHash": "00_Hl-Kt-q4MsF9DMiz7RP6LA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAthletic.png": {
+        "contentHash": "00_P01Ph4SDNs79sepPP1UKOQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesB.png": {
         "contentHash": "00_pQsf4QsUymKrMJMjftN8-A"
     },
@@ -21454,6 +21982,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesDex.png": {
         "contentHash": "00_MbnCQa1kXu+yF6O79L-4lA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGoth.png": {
+        "contentHash": "00_7B9-km5pgr4fJu5tBp1YRQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGrunge.png": {
+        "contentHash": "00_vWe8HkK1c-3E7l2SM1iVgQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesPrimeA.png": {
         "contentHash": "00_EphaSCODRb8rG2Qm9bLBfw"
@@ -21590,6 +22124,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitA.png": {
         "contentHash": "00_ZJstcGRR2F+NnlzcORTlqw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultAthletic.png": {
+        "contentHash": "00_goKmjQ7GTs7dmPVwiTUCDQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultC.png": {
         "contentHash": "00_RUBhIUnIJBkX9ZblmuHFlw"
     },
@@ -21602,11 +22139,20 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultDaxB.png": {
         "contentHash": "00_rzy87DEwYydeynV7xlCZQw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGoth.png": {
+        "contentHash": "00_ZCGpSkGyQOEkL7rPeoKIFA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGrineer.png": {
         "contentHash": "00_I1vUUZQcoTd5K-kj-sLV3Q"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGrunge.png": {
+        "contentHash": "00_tYhdHqlSHITFIce21a3snA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultPrimeE.png": {
         "contentHash": "00_2M0M75R2sC0+lpyX-7Z2og"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAthletic.png": {
+        "contentHash": "00_X2Ink9l+H5PgrRXlYGZz1w"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitB.png": {
         "contentHash": "00_Jlb4-xOWqQqL0BIBJqaX6A"
@@ -21622,6 +22168,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitDaxB.png": {
         "contentHash": "00_ofd9pckZeRtotmK87PI2Uw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGoth.png": {
+        "contentHash": "00_rSkoYW+hnqhVoYZy+CqEJQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGrunge.png": {
+        "contentHash": "00_KuoV9uPK-bTlIL8e5E9ilA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitN.png": {
         "contentHash": "00_JQfwzRJ8yYgeeY2mW6eXGg"
@@ -21686,6 +22238,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultArabic.png": {
         "contentHash": "00_ISuK6J8SsVTwwzzwFHd11A"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultAthletic.png": {
+        "contentHash": "00_do5-zjjpQamelWNXt8acjQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultC.png": {
         "contentHash": "00_hvow7V0BU6sbFankSrObDA"
     },
@@ -21707,6 +22262,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultGrineer.png": {
         "contentHash": "00_h5i6wMKgYnu2uPE0AviGHg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultGrunge.png": {
+        "contentHash": "00_cOBKhk9w74IiVW6oD8Wv-Q"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultJ.png": {
         "contentHash": "00_kwNzELL1wVPq7tG9+eKggw"
     },
@@ -21719,11 +22277,17 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultPrimeC.png": {
         "contentHash": "00_BPseFTiUOinG0j7um+jWvw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAthletic.png": {
+        "contentHash": "00_rLlkG7mwqIHsFfyTXWYcPg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtB.png": {
         "contentHash": "00_huYfDLy2WqFRQ2kNWfgGbg"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtDaxB.png": {
         "contentHash": "00_vZrB-6WirsiiYobs5BDk1A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtGrunge.png": {
+        "contentHash": "00_MNWQN9xIoD8ze5xSCyrlkA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SuitNSkirt.png": {
         "contentHash": "00_sTBNuTIQLrplfUW4+aevFg"
@@ -21755,6 +22319,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultArabic.png": {
         "contentHash": "00_gl+yqXvsIX9i27Mp3uytxQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultAthletic.png": {
+        "contentHash": "00_6HIFSGsnCZ-7wiEfh8cY5w"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultC.png": {
         "contentHash": "00_VOZduuIM6nbeb+dpOLsx+g"
     },
@@ -21785,8 +22352,14 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultG.png": {
         "contentHash": "00_yi4eCDyLNVTVlNMaFn-C1w"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGoth.png": {
+        "contentHash": "00_3FwCczyXZk2ITrwKDVZdvQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGrineer.png": {
         "contentHash": "00_d-tFMPBYj2dgPiSGPYFA1Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGrunge.png": {
+        "contentHash": "00_CJArTSVL4Aeeljwcs2duBw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultJ.png": {
         "contentHash": "00_RMThIaFM96mijHWC+QkTTQ"
@@ -21818,6 +22391,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultTennocon2022.png": {
         "contentHash": "00_rb5Iip9+LfXPxRtNgOk76Q"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAthletic.png": {
+        "contentHash": "00_ah+WkkaMaaE33Ey3oOzdLg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsB.png": {
         "contentHash": "00_19kHahstvyhx-FQ07ZMK7g"
     },
@@ -21832,6 +22408,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsDaxB.png": {
         "contentHash": "00_7zeczg0vuVbtKJE92gbvbw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGoth.png": {
+        "contentHash": "00_7iDGOevAEe+A5JkZFzoL+A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGrunge.png": {
+        "contentHash": "00_jocuxcEpmWVVWON+dQN5AQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsPrimeA.png": {
         "contentHash": "00_qWTv5TNfyM43Z4MZW0x3LA"
@@ -21932,6 +22514,12 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Circlet/UmbraTiara.png": {
         "contentHash": "00_c8+ludhkWEwL0dY9T8y8Aw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarB.png": {
+        "contentHash": "00_MaeFl5M9MFdMRSaVIy7K8g"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarC.png": {
+        "contentHash": "00_5snq9vswAvGm5cD5IILCnw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/BaroEarpieceC.png": {
         "contentHash": "00_03UY5ngNCm9fCPnIcGceQA"
     },
@@ -21965,6 +22553,12 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWAuresEarpiece.png": {
         "contentHash": "00_MaMxFC8iCeT5hM4rdk+iHA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWF19CondrocEar.png": {
+        "contentHash": "00_aU6Z0itROJWOdQ8rtI9Dyg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png": {
+        "contentHash": "00_X-fP42Llc36squU6V9JrOQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWGarasuEarpiece.png": {
         "contentHash": "00_NOwOGVXN5TLfXdYfL3pORg"
     },
@@ -21986,8 +22580,20 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/VayasPrimeEarpiece.png": {
         "contentHash": "00_sHvjFArHCHECyVjWdgktVg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeA.png": {
+        "contentHash": "00_fiqepVbdLW-yFc2q55rw8w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeB.png": {
+        "contentHash": "00_J0joh5r2oJylXYRve3zDSQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeC.png": {
+        "contentHash": "00_aKjYvuOo6Iq2Duq8AmV1Hw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/BaroVisor.png": {
         "contentHash": "00_dV8OIzzuZ9HOOp43Mv+wow"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/CaliberChicksLillianEyepatch.png": {
+        "contentHash": "00_jma00JXC3lGshsIIq-6-0w"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/ExcaliburDeluxeEyepiece.png": {
         "contentHash": "00_JxIoT-40h8wSPwCML+OMjQ"
@@ -22012,6 +22618,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWBlazeOculusEyepiece.png": {
         "contentHash": "00_wjhm8JMLzzfi4LzCvXvtQQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWButterflyEye.png": {
+        "contentHash": "00_qWhmtqZDWcmCEK-ljZMYIQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWChoroidEye.png": {
+        "contentHash": "00_ZsXoD3J2Gvkt1FGkZcn1VQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWGarasuEyepiece.png": {
         "contentHash": "00_mkxTB6NH0kyOKe7orP0ZUA"
@@ -22067,11 +22679,17 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/BaroMouthPieceA.png": {
         "contentHash": "00_NS9WzWEyvMoZm1ENUhkz8A"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/CaliberChicksJillianBandana.png": {
+        "contentHash": "00_cd3MlRgr1obd+qO+13xytw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/ExcaliburDeluxeMouthpiece.png": {
         "contentHash": "00_-0aGyRn8GvZY1AawCJbLBA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/ExcaliburMask.png": {
         "contentHash": "00_O-t7OgaSIRDDdit5jsRktA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/GothFaceAccessory.png": {
+        "contentHash": "00_JnElO0N-K1Re-RxtAMdNBA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/GrineerMask.png": {
         "contentHash": "00_Bkb8TcGSEbIcebzYb7MvaQ"
@@ -22102,6 +22720,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWGarasuFace.png": {
         "contentHash": "00_7sIbt6YaZ44Jtq7bYjPjEw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWMilleniumVisor.png": {
+        "contentHash": "00_AtwyCUWe7UvqQsbCk6riiA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWSpicularisFacialAcc.png": {
         "contentHash": "00_ubQKiyaiOlDVs0aHQu+rmg"
@@ -22154,11 +22775,17 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairJ.png": {
         "contentHash": "00_v3DiAHjxdlyaBY5lTgFC2Q"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairJillian.png": {
+        "contentHash": "00_vS1p8i9V3MRh7Dl06Qf0YQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairK.png": {
         "contentHash": "00_7df3ZHZtfUGHrjPJeMHsXw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairL.png": {
         "contentHash": "00_14hxDRL0rxNZj0yBy0UClw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairLillian.png": {
+        "contentHash": "00_n7y1NKmmmlwS46afpLvahQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairM.png": {
         "contentHash": "00_qKjKpUoWilORBH1ksTgk8w"
@@ -22433,8 +23060,14 @@
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultG.png": {
         "contentHash": "00_4WY4YSigU4TeZaQK0OsJOA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGoth.png": {
+        "contentHash": "00_6CMN2ge-kf9XvLvk5PwEyg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGrineer.png": {
         "contentHash": "00_oLO1+JeabkBNvLgJJRokPA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGrunge.png": {
+        "contentHash": "00_gpwCSZlcaZDAgidRJiTqeA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultJ.png": {
         "contentHash": "00_tWZziM56QzT3UzW1Qu-uEA"
@@ -22504,6 +23137,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodG.png": {
         "contentHash": "00_o7njekYjo8B3rcUblxYyqg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGoth.png": {
+        "contentHash": "00_M4kE4IDUxMgAqbmKxq-8dQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGrunge.png": {
+        "contentHash": "00_fS5lnumUjRCRKVFKxkCrfw"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodI.png": {
         "contentHash": "00_tpft1j89nXgE5EsDTWh9Eg"
@@ -22684,6 +23323,18 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooLoveWings.png": {
         "contentHash": "00_jEqPTKDh6mKZZcw228lZfQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoB.png": {
+        "contentHash": "00_7JmHAFeUrquZOnHhTlM+Zg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoC.png": {
+        "contentHash": "00_X2KO3chAN8yXRxykEgXO8w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoD.png": {
+        "contentHash": "00_psqGQUpZQ8rH+9ckqV+ZeQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoF.png": {
+        "contentHash": "00_c0flLTeeEfXrkybiPQA89A"
     },
     "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoG.png": {
         "contentHash": "00_EOhUlE-Dcrr8pRL6y36hVA"
@@ -23114,6 +23765,9 @@
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/Engines/RailjackEngineThrust.png": {
         "contentHash": "00_vXT-CCAM1TJoOTQjf5lySQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/HoodOrnament/1999TankHoodOrnament.png": {
+        "contentHash": "00_w9axIks817597Qh6HDY8yw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/HoodOrnament/ConquestHoodOrnament.png": {
         "contentHash": "00_dZv0e+JFkQRw3OZN4w1LkA"
     },
@@ -23438,6 +24092,9 @@
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardCitrine.png": {
         "contentHash": "00_cB9vTbgnIdDEL-NFNazfgg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardCyte.png": {
+        "contentHash": "00_0mZxVike8wIf4IIiNwNIIg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardDagath.png": {
         "contentHash": "00_PMYcGSKS+uhdc771pusTyA"
     },
@@ -23671,6 +24328,45 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/RailjackCephalon.png": {
         "contentHash": "00_5XFz0siLyWQ68F4B5-08xw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonA.png": {
+        "contentHash": "00_j3K1pW5BTkF7w4SeTlpM3A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonB.png": {
+        "contentHash": "00_yynhdViNSGyDkBkvxX6Qfg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceRareA.png": {
+        "contentHash": "00_XVWWt38ojIO021quGnWJHw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonA.png": {
+        "contentHash": "00_JI3PeO7YfgV8i068Nno4Og"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonB.png": {
+        "contentHash": "00_WL3YiO8bn4vMFd8NmOL+IQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAmir.png": {
+        "contentHash": "00_fT7Zvjeo6DDm7Rb242NC5g"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAoi.png": {
+        "contentHash": "00_1RAqi817BUP4bidx1n1tOQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagArthur.png": {
+        "contentHash": "00_Kh6HwE-xhP7Rz3wCM6+qyQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagEleanor.png": {
+        "contentHash": "00_hlTnDujGy3pwtgGvw5EMZA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagLettie.png": {
+        "contentHash": "00_LrytcBGRgjX8RpfH5DD2TQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagQuincy.png": {
+        "contentHash": "00_78hdgm9b5ZF3SR2EdWAIug"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagRare.png": {
+        "contentHash": "00_8O84-8RHMmK5lG5Pj6PS3A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagUncommon.png": {
+        "contentHash": "00_jNQM3xUHScmobqzeOIZTWA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Resources/Citrine/CrystalBlueItem.png": {
         "contentHash": "00_INGJo0kNX5dJDwJQKMsPDQ"
@@ -24839,6 +25535,15 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadZephyrPrime.png": {
         "contentHash": "00_3HGkhojUJTnqqpW+WPlEqQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksAnnaKiBobbleHead.png": {
+        "contentHash": "00_rhBrWMVBbixsaYaYpf+Pzw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksJillianBobbleHead.png": {
+        "contentHash": "00_kGFo2zouOhUx5BpN4zelLA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksLillianBobbleHead.png": {
+        "contentHash": "00_Mlu2TxF-Z+w2K8AxPZa2nQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/MirageTennobaumBobblehead.png": {
         "contentHash": "00_8OoN+5XbadoBHtZ4V7AcMQ"
     },
@@ -25111,6 +25816,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/EntratiLabs/PagemasterOwl.png": {
         "contentHash": "00_HF3ng+NUVXhYLO06Kj5q+Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/ExaltedSniperShipDeco.png": {
+        "contentHash": "00_x7bucMOymI1V2N6gU+YO5A"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/GaussPrimeFloof.png": {
         "contentHash": "00_1c8VQpfNhq+iW4t22KIfqQ"
@@ -25448,6 +26156,12 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/Plushy2022QTCC.png": {
         "contentHash": "00_5gbEX+jymE4XTOXmbZ-WQg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAmir.png": {
+        "contentHash": "00_qRjut-2RWKemLI2W6-qgbg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAoi.png": {
+        "contentHash": "00_2dQnx23JaK6ysdkq2aiNSw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyArthur.png": {
         "contentHash": "00_oHKvz3E11BAz9Gw7gfe8HQ"
     },
@@ -25457,11 +26171,17 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyCarnivalKubrow.png": {
         "contentHash": "00_ABY9ZOE8raa79Yb4or4L4w"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyEleanor.png": {
+        "contentHash": "00_aFGWcJ2X7MeuHRigzDZSnw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNY2023Rabbit.png": {
         "contentHash": "00_IsOANzM2q6xDIpoV+u57kg"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNY2024Chroma.png": {
         "contentHash": "00_IptxumAtaROXeLqg5KnIsQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLettie.png": {
+        "contentHash": "00_s25t81rdWvjGyI-2ZuC0Iw"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLotus.png": {
         "contentHash": "00_8L+5h+YjCiS6HNnUePTWYQ"
@@ -25471,6 +26191,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyOrdis.png": {
         "contentHash": "00_Fh0kRrpIN6W2UOnQSMmw4Q"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyQuincy.png": {
+        "contentHash": "00_jA4guU8p6gMT6tQFsHLG3g"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyRucksackKubrow.png": {
         "contentHash": "00_35H2WuW4G1Ac3QjzgHbQrw"
@@ -25612,6 +26335,15 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/StyanaxSpearShieldDeco.png": {
         "contentHash": "00_kiGmv64NegX0ZgcSCFL8Yg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExArmyManWinterTennoBaumToyDeco.png": {
+        "contentHash": "00_IJfF68yIuwJWnZOmdbC98A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExPlushAstronautRayTennoBaumToyDeco.png": {
+        "contentHash": "00_xjwip7NL8p1vqDgWV9IubQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExRocketShipTennoBaumToyDeco.png": {
+        "contentHash": "00_3dg098GKVUOULW7EpHhQAw"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TeaSet.png": {
         "contentHash": "00_IshYYCpzmZPConjTagYSvQ"
@@ -26252,6 +26984,9 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Dioramas/VenusADiorama.png": {
         "contentHash": "00_t2h1hBDJV7coi0A7LIUy6A"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Albrecht2in1Display.png": {
+        "contentHash": "00_zq3Pf6tCvMx4Ysh-b52Q5w"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/ClemTennobaumDisplay.png": {
         "contentHash": "00_6-97dvvDRiySpRi0ugzH+g"
     },
@@ -26371,6 +27106,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneBeachcomber.png": {
         "contentHash": "00_Uz4HF1tGxOmQt++BZh6xFw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneCaliberChicks.png": {
+        "contentHash": "00_FUSfu5TxoMLHIsO8kJKKCQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneColorFive.png": {
         "contentHash": "00_z4SRX4Mzfp42I8iIpJ2XWA"
@@ -26599,6 +27337,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/MiscTrophy/WraithQuestRewardDeco.png": {
         "contentHash": "00_riUvDMJ-0Jd6Oa3SKshE+A"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/PlanetTrophy/1999TrophyBronze.png": {
+        "contentHash": "00_wmJWJfMrGuIEWjCnvBBq7A"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/PlanetTrophy/CeresTrophyBronze.png": {
         "contentHash": "00_JOtXr5JBbWWlXEuDzkmEpQ"
@@ -27011,6 +27752,12 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Wallpaper/TwitchPrimeWallpaper.png": {
         "contentHash": "00_G7RyMA2Wha3rMdEAajv-OA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999MallRotunda.png": {
+        "contentHash": "00_4iGpuVEFWIBCSDUuZW4lxw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999StreetCourtyard.png": {
+        "contentHash": "00_638a69nb3-ZAOaB+TDMN7g"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Simulacrum/SimulacrumArena.png": {
         "contentHash": "00_v5Kwf5DSF4nfID-qRoEkJA"
     },
@@ -27041,8 +27788,17 @@
     "/Lotus/Interface/Icons/StoreIcons/SongItem/AbyssOfDagathLoginSongItemStoreIcon.png": {
         "contentHash": "00_O66qboFKbLmRl60fkyctUQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/AngelsOfTheZarimanSongItemStoreIcon.png": {
+        "contentHash": "00_2yEXnl6l5NAoYFsOPQK1rg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png": {
+        "contentHash": "00_qgzd9gDUCKW6ECtSEtezmg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png": {
         "contentHash": "00_irpJXC2CzzQuIxBoGyhgQQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png": {
+        "contentHash": "00_CcGtKVZ0Mfun6t78dsz++g"
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/GaraPrimeSongItemStoreIcon.png": {
         "contentHash": "00_oJOh4FhTe5OVVO3l6vPeSw"
@@ -27055,6 +27811,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/HildrynPrimeSongItemStoreIcon.png": {
         "contentHash": "00_uNR+Tht8K3JlladnX6O-PQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png": {
+        "contentHash": "00_X74ftuuNbs4lWTh5tJeSOg"
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/HydroidPrimeSongItemStoreIcon.png": {
         "contentHash": "00_O7qu4+KUwi497B72G6Aotg"
@@ -27077,6 +27836,9 @@
     "/Lotus/Interface/Icons/StoreIcons/SongItem/OctaviaPrimeSongItemStoreIcon.png": {
         "contentHash": "00_bczP5DfL8zuET40JKqA7JQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/OnlyneSongItemStoreIcon.png": {
+        "contentHash": "00_L81hZIWpyUM5S-yIHifCYA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/ProteaPrimeSongItemStoreIcon.png": {
         "contentHash": "00_DudDZ3ZQks4UbYKP8uk3Pw"
     },
@@ -27088,6 +27850,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/VaubanPrimeSongItemStoreIcon.png": {
         "contentHash": "00_x9GL2mxNCXEJt7aGRLqwUw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/SongItem/WhispersInTheWallSongItemStoreItem.png": {
+        "contentHash": "00_9ndcv7KF-pd9QlmGBVFrSw"
     },
     "/Lotus/Interface/Icons/StoreIcons/SongItem/WispPrimeSongItemStoreIcon.png": {
         "contentHash": "00_bKRcqn0qwmt1zSQIacSTtQ"
@@ -27473,6 +28238,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Warframes/Frost.png": {
         "contentHash": "00_PrBX6XKzMB45xQGYbdLTYw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png": {
+        "contentHash": "00_Lt-OWCJmlmOI45Nr0MJ3IA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Warframes/Gara.png": {
         "contentHash": "00_zeGHUukANpO8YiJC8DQ1cA"
     },
@@ -27742,6 +28510,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/ExaltedWeapons/FlightSword.png": {
         "contentHash": "00_bIMExZjEiRAcSnMMzZzXsw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/ExaltedWeapons/FrumentariusExaltedSniper.png": {
+        "contentHash": "00_w-1Azd+7TCUR-zSjXtMzJQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/ExaltedWeapons/GarudaPrimeClaws.png": {
         "contentHash": "00_cPpfEf1U-MuOU80U2u7oDg"
@@ -28499,6 +29270,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/TekeluRedeemerSkin.png": {
         "contentHash": "00_M7O8wOSZi+LHPjzZRi8zhg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/TennobaumBrokenWar.png": {
+        "contentHash": "00_wFRs+i85aFXX56ELKgoBcQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/ThanatosScytheSkin.png": {
         "contentHash": "00_Z+-IYprF5BW33MtgmMLyVQ"
     },
@@ -28997,6 +29771,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/PrismaMachete.png": {
         "contentHash": "00_XZxBjtHGlawhSMh+awK3Nw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/PrismaObex.png": {
+        "contentHash": "00_FtjObXPRzUO2bb0F8Qyf1Q"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/PrismaOhma.png": {
         "contentHash": "00_+-Cq-285zoO1PlwUyjx+1Q"
     },
@@ -29354,6 +30131,12 @@
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/BuzlokDayOfTheDeadSkin.png": {
         "contentHash": "00_dyZ+YmmJ24RfvL-CtQxAVw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksBratonSkin.png": {
+        "contentHash": "00_Sh3KRQG3E9cik96QXZnFaA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksIgnisSkin.png": {
+        "contentHash": "00_jlPqk74zMWdzAPbXal9E0Q"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CephRubicoSkin.png": {
         "contentHash": "00_gL7JYQqThILe1L3gridq4Q"
     },
@@ -29695,6 +30478,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TekeluStradavarSkin.png": {
         "contentHash": "00_a3PDkZidodSkUYglmgddqQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumBoltor.png": {
+        "contentHash": "00_DVnlFVVxsQOPDZnSHGCf+w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumParis.png": {
+        "contentHash": "00_fAef8DkDyZ5vvqpEj9Kj6g"
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TetraShockCamo.png": {
         "contentHash": "00_ipQ1NBVqJoWCPgxgBapybQ"
@@ -30185,6 +30974,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TigrisPrime.png": {
         "contentHash": "00_ZPaMkVQc+KbmTan0xJbmMw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TnBeltFedRifle.png": {
+        "contentHash": "00_pV+rLJOou4yrNlIzRGs7Eg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TnChoirBow.png": {
         "contentHash": "00_vl12hPxKCblqWWjy5+STPw"
     },
@@ -30653,6 +31445,12 @@
     "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TekeluVastoSkin.png": {
         "contentHash": "00_OJ5uhjN4T19W1r7uEjR5cg"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumCantare.png": {
+        "contentHash": "00_uU1vHf2Ntuc2MpOgDb3a6w"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumOcucor.png": {
+        "contentHash": "00_Vukg+JyqXvYBh6YGsw4FxQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TwinGrakataDayOfTheDeadSkin.png": {
         "contentHash": "00_8h1paobhIsWcC3Ks9GBI8w"
     },
@@ -30928,6 +31726,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/KuvaNukor.png": {
         "contentHash": "00_nJo8NJr5-1lFjRT8QzRKpA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/LasSilencedPistolWeapon.png": {
+        "contentHash": "00_v8mTM2LkGicL506iNU9mHg"
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/Lato.png": {
         "contentHash": "00_Klh0iT5bMhtA5785r1FM6w"
@@ -31213,6 +32014,21 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ZarimanApartment/Sounds/TreacherousMarsh.png": {
         "contentHash": "00_bO3CXzTp1ja8tfz+jkbZYw"
+    },
+    "/Lotus/Interface/Icons/Syndicates/FactionHexLevel1.png": {
+        "contentHash": "00_XHYXFFjXkYFYEYNmZ7S3tw"
+    },
+    "/Lotus/Interface/Icons/Syndicates/FactionHexLevel2.png": {
+        "contentHash": "00_2TfjoxwL3w0iZErh+hLoaw"
+    },
+    "/Lotus/Interface/Icons/Syndicates/FactionHexLevel3.png": {
+        "contentHash": "00_en637O-Pr0YI50TyBgJQdA"
+    },
+    "/Lotus/Interface/Icons/Syndicates/FactionHexLevel4.png": {
+        "contentHash": "00_FwJ+dFqVuqpLymp8KlJ0kw"
+    },
+    "/Lotus/Interface/Icons/Syndicates/FactionHexLevel5.png": {
+        "contentHash": "00_yH5mpdvj6EFmkLqX2dqBQw"
     },
     "/Lotus/Interface/Icons/Syndicates/FactionHoldFastLevel1.png": {
         "contentHash": "00_TG2aYQQ5q127zjnN0ktU2Q"
@@ -31628,6 +32444,9 @@
     "/Lotus/Interface/Quests/1999PrologueQuestKeyChain.png": {
         "contentHash": "00_f1VXDWLlzEdDw6IDWGSfZA"
     },
+    "/Lotus/Interface/Quests/1999QuestKeyChain.png": {
+        "contentHash": "00_vTT8ey0bRq1DduG2S1Yhug"
+    },
     "/Lotus/Interface/Quests/AngelsOfTheZarimanQuestKeychain.png": {
         "contentHash": "00_ot+Dwj1C40apnhfg+Wj0PA"
     },
@@ -31810,5 +32629,8 @@
     },
     "/Lotus/Materials/Emblems/WolfBadge_d.png": {
         "contentHash": "00_K1KHQHrxBhx7zaRGp9gDMQ"
+    },
+    "/Lotus/Objects/CaliberChicks/CaliberChicksPoster.png": {
+        "contentHash": "00_QZ918r2BogNwUXMsCNyyCA"
     }
 }

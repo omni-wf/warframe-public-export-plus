@@ -14,6 +14,10 @@
         "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
         "name": "/Lotus/Language/Items/FlightSword"
     },
+    "/Lotus/Powersuits/Frumentarius/ExaltedSniperBase": {
+        "parentName": "/Lotus/Weapons/Tenno/Rifle/LotusSniperRifle",
+        "name": "/Lotus/Language/Weapons/TnExaltedSniperName"
+    },
     "/Lotus/Powersuits/Garuda/GarudaBaseClaws": {
         "parentName": "/Lotus/Weapons/Tenno/Melee/PlayerMeleeWeapon",
         "name": "/Lotus/Language/Suits/GarudaClawsName"

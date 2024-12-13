@@ -432,6 +432,85 @@
             }
         ]
     },
+    "HexSyndicate": {
+        "uniqueName": "/Lotus/Syndicates/Hex/HexSyndicate",
+        "name": "/Lotus/Language/1999/MessengerHexName",
+        "icon": "/Lotus/Interface/Icons/Syndicates/FactionHex.png",
+        "description": "/Lotus/Language/1999/MessengerHexDesc",
+        "colour": {
+            "value": "0x00C3E268"
+        },
+        "backgroundColour": {
+            "value": "0x002E3616"
+        },
+        "titles": [
+            {
+                "level": 5,
+                "name": "/Lotus/Language/1999/HexSyndTitle5",
+                "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel5.png",
+                "description": "/Lotus/Language/1999/HexSyndTitle5Desc"
+            },
+            {
+                "level": 4,
+                "name": "/Lotus/Language/1999/HexSyndTitle4",
+                "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel4.png",
+                "description": "/Lotus/Language/1999/HexSyndTitle4Desc"
+            },
+            {
+                "level": 3,
+                "name": "/Lotus/Language/1999/HexSyndTitle3",
+                "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel3.png",
+                "description": "/Lotus/Language/1999/HexSyndTitle3Desc"
+            },
+            {
+                "level": 2,
+                "name": "/Lotus/Language/1999/HexSyndTitle2",
+                "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel2.png",
+                "description": "/Lotus/Language/1999/HexSyndTitle2Desc"
+            },
+            {
+                "level": 1,
+                "name": "/Lotus/Language/1999/HexSyndTitle1",
+                "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel1.png",
+                "description": "/Lotus/Language/1999/HexSyndTitle1Desc"
+            }
+        ],
+        "medallions": [
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+                "standing": 750
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+                "standing": 1500
+            },
+            {
+                "itemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+                "standing": 2500
+            }
+        ],
+        "medallionsCappedByDailyLimit": true
+    },
     "KahlSyndicate": {
         "uniqueName": "/Lotus/Syndicates/Kahl/KahlSyndicate",
         "name": "/Lotus/Language/Syndicates/KahlSyndicateName",
@@ -9287,69 +9366,6 @@
             }
         ],
         "medallionsCappedByDailyLimit": false
-    },
-    "WF1999Syndicate": {
-        "uniqueName": "/Lotus/Syndicates/WF1999/WF1999Syndicate",
-        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndicateName",
-        "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCavia.png",
-        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndicateDesc",
-        "colour": {
-            "value": "0x00AAA697"
-        },
-        "backgroundColour": {
-            "value": "0x003D3937"
-        },
-        "titles": [
-            {
-                "level": 5,
-                "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle5",
-                "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel5.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle5Desc"
-            },
-            {
-                "level": 4,
-                "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle4",
-                "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel4.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle4Desc"
-            },
-            {
-                "level": 3,
-                "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle3",
-                "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel3.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle3Desc"
-            },
-            {
-                "level": 2,
-                "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle2",
-                "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel2.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle2Desc"
-            },
-            {
-                "level": 1,
-                "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle1",
-                "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel1.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle1Desc"
-            }
-        ],
-        "medallions": [
-            {
-                "itemType": "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag",
-                "standing": 1000
-            },
-            {
-                "itemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon",
-                "standing": 500
-            },
-            {
-                "itemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagUncommon",
-                "standing": 1000
-            },
-            {
-                "itemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
-                "standing": 2000
-            }
-        ],
-        "medallionsCappedByDailyLimit": true
     },
     "ZarimanSyndicate": {
         "uniqueName": "/Lotus/Syndicates/Zariman/ZarimanSyndicate",

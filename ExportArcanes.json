@@ -242,6 +242,14 @@
         "rarity": "COMMON",
         "fusionLimit": 5
     },
+    "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain": {
+        "name": "/Lotus/Language/1999/RadialViralAttackOnOverguardGainName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDN.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
     "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist": {
         "name": "/Lotus/Language/Items/RadiationProcResistName",
         "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionRadiation.png",
@@ -282,6 +290,14 @@
         "fusionLimit": 5,
         "distillPointValue": 24
     },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth": {
+        "name": "/Lotus/Language/1999/AbilityStrengthForMaxHealthName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDI.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast": {
         "name": "/Lotus/Language/Arcanes/AbilityStrengthOnCast",
         "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionCR.png",
@@ -289,6 +305,22 @@
         "rarity": "RARE",
         "fusionLimit": 5,
         "distillPointValue": 24
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack": {
+        "name": "/Lotus/Language/1999/AbilityStrengthOnSummonAttackName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDP.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttackSub": {
+        "name": "/Lotus/Language/Items/GenericCosmeticEnhancerName",
+        "icon": "/Lotus/Interface/Icons/Store/CosmeticEnhancer.png",
+        "codexSecret": true,
+        "excludeFromCodex": true,
+        "rarity": "RARE",
+        "fusionLimit": 5
     },
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot": {
         "name": "/Lotus/Language/Items/PistolHeadshotKillAmmoEfficiency",
@@ -361,6 +393,14 @@
         "rarity": "UNCOMMON",
         "fusionLimit": 3,
         "distillPointValue": 18
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus": {
+        "name": "/Lotus/Language/1999/CritDamageForPunctureStatusName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDM.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
     },
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DuplicateStatusOnKnock": {
         "name": "/Lotus/Language/Arcanes/DuplicateStatusName",
@@ -704,6 +744,14 @@
         "fusionLimit": 5,
         "distillPointValue": 24
     },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit": {
+        "name": "/Lotus/Language/1999/SecondaryCritOnHitName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDL.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnHeatProc": {
         "name": "/Lotus/Language/Arcanes/SecondaryDamageOnHeatProc",
         "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionBY.png",
@@ -763,6 +811,14 @@
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill": {
         "name": "/Lotus/Language/Arcanes/ShotgunMultishotAndReloadSpeedOnCloseKill",
         "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionCO.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit": {
+        "name": "/Lotus/Language/1999/StatusAndAmmoEfficiencyOnWeakpointHitName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDK.png",
         "codexSecret": true,
         "rarity": "RARE",
         "fusionLimit": 5,
@@ -1019,6 +1075,22 @@
     "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash": {
         "name": "/Lotus/Language/Arcanes/TetherMineOnDash",
         "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/SolarisMagusLockdown.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency": {
+        "name": "/Lotus/Language/1999/AbilityStatusProcsGiveAbilityStrengthAndEfficiencyName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDO.png",
+        "codexSecret": true,
+        "rarity": "RARE",
+        "fusionLimit": 5,
+        "distillPointValue": 24
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible": {
+        "name": "/Lotus/Language/1999/AbilityStrengthAndCritDamageWhenInvisibleName",
+        "icon": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDQ.png",
         "codexSecret": true,
         "rarity": "RARE",
         "fusionLimit": 5,

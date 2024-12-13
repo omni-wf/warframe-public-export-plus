@@ -317,6 +317,22 @@
         "codexSecret": false,
         "excludeFromCodex": true
     },
+    "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro": {
+        "name": "",
+        "description": "/Lotus/Language/Items/GenericMouseCursorDescription",
+        "icon": "/Lotus/Interface/Graphics/Cursors/CursorRetro.png",
+        "base": "/EE/Types/Engine/UICursor",
+        "codexSecret": false,
+        "excludeFromCodex": true
+    },
+    "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback": {
+        "name": "",
+        "description": "/Lotus/Language/Items/GenericMouseCursorDescription",
+        "icon": "/Lotus/Interface/Graphics/Cursors/CursorThrowback.png",
+        "base": "/EE/Types/Engine/UICursor",
+        "codexSecret": false,
+        "excludeFromCodex": true
+    },
     "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli": {
         "name": "",
         "description": "/Lotus/Language/Items/GenericMouseCursorDescription",
@@ -2294,6 +2310,14 @@
         "base": "/Lotus/Types/Items/Emotes/Emote",
         "codexSecret": false
     },
+    "/Lotus/Types/Items/Emotes/Hardmode1999Emote": {
+        "name": "/Lotus/Language/Emotes/Hardmode1999EmoteName",
+        "description": "/Lotus/Language/Emotes/Hardmode1999EmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteLasria.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false,
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Items/Emotes/HardmodeCeresEmote": {
         "name": "/Lotus/Language/Emotes/HardmodeCeresEmoteName",
         "description": "/Lotus/Language/Emotes/HardmodeCeresEmoteDesc",
@@ -2515,6 +2539,48 @@
         "name": "/Lotus/Language/Emotes/LeftHeartEmoteName",
         "description": "/Lotus/Language/Emotes/LeftHeartEmoteDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/HeartEmoteLeft.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryAmirEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryAmirEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryAmirEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiVoltEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryAoiEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryAoiEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryAoiEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiMagEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryArthurEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryArthurEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryArthurEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiExcaliburEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryEleanorEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryEleanorEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiNyxEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryLettieEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryLettieEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryLettieEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiTrinityEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false
+    },
+    "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote": {
+        "name": "/Lotus/Language/Emotes/LegendaryQuincyEmoteName",
+        "description": "/Lotus/Language/Emotes/LegendaryQuincyEmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiCyteEmote.png",
         "base": "/Lotus/Types/Items/Emotes/Emote",
         "codexSecret": false
     },
@@ -3462,7 +3528,7 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R": {
         "name": "/Lotus/Language/Glyphs/D4NK3RGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
-        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png",
+        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/ElDanker.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -6041,6 +6107,76 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectA",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectADesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectA.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectB",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectBDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectB.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectC",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectCDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectC.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectD",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPerfectDDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectD.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPortraitJillian",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPortraitJillianDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitJillian.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphPixelPortraitLillian",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphPixelPortraitLillianDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitLillian.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphStickerA",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphStickerADesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerA.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphStickerB",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphStickerBDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerB.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphStickerC",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphStickerCDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerC.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD": {
+        "name": "/Lotus/Language/Glyphs/MinigameGlyphStickerD",
+        "description": "/Lotus/Language/Glyphs/MinigameGlyphStickerDDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerD.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright": {
         "name": "/Lotus/Language/Glyphs/AvatarBaruukPrimeBrightName",
         "description": "/Lotus/Language/Glyphs/AvatarBaruukPrimeBrightDesc",
@@ -6308,6 +6444,20 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true,
         "excludeFromCodex": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA": {
+        "name": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphAName",
+        "description": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphADesc",
+        "icon": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB": {
+        "name": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphBName",
+        "description": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphBDesc",
+        "icon": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyphB.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": false
     },
     "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour": {
         "name": "/Lotus/Language/Glyphs/ChillingGlyphBundle4Name",
@@ -6597,6 +6747,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph": {
+        "name": "/Lotus/Language/Glyphs/Cyte09SupporterGlyphName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/Cyte09Glyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe": {
         "name": "/Lotus/Language/Glyphs/AvatarBaruukDeluxeName",
         "description": "/Lotus/Language/Glyphs/AvatarBaruukDeluxeDesc",
@@ -6693,6 +6850,34 @@
         "name": "/Lotus/Language/Glyphs/AvatarDagathDarkName",
         "description": "/Lotus/Language/Glyphs/AvatarDagathDarkDesc",
         "icon": "/Lotus/Interface/Icons/Player/DagathAvatarDark.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright": {
+        "name": "/Lotus/Language/Glyphs/AvatarImageFrumentariusAltBrightName",
+        "description": "/Lotus/Language/Glyphs/AvatarImageFrumentariusAltBrightDesc",
+        "icon": "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarBright.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark": {
+        "name": "/Lotus/Language/Glyphs/AvatarImageFrumentariusAltDarkName",
+        "description": "/Lotus/Language/Glyphs/AvatarImageFrumentariusAltDarkDesc",
+        "icon": "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarDark.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright": {
+        "name": "/Lotus/Language/Glyphs/AvatarImageFrumentariusBrightName",
+        "description": "/Lotus/Language/Glyphs/AvatarImageFrumentariusBrightDesc",
+        "icon": "/Lotus/Interface/Icons/Player/FrumentariusAvatarBright.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark": {
+        "name": "/Lotus/Language/Glyphs/AvatarImageFrumentariusDarkName",
+        "description": "/Lotus/Language/Glyphs/AvatarImageFrumentariusDarkDesc",
+        "icon": "/Lotus/Interface/Icons/Player/FrumentariusAvatarDark.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -7314,6 +7499,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug": {
+        "name": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphName",
+        "description": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost": {
         "name": "/Lotus/Language/Glyphs/CommunityTennobaumFrostGlyphName",
         "description": "/Lotus/Language/Glyphs/CommunityTennobaumFrostGlyphDesc",
@@ -7524,6 +7716,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph": {
+        "name": "/Lotus/Language/Glyphs/DJRoMGlyphName",
+        "description": "/Lotus/Language/Glyphs/DJRoMGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/DjromHumanGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph": {
         "name": "/Lotus/Language/Glyphs/AvatarImageDanteGlyphName",
         "description": "/Lotus/Language/Glyphs/AvatarImageDanteGlyphDesc",
@@ -7545,6 +7744,13 @@
         "icon": "/Lotus/Interface/Icons/Player/DrakeRifleGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph": {
+        "name": "/Lotus/Language/Glyphs/DrillbitGlyphName",
+        "description": "/Lotus/Language/Glyphs/DrillbitGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/DrillbitHumanGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy": {
         "name": "/Lotus/Language/Glyphs/AvatarImageDrippyGlyphName",
@@ -7665,6 +7871,13 @@
         "name": "/Lotus/Language/Glyphs/DogDays2024YareliGlyphName",
         "description": "/Lotus/Language/Glyphs/DogDays2024YareliGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/DogDays2024Yareli.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/GaussAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/GaussAccoladeGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8234,6 +8447,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph": {
+        "name": "/Lotus/Language/Glyphs/OnlyneHarddriveGlyphName",
+        "description": "/Lotus/Language/Glyphs/HarddriveGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/HarddriveHumanGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction": {
         "name": "/Lotus/Language/Glyphs/HarrowActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -8260,6 +8480,48 @@
         "name": "/Lotus/Language/Items/InarosScarabsGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/Scarab512x512.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedDJRoMGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedDJRoMGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/DjromInfestedGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedDrillbitGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedDrillbitGlyphhDesc",
+        "icon": "/Lotus/Interface/Icons/Player/DrillbitInfestedGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedHarddriveGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedHarddriveGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/HarddriveInfestedGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedLogoGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedLogoGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/LogoInfestedGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedPacketGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedPacketGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/PacketInfestedGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph": {
+        "name": "/Lotus/Language/Glyphs/InfestedZekeGlyphName",
+        "description": "/Lotus/Language/Glyphs/InfestedZekeGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ZekeInfestedGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8333,6 +8595,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/JadeAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/JadeAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph": {
         "name": "/Lotus/Language/Glyphs/JadeInActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -8386,6 +8655,13 @@
         "name": "/Lotus/Language/Glyphs/LettieAccoladeGlyphName",
         "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsDesc",
         "icon": "/Lotus/Interface/Icons/Player/LettieAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph": {
+        "name": "/Lotus/Language/Glyphs/LogoGlyphName",
+        "description": "/Lotus/Language/Glyphs/LogoGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/LogoHumanGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8480,6 +8756,13 @@
         "name": "/Lotus/Language/Items/MesaEnamelGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/GlyphMesa.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/MirageAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/MirageAccoladeGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8644,10 +8927,59 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph": {
+        "name": "/Lotus/Language/Glyphs/PacketGlyphName",
+        "description": "/Lotus/Language/Glyphs/PacketGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/PacketHumanGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph": {
         "name": "/Lotus/Language/Glyphs/PartyCDGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/PartyCDGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelAmirName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelAmirDesc",
+        "icon": "/Lotus/Interface/Icons/Player/AmirPixelGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelAoiName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelAoiDesc",
+        "icon": "/Lotus/Interface/Icons/Player/AoiPixelGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelArthurName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelArthurDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ArthurPixelGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelEleanorName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelEleanorDesc",
+        "icon": "/Lotus/Interface/Icons/Player/EleanorPixelGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelLettieName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelLettieDesc",
+        "icon": "/Lotus/Interface/Icons/Player/LettiePixelGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy": {
+        "name": "/Lotus/Language/Glyphs/AvatarImagePixelQunicyName",
+        "description": "/Lotus/Language/Glyphs/AvatarImagePixelQuincyDesc",
+        "icon": "/Lotus/Interface/Icons/Player/QuincyPixelGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8662,6 +8994,13 @@
         "name": "/Lotus/Language/Glyphs/PrideGlyphName",
         "description": "/Lotus/Language/Glyphs/PrideGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/PrideGlyph2024.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/ProteaAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ProteaAccoladeGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8708,6 +9047,13 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/SevagothAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/SevagothAccoladeGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction": {
         "name": "/Lotus/Language/Glyphs/SevagothActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -8721,8 +9067,7 @@
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/StalkerActionGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
-        "codexSecret": true,
-        "excludeFromCodex": true
+        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat": {
         "name": "/Lotus/Language/Glyphs/StarDaysCervulitePatGlyphName",
@@ -8757,6 +9102,34 @@
         "name": "/Lotus/Language/Glyphs/TennoVIPGlyphName",
         "description": "/Lotus/Language/Glyphs/TennoVIPGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/TennoVIP2024.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi": {
+        "name": "/Lotus/Language/Glyphs/TennobaumAoiGlyphName",
+        "description": "/Lotus/Language/Glyphs/TennobaumAoiGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumAoi.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker": {
+        "name": "/Lotus/Language/Glyphs/TennobaumCozyStalkerGlyphName",
+        "description": "/Lotus/Language/Glyphs/TennobaumCozyStalkerGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumCozyStalker.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade": {
+        "name": "/Lotus/Language/Glyphs/TennobaumJadeGlyphName",
+        "description": "/Lotus/Language/Glyphs/TennobaumJadeGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumJade.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie": {
+        "name": "/Lotus/Language/Glyphs/TennobaumManintheCookieGlyphName",
+        "description": "/Lotus/Language/Glyphs/TennobaumManintheCookieGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaumManintheCookie.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -8947,6 +9320,13 @@
         "name": "/Lotus/Language/Items/ValkyrActionGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/VEDValkyrFinal.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph": {
+        "name": "/Lotus/Language/Glyphs/VaubanAccoladeGlyphName",
+        "description": "/Lotus/Language/Glyphs/1999BossFightGlyphsAnaviDesc",
+        "icon": "/Lotus/Interface/Icons/Player/VaubanAccoladeGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": true
     },
@@ -9206,6 +9586,13 @@
         "codexSecret": true,
         "excludeFromCodex": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph": {
+        "name": "/Lotus/Language/Glyphs/ZekeGlyphGlyphName",
+        "description": "/Lotus/Language/Glyphs/ZekeGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ZekeHumanGlyph.png",
+        "base": "/Lotus/Types/Items/AvatarImageItem",
+        "codexSecret": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph": {
         "name": "/Lotus/Language/Glyphs/CNY2023RabbitGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -9243,13 +9630,6 @@
         "base": "/Lotus/Types/Items/AvatarImageItem",
         "codexSecret": false,
         "excludeFromCodex": true
-    },
-    "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug": {
-        "name": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphName",
-        "description": "/Lotus/Language/Glyphs/CommunityTennobaum1999MugGlyphDesc",
-        "icon": "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png",
-        "base": "/Lotus/Types/Items/AvatarImageItem",
-        "codexSecret": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph": {
         "name": "/Lotus/Language/Glyphs/DeimosRevolverGlyphName",
@@ -34915,6 +35295,22 @@
         "base": "/EE/Types/Engine/UIFlavourItem",
         "codexSecret": true
     },
+    "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile": {
+        "name": "/Lotus/Language/Cosmetics/FrumentariusAgileAnims",
+        "description": "/Lotus/Language/Cosmetics/UnlockFrumentariusAgileAnimsDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusAgile.png",
+        "base": "/EE/Types/Engine/UIFlavourItem",
+        "codexSecret": true,
+        "excludeFromCodex": true
+    },
+    "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble": {
+        "name": "/Lotus/Language/Cosmetics/FrumentariusNobleAnims",
+        "description": "/Lotus/Language/Cosmetics/UnlockFrumentariusNobleAnimsDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusNoble.png",
+        "base": "/EE/Types/Engine/UIFlavourItem",
+        "codexSecret": true,
+        "excludeFromCodex": true
+    },
     "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile": {
         "name": "/Lotus/Language/Cosmetics/GarudaAgileAnims",
         "description": "/Lotus/Language/Cosmetics/GarudaUnlockAgileDesc",
@@ -35220,6 +35616,13 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Ships/ZarimanShipSkinD.png",
         "base": "/Lotus/Types/Items/ShipExteriorSkinItem",
         "codexSecret": false
+    },
+    "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament": {
+        "name": "/Lotus/Language/ShipDecorations/1999TankHoodOrnamentName",
+        "description": "/Lotus/Language/ShipDecorations/1999TankHoodOrnamentDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/HoodOrnament/1999TankHoodOrnament.png",
+        "base": "/Lotus/Types/Items/ShipAttachmentItem",
+        "codexSecret": true
     },
     "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament": {
         "name": "/Lotus/Language/ShipDecorations/ConquestHoodOrnamentName",
