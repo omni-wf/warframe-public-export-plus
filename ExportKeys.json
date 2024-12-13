@@ -1695,13 +1695,6 @@
             }
         ]
     },
-    "/Lotus/Types/Keys/LimboQuest/LimboBeaconKey": {
-        "name": "/Lotus/Language/Items/LimboBeaconKey",
-        "description": "/Lotus/Language/Items/LimboBeaconDesc",
-        "parentName": "/Lotus/Types/Game/KeyItem",
-        "codexSecret": true,
-        "rewards": []
-    },
     "/Lotus/Types/Keys/LimboQuest/LimboSystemsKey": {
         "name": "/Lotus/Language/Items/LimboSystemsKey",
         "parentName": "/Lotus/Types/Game/KeyItem",
@@ -1712,13 +1705,6 @@
                 "itemType": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/MagicianSystemsBlueprint"
             }
         ]
-    },
-    "/Lotus/Types/Keys/LimboQuest/LimboBeaconKey": {
-        "name": "/Lotus/Language/Items/LimboBeaconKey",
-        "description": "/Lotus/Language/Items/LimboBeaconDesc",
-        "parentName": "/Lotus/Types/Game/KeyItem",
-        "codexSecret": true,
-        "rewards": []
     },
     "/Lotus/Types/Keys/LimboQuest/LimboChassisKey": {
         "name": "/Lotus/Language/Items/LimboChassisKey",
