@@ -4453,122 +4453,33 @@
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "ZarimanHub": {
-        "name": "/Lotus/Language/Zariman/ZarimanHubName",
-        "systemIndex": 21,
-        "systemName": "/Lotus/Language/Zariman/ZarimanRegionName",
-        "nodeType": 3,
+    "SolNode801": {
+        "name": "/Lotus/Language/Onslaught/SanctuaryOnslaught",
+        "nodeType": 0,
         "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
+        "missionIndex": 30,
+        "missionName": "/Lotus/Language/Missions/MissionName_EndlessExtermination",
+        "minEnemyLevel": 20,
+        "maxEnemyLevel": 30,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsEasy"
+        ],
+        "hidden": true
     },
-    "SolNode234": {
-        "name": "/Lotus/Language/Zariman/ZarimanApartment",
-        "systemIndex": 21,
-        "systemName": "/Lotus/Language/Zariman/ZarimanRegionName",
-        "nodeType": 6,
+    "SolNode802": {
+        "name": "/Lotus/Language/Onslaught/SanctuaryOnslaughtChallenge",
+        "nodeType": 0,
         "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
+        "missionIndex": 30,
+        "missionName": "/Lotus/Language/Missions/MissionName_EndlessExtermination",
+        "minEnemyLevel": 60,
+        "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "SolNode714": {
-        "name": "/Lotus/Language/Entrati/SolarMapEntratiLabsShortcut",
-        "systemIndex": 16,
-        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
-        "nodeType": 6,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "EarthHUB": {
-        "name": "/Lotus/Language/Locations/RelayStationEarth",
-        "systemIndex": 2,
-        "systemName": "/Lotus/Language/Locations/Earth",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CetusHub4": {
-        "name": "/Lotus/Language/Locations/CetusHub",
-        "systemIndex": 2,
-        "systemName": "/Lotus/Language/Locations/Earth",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "MercuryHUB": {
-        "name": "/Lotus/Language/Locations/RelayStationMercury",
-        "systemIndex": 0,
-        "systemName": "/Lotus/Language/Locations/Mercury",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "SolarisUnitedHub1": {
-        "name": "/Lotus/Language/Locations/SolarisUnitedHub",
-        "systemIndex": 1,
-        "systemName": "/Lotus/Language/Locations/Venus",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "SaturnHUB": {
-        "name": "/Lotus/Language/Locations/RelayStationSaturn",
-        "systemIndex": 5,
-        "systemName": "/Lotus/Language/Locations/Saturn",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "TradeHUB1": {
-        "name": "/Lotus/Language/Locations/RelayStationTrade",
-        "systemIndex": 3,
-        "systemName": "/Lotus/Language/Locations/Mars",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsHard"
+        ],
+        "hidden": true
     },
     "PvpNode0": {
         "name": "/Lotus/Language/Locations/ConclaveCTF",
@@ -4585,32 +4496,6 @@
             "/Lotus/Types/Game/MissionDecks/PVPMissionRewards/CTFRewards"
         ],
         "hidden": true
-    },
-    "PlutoHUB": {
-        "name": "/Lotus/Language/Locations/RelayStationPluto",
-        "systemIndex": 8,
-        "systemName": "/Lotus/Language/Locations/Pluto",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "DeimosHub1": {
-        "name": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosHubName",
-        "systemIndex": 16,
-        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
-        "nodeType": 3,
-        "masteryReq": 0,
-        "missionIndex": 10,
-        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
-        "minEnemyLevel": 0,
-        "maxEnemyLevel": 0,
-        "masteryExp": 0,
-        "rewardManifests": []
     },
     "PvpNode9": {
         "name": "/Lotus/Language/Locations/ConclaveTDM",
@@ -4642,147 +4527,29 @@
         "rewardManifests": [],
         "hidden": true
     },
-    "PlutoToSednaJunction": {
-        "name": "/Lotus/Language/Locations/SednaJunction",
-        "systemIndex": 8,
-        "systemName": "/Lotus/Language/Locations/Pluto",
-        "nodeType": 7,
+    "MercuryHUB": {
+        "name": "/Lotus/Language/Locations/RelayStationMercury",
+        "systemIndex": 0,
+        "systemName": "/Lotus/Language/Locations/Mercury",
+        "nodeType": 3,
         "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 1,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "EarthToMarsJunction": {
-        "name": "/Lotus/Language/Locations/MarsJunction",
-        "systemIndex": 2,
-        "systemName": "/Lotus/Language/Locations/Earth",
-        "nodeType": 7,
+    "SolarisUnitedHub1": {
+        "name": "/Lotus/Language/Locations/SolarisUnitedHub",
+        "systemIndex": 1,
+        "systemName": "/Lotus/Language/Locations/Venus",
+        "nodeType": 3,
         "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 1,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "PlutoToErisJunction": {
-        "name": "/Lotus/Language/Locations/ErisJunction",
-        "systemIndex": 8,
-        "systemName": "/Lotus/Language/Locations/Pluto",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 1,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "MarsToCeresJunction": {
-        "name": "/Lotus/Language/Locations/CeresJunction",
-        "systemIndex": 3,
-        "systemName": "/Lotus/Language/Locations/Mars",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 1,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CrewBattleNode556": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode56",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 1,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "JupiterToEuropaJunction": {
-        "name": "/Lotus/Language/Locations/EuropaJunction",
-        "systemIndex": 4,
-        "systemName": "/Lotus/Language/Locations/Jupiter",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CeresToJupiterJunction": {
-        "name": "/Lotus/Language/Locations/JupiterJunction",
-        "systemIndex": 9,
-        "systemName": "/Lotus/Language/Locations/Ceres",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "MarsToPhobosJunction": {
-        "name": "/Lotus/Language/Locations/PhobosJunction",
-        "systemIndex": 3,
-        "systemName": "/Lotus/Language/Locations/Mars",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "NeptuneToPlutoJunction": {
-        "name": "/Lotus/Language/Locations/PlutoJunction",
-        "systemIndex": 7,
-        "systemName": "/Lotus/Language/Locations/Neptune",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "EarthToVenusJunction": {
-        "name": "/Lotus/Language/Locations/VenusJunction",
-        "systemIndex": 2,
-        "systemName": "/Lotus/Language/Locations/Earth",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "UranusToNeptuneJunction": {
-        "name": "/Lotus/Language/Locations/NeptuneJunction",
-        "systemIndex": 6,
-        "systemName": "/Lotus/Language/Locations/Uranus",
-        "nodeType": 7,
-        "masteryReq": 0,
-        "missionIndex": 23,
-        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
-        "minEnemyLevel": 1,
-        "maxEnemyLevel": 3,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
         "masteryExp": 0,
         "rewardManifests": []
     },
@@ -4799,10 +4566,156 @@
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "SaturnToUranusJunction": {
-        "name": "/Lotus/Language/Locations/UranusJunction",
-        "systemIndex": 5,
-        "systemName": "/Lotus/Language/Locations/Saturn",
+    "CetusHub4": {
+        "name": "/Lotus/Language/Locations/CetusHub",
+        "systemIndex": 2,
+        "systemName": "/Lotus/Language/Locations/Earth",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "EarthToVenusJunction": {
+        "name": "/Lotus/Language/Locations/VenusJunction",
+        "systemIndex": 2,
+        "systemName": "/Lotus/Language/Locations/Earth",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "EarthToMarsJunction": {
+        "name": "/Lotus/Language/Locations/MarsJunction",
+        "systemIndex": 2,
+        "systemName": "/Lotus/Language/Locations/Earth",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 1,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "EarthHUB": {
+        "name": "/Lotus/Language/Locations/RelayStationEarth",
+        "systemIndex": 2,
+        "systemName": "/Lotus/Language/Locations/Earth",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "TradeHUB1": {
+        "name": "/Lotus/Language/Locations/RelayStationTrade",
+        "systemIndex": 3,
+        "systemName": "/Lotus/Language/Locations/Mars",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "MarsToCeresJunction": {
+        "name": "/Lotus/Language/Locations/CeresJunction",
+        "systemIndex": 3,
+        "systemName": "/Lotus/Language/Locations/Mars",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 1,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "MarsToPhobosJunction": {
+        "name": "/Lotus/Language/Locations/PhobosJunction",
+        "systemIndex": 3,
+        "systemName": "/Lotus/Language/Locations/Mars",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "DeimosHub1": {
+        "name": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosHubName",
+        "systemIndex": 16,
+        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "SolNode714": {
+        "name": "/Lotus/Language/Entrati/SolarMapEntratiLabsShortcut",
+        "systemIndex": 16,
+        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
+        "nodeType": 6,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "SolNode720": {
+        "name": "/Lotus/Language/Entrati/SolarMapEntratiVaultsNode",
+        "systemIndex": 16,
+        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 37,
+        "missionName": "/Lotus/Language/Missions/MissionName_Vaults",
+        "minEnemyLevel": 220,
+        "maxEnemyLevel": 240,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/EntratiMissionRewards/EntratiVaultRewards"
+        ],
+        "hidden": true
+    },
+    "CeresToJupiterJunction": {
+        "name": "/Lotus/Language/Locations/JupiterJunction",
+        "systemIndex": 9,
+        "systemName": "/Lotus/Language/Locations/Ceres",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "JupiterToEuropaJunction": {
+        "name": "/Lotus/Language/Locations/EuropaJunction",
+        "systemIndex": 4,
+        "systemName": "/Lotus/Language/Locations/Jupiter",
         "nodeType": 7,
         "masteryReq": 0,
         "missionIndex": 23,
@@ -4825,243 +4738,63 @@
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "CrewBattleNode503": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode503",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+    "SaturnToUranusJunction": {
+        "name": "/Lotus/Language/Locations/UranusJunction",
+        "systemIndex": 5,
+        "systemName": "/Lotus/Language/Locations/Saturn",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "SaturnHUB": {
+        "name": "/Lotus/Language/Locations/RelayStationSaturn",
+        "systemIndex": 5,
+        "systemName": "/Lotus/Language/Locations/Saturn",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "SolNode723": {
+        "name": "/Lotus/Language/JadeShadows/SolarMapAscensionNodeA",
+        "systemIndex": 6,
+        "systemName": "/Lotus/Language/Locations/Uranus",
         "nodeType": 0,
         "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
+        "missionIndex": 39,
+        "missionName": "/Lotus/Language/Missions/MissionName_Ascension",
         "factionIndex": 1,
         "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 15,
-        "maxEnemyLevel": 18,
+        "minEnemyLevel": 45,
+        "maxEnemyLevel": 50,
         "masteryExp": 0,
         "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusExterminateRewards"
-        ]
-    },
-    "CrewBattleNode502": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode02",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 15,
-        "maxEnemyLevel": 20,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
-    },
-    "CrewBattleNode511": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode511",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackVolatile",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 17,
-        "maxEnemyLevel": 20,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusVolatileRewards"
-        ]
-    },
-    "CrewBattleNode512": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode512",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSpy",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 19,
-        "maxEnemyLevel": 22,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusSpyVaultsRewards"
-        ]
-    },
-    "CrewBattleNode509": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode09",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 20,
-        "maxEnemyLevel": 28,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
-    },
-    "SolNode801": {
-        "name": "/Lotus/Language/Onslaught/SanctuaryOnslaught",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 30,
-        "missionName": "/Lotus/Language/Missions/MissionName_EndlessExtermination",
-        "minEnemyLevel": 20,
-        "maxEnemyLevel": 30,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsEasy"
+            "/Lotus/Types/Game/MissionDecks/AscensionMissionRewards/AscensionRewards"
         ],
+        "questReq": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain",
         "hidden": true
     },
-    "CrewBattleNode513": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode513",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
-        "nodeType": 0,
+    "UranusToNeptuneJunction": {
+        "name": "/Lotus/Language/Locations/NeptuneJunction",
+        "systemIndex": 6,
+        "systemName": "/Lotus/Language/Locations/Uranus",
+        "nodeType": 7,
         "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 21,
-        "maxEnemyLevel": 24,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
         "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusOrphixRewards"
-        ]
-    },
-    "CrewBattleNode518": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode18",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 21,
-        "maxEnemyLevel": 26,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
-    },
-    "CrewBattleNode515": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode515",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 22,
-        "maxEnemyLevel": 25,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusSurvivalRewards"
-        ]
-    },
-    "CrewBattleNode514": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode514",
-        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 23,
-        "maxEnemyLevel": 26,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusDefenseRewards"
-        ]
-    },
-    "CrewBattleNode519": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode19",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 24,
-        "maxEnemyLevel": 30,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
-    },
-    "CrewBattleNode504": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode504",
-        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 25,
-        "maxEnemyLevel": 28,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneDefenseRewards"
-        ]
-    },
-    "CrewBattleNode516": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode516",
-        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 27,
-        "maxEnemyLevel": 30,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneExterminateRewards"
-        ]
-    },
-    "CrewBattleNode521": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode521",
-        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 29,
-        "maxEnemyLevel": 32,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneSurvivalRewards"
-        ]
-    },
-    "CrewBattleNode522": {
-        "name": "/Lotus/Language/Locations/EarthCrewBattleNode22",
-        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 29,
-        "maxEnemyLevel": 36,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
+        "rewardManifests": []
     },
     "SolNode761": {
         "name": "/Lotus/Language/GameModes/IndexLowRisk",
@@ -5134,38 +4867,57 @@
             "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard"
         ]
     },
-    "SolNode705": {
-        "name": "/Lotus/Language/Items/InfestedAladAssassinateKey",
-        "systemIndex": 10,
-        "systemName": "/Lotus/Language/Locations/Eris",
-        "nodeType": 0,
+    "NeptuneToPlutoJunction": {
+        "name": "/Lotus/Language/Locations/PlutoJunction",
+        "systemIndex": 7,
+        "systemName": "/Lotus/Language/Locations/Neptune",
+        "nodeType": 7,
         "masteryReq": 0,
-        "missionIndex": 0,
-        "missionName": "/Lotus/Language/Missions/MissionName_Assassination",
-        "factionIndex": 2,
-        "factionName": "/Lotus/Language/Game/Faction_InfestationUC",
-        "minEnemyLevel": 30,
-        "maxEnemyLevel": 35,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 3,
         "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/BossMissionRewards/CowgirlRewards"
-        ]
+        "rewardManifests": []
     },
-    "CrewBattleNode523": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode523",
-        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
-        "nodeType": 0,
+    "PlutoToErisJunction": {
+        "name": "/Lotus/Language/Locations/ErisJunction",
+        "systemIndex": 8,
+        "systemName": "/Lotus/Language/Locations/Pluto",
+        "nodeType": 7,
         "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 31,
-        "maxEnemyLevel": 34,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 1,
         "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneOrphixRewards"
-        ]
+        "rewardManifests": []
+    },
+    "PlutoToSednaJunction": {
+        "name": "/Lotus/Language/Locations/SednaJunction",
+        "systemIndex": 8,
+        "systemName": "/Lotus/Language/Locations/Pluto",
+        "nodeType": 7,
+        "masteryReq": 0,
+        "missionIndex": 23,
+        "missionName": "/Lotus/Language/Missions/MissionName_Junction",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 1,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "PlutoHUB": {
+        "name": "/Lotus/Language/Locations/RelayStationPluto",
+        "systemIndex": 8,
+        "systemName": "/Lotus/Language/Locations/Pluto",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
     },
     "SolNode701": {
         "name": "/Lotus/Language/Items/GolemAssassinateKey",
@@ -5184,6 +4936,397 @@
             "/Lotus/Types/Game/MissionDecks/BossMissionRewards/AtlasRewards"
         ]
     },
+    "SolNode705": {
+        "name": "/Lotus/Language/Items/InfestedAladAssassinateKey",
+        "systemIndex": 10,
+        "systemName": "/Lotus/Language/Locations/Eris",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 0,
+        "missionName": "/Lotus/Language/Missions/MissionName_Assassination",
+        "factionIndex": 2,
+        "factionName": "/Lotus/Language/Game/Faction_InfestationUC",
+        "minEnemyLevel": 30,
+        "maxEnemyLevel": 35,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/BossMissionRewards/CowgirlRewards"
+        ]
+    },
+    "ZarimanHub": {
+        "name": "/Lotus/Language/Zariman/ZarimanHubName",
+        "systemIndex": 21,
+        "systemName": "/Lotus/Language/Zariman/ZarimanRegionName",
+        "nodeType": 3,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "SolNode234": {
+        "name": "/Lotus/Language/Zariman/ZarimanApartment",
+        "systemIndex": 21,
+        "systemName": "/Lotus/Language/Zariman/ZarimanRegionName",
+        "nodeType": 6,
+        "masteryReq": 0,
+        "missionIndex": 10,
+        "missionName": "/Lotus/Language/Missions/MissionName_PVP",
+        "minEnemyLevel": 0,
+        "maxEnemyLevel": 0,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode556": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode56",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 1,
+        "maxEnemyLevel": 1,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode502": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode02",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 15,
+        "maxEnemyLevel": 20,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
+        ]
+    },
+    "CrewBattleNode509": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode09",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 20,
+        "maxEnemyLevel": 28,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
+        ]
+    },
+    "CrewBattleNode518": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode18",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 21,
+        "maxEnemyLevel": 26,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
+        ]
+    },
+    "CrewBattleNode519": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode19",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 24,
+        "maxEnemyLevel": 30,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
+        ]
+    },
+    "CrewBattleNode522": {
+        "name": "/Lotus/Language/Locations/EarthCrewBattleNode22",
+        "systemName": "/Lotus/Language/Locations/Earth_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 29,
+        "maxEnemyLevel": 36,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
+        ]
+    },
+    "CrewBattleNode511": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode511",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackVolatile",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 17,
+        "maxEnemyLevel": 20,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusVolatileRewards"
+        ]
+    },
+    "CrewBattleNode513": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode513",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 21,
+        "maxEnemyLevel": 24,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusOrphixRewards"
+        ]
+    },
+    "CrewBattleNode515": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode515",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 22,
+        "maxEnemyLevel": 25,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusSurvivalRewards"
+        ]
+    },
+    "CrewBattleNode514": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode514",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 23,
+        "maxEnemyLevel": 26,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusDefenseRewards"
+        ]
+    },
+    "CrewBattleNode503": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode503",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 15,
+        "maxEnemyLevel": 18,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusExterminateRewards"
+        ]
+    },
+    "CrewBattleNode512": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode512",
+        "systemName": "/Lotus/Language/Locations/Venus_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSpy",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 19,
+        "maxEnemyLevel": 22,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusSpyVaultsRewards"
+        ]
+    },
+    "CrewBattleNode557": {
+        "name": "/Lotus/Language/Locations/NemesisShowdownNodeGrineer",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackAssassinate",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 63,
+        "maxEnemyLevel": 70,
+        "masteryExp": 0,
+        "rewardManifests": [],
+        "hidden": true
+    },
+    "CrewBattleNode501": {
+        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode01",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 55,
+        "maxEnemyLevel": 60,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
+        ]
+    },
+    "CrewBattleNode534": {
+        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode34",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 48,
+        "maxEnemyLevel": 56,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
+        ]
+    },
+    "CrewBattleNode533": {
+        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode33",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 54,
+        "maxEnemyLevel": 60,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
+        ]
+    },
+    "CrewBattleNode535": {
+        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode35",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 65,
+        "maxEnemyLevel": 70,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
+        ]
+    },
+    "CrewBattleNode530": {
+        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode30",
+        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 70,
+        "maxEnemyLevel": 75,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
+        ]
+    },
+    "CrewBattleNode558": {
+        "name": "/Lotus/Language/Locations/NemesisShowdownNodeCorpus",
+        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackAssassinate",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 63,
+        "maxEnemyLevel": 70,
+        "masteryExp": 0,
+        "rewardManifests": [],
+        "hidden": true
+    },
+    "CrewBattleNode504": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode504",
+        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 25,
+        "maxEnemyLevel": 28,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneDefenseRewards"
+        ]
+    },
+    "CrewBattleNode516": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode516",
+        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 27,
+        "maxEnemyLevel": 30,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneExterminateRewards"
+        ]
+    },
+    "CrewBattleNode523": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode523",
+        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 31,
+        "maxEnemyLevel": 34,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneOrphixRewards"
+        ]
+    },
     "CrewBattleNode525": {
         "name": "/Lotus/Language/Locations/CrewBattleNode525",
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
@@ -5198,6 +5341,22 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneSpyVaultsRewards"
+        ]
+    },
+    "CrewBattleNode521": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode521",
+        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 29,
+        "maxEnemyLevel": 32,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackNeptuneSurvivalRewards"
         ]
     },
     "CrewBattleNode524": {
@@ -5302,251 +5461,8 @@
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackPlutoSpyVaultsRewards"
         ]
     },
-    "CrewBattleNode538": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode538",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 45,
-        "maxEnemyLevel": 49,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "SolNode723": {
-        "name": "/Lotus/Language/JadeShadows/SolarMapAscensionNodeA",
-        "systemIndex": 6,
-        "systemName": "/Lotus/Language/Locations/Uranus",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 39,
-        "missionName": "/Lotus/Language/Missions/MissionName_Ascension",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 45,
-        "maxEnemyLevel": 50,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/AscensionMissionRewards/AscensionRewards"
-        ],
-        "questReq": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain",
-        "hidden": true
-    },
-    "CrewBattleNode539": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode539",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackVolatile",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 48,
-        "maxEnemyLevel": 52,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CrewBattleNode534": {
-        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode34",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 48,
-        "maxEnemyLevel": 56,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
-        ]
-    },
-    "CrewBattleNode540": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode540",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 51,
-        "maxEnemyLevel": 55,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CrewBattleNode541": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode541",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 54,
-        "maxEnemyLevel": 58,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CrewBattleNode533": {
-        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode33",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 54,
-        "maxEnemyLevel": 60,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
-        ]
-    },
-    "CrewBattleNode542": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode542",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 55,
-        "maxEnemyLevel": 59,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "CrewBattleNode501": {
-        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode01",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 55,
-        "maxEnemyLevel": 60,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
-        ]
-    },
-    "CrewBattleNode543": {
-        "name": "/Lotus/Language/Locations/CrewBattleNode543",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSpy",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 57,
-        "maxEnemyLevel": 60,
-        "masteryExp": 0,
-        "rewardManifests": []
-    },
-    "SolNode802": {
-        "name": "/Lotus/Language/Onslaught/SanctuaryOnslaughtChallenge",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 30,
-        "missionName": "/Lotus/Language/Missions/MissionName_EndlessExtermination",
-        "minEnemyLevel": 60,
-        "maxEnemyLevel": 70,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsHard"
-        ],
-        "hidden": true
-    },
-    "CrewBattleNode557": {
-        "name": "/Lotus/Language/Locations/NemesisShowdownNodeGrineer",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackAssassinate",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 63,
-        "maxEnemyLevel": 70,
-        "masteryExp": 0,
-        "rewardManifests": [],
-        "hidden": true
-    },
-    "CrewBattleNode558": {
-        "name": "/Lotus/Language/Locations/NemesisShowdownNodeCorpus",
-        "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_RailjackAssassinate",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 63,
-        "maxEnemyLevel": 70,
-        "masteryExp": 0,
-        "rewardManifests": [],
-        "hidden": true
-    },
-    "CrewBattleNode535": {
-        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode35",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 65,
-        "maxEnemyLevel": 70,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
-        ]
-    },
-    "CrewBattleNode530": {
-        "name": "/Lotus/Language/Locations/SaturnCrewBattleNode30",
-        "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 70,
-        "maxEnemyLevel": 75,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/SaturnRailjackRewards"
-        ]
-    },
-    "CrewBattleNode553": {
-        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode53",
-        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 32,
-        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
-        "factionIndex": 0,
-        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
-        "minEnemyLevel": 80,
-        "maxEnemyLevel": 90,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/DeepSpaceSentientRailjackRewards"
-        ]
-    },
-    "CrewBattleNode554": {
-        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode54",
+    "CrewBattleNode550": {
+        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode50",
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5577,8 +5493,8 @@
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/DeepSpaceSentientRailjackRewards"
         ]
     },
-    "CrewBattleNode550": {
-        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode50",
+    "CrewBattleNode554": {
+        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode54",
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5593,20 +5509,104 @@
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/DeepSpaceSentientRailjackRewards"
         ]
     },
-    "SolNode720": {
-        "name": "/Lotus/Language/Entrati/SolarMapEntratiVaultsNode",
-        "systemIndex": 16,
-        "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
+    "CrewBattleNode553": {
+        "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode53",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
-        "missionIndex": 37,
-        "missionName": "/Lotus/Language/Missions/MissionName_Vaults",
-        "minEnemyLevel": 220,
-        "maxEnemyLevel": 240,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_Railjack",
+        "factionIndex": 0,
+        "factionName": "/Lotus/Language/Game/Faction_GrineerUC",
+        "minEnemyLevel": 80,
+        "maxEnemyLevel": 90,
         "masteryExp": 0,
         "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/EntratiMissionRewards/EntratiVaultRewards"
-        ],
-        "hidden": true
+            "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/DeepSpaceSentientRailjackRewards"
+        ]
+    },
+    "CrewBattleNode538": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode538",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackExterminate",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 45,
+        "maxEnemyLevel": 49,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode539": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode539",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackVolatile",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 48,
+        "maxEnemyLevel": 52,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode540": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode540",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackDefense",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 51,
+        "maxEnemyLevel": 55,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode541": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode541",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackOrphix",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 54,
+        "maxEnemyLevel": 58,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode542": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode542",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSurvival",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 55,
+        "maxEnemyLevel": 59,
+        "masteryExp": 0,
+        "rewardManifests": []
+    },
+    "CrewBattleNode543": {
+        "name": "/Lotus/Language/Locations/CrewBattleNode543",
+        "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 32,
+        "missionName": "/Lotus/Language/Missions/MissionName_RailjackSpy",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 57,
+        "maxEnemyLevel": 60,
+        "masteryExp": 0,
+        "rewardManifests": []
     }
 }
