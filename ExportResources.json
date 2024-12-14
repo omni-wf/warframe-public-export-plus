@@ -14656,6 +14656,60 @@
         "productCategory": "ShipDecorations",
         "excludeFromCodex": true
     },
+    "/Lotus/Types/Items/ShipDecos/HexAmirBobbleHead": {
+        "name": "/Lotus/Language/1999/AmirNoggleName",
+        "description": "/Lotus/Language/1999/AmirNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexAmir.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/HexAoiBobbleHead": {
+        "name": "/Lotus/Language/1999/AoiNoggleName",
+        "description": "/Lotus/Language/1999/AoiNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexAoi.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/HexArthurBobbleHead": {
+        "name": "/Lotus/Language/1999/ArthurNoggleName",
+        "description": "/Lotus/Language/1999/ArthurNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexArthur.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/HexEleanorBobbleHead": {
+        "name": "/Lotus/Language/1999/EleanorNoggleName",
+        "description": "/Lotus/Language/1999/EleanorNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexEleanor.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/HexLettieBobbleHead": {
+        "name": "/Lotus/Language/1999/LettieNoggleName",
+        "description": "/Lotus/Language/1999/LettieNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexLettie.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
+    "/Lotus/Types/Items/ShipDecos/HexQuincyBobbleHead": {
+        "name": "/Lotus/Language/1999/QuincyNoggleName",
+        "description": "/Lotus/Language/1999/QuincyNoggleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadHexQuincy.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Items/ShipDecos/HildrynPrimeBobbleHead": {
         "name": "/Lotus/Language/ShipDecorations/BobbleHeadHildrynPrimeName",
         "description": "/Lotus/Language/ShipDecorations/BobbleHeadHildrynPrimeDesc",

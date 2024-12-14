@@ -9603,6 +9603,43 @@
         ],
         "premiumPrice": 300
     },
+    "/Lotus/Types/StoreItems/Packages/HexNoggleBundle": {
+        "name": "/Lotus/Language/1999/HexNoggleCollectionName",
+        "description": "/Lotus/Language/1999/HexNoggleCollectionDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Noggles/HexNoggleBundle.png",
+        "components": [
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexAmirBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexAoiBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexArthurBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexEleanorBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexLettieBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/HexQuincyBobbleHead",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ]
+    },
     "/Lotus/Types/StoreItems/Packages/HildrynBundle": {
         "name": "/Lotus/Language/Bundles/HildrynBundleName",
         "description": "/Lotus/Language/Bundles/HildrynBundleDesc",
