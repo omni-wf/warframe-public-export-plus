@@ -4453,24 +4453,6 @@
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "SolNode723": {
-        "name": "/Lotus/Language/JadeShadows/SolarMapAscensionNodeA",
-        "systemIndex": 6,
-        "systemName": "/Lotus/Language/Locations/Uranus",
-        "nodeType": 0,
-        "masteryReq": 0,
-        "missionIndex": 39,
-        "missionName": "/Lotus/Language/Missions/MissionName_Ascension",
-        "factionIndex": 1,
-        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
-        "minEnemyLevel": 45,
-        "maxEnemyLevel": 50,
-        "masteryExp": 0,
-        "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/AscensionMissionRewards/AscensionRewards"
-        ],
-        "questReq": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain"
-    },
     "ZarimanHub": {
         "name": "/Lotus/Language/Zariman/ZarimanHubName",
         "systemIndex": 21,
@@ -5333,6 +5315,25 @@
         "maxEnemyLevel": 49,
         "masteryExp": 0,
         "rewardManifests": []
+    },
+    "SolNode723": {
+        "name": "/Lotus/Language/JadeShadows/SolarMapAscensionNodeA",
+        "systemIndex": 6,
+        "systemName": "/Lotus/Language/Locations/Uranus",
+        "nodeType": 0,
+        "masteryReq": 0,
+        "missionIndex": 39,
+        "missionName": "/Lotus/Language/Missions/MissionName_Ascension",
+        "factionIndex": 1,
+        "factionName": "/Lotus/Language/Game/Faction_CorpusUC",
+        "minEnemyLevel": 45,
+        "maxEnemyLevel": 50,
+        "masteryExp": 0,
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/AscensionMissionRewards/AscensionRewards"
+        ],
+        "questReq": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain",
+        "hidden": true
     },
     "CrewBattleNode539": {
         "name": "/Lotus/Language/Locations/CrewBattleNode539",
