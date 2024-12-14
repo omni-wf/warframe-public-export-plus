@@ -376,8 +376,8 @@ export interface IRegion {
     systemName?:            string;
     nodeType:               number;
     masteryReq:             number;
-    missionIndex?:          number;
-    missionName?:           string;
+    missionIndex:           number;
+    missionName:            string;
     factionIndex?:          number;
     factionName?:           string;
     secondaryFactionIndex?: number;
