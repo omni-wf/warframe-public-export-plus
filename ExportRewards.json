@@ -1,4 +1,283 @@
 {
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierABountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 12,
+                "probability": 0.1951
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                "itemCount": 20,
+                "probability": 0.1463
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+                "itemCount": 1,
+                "probability": 0.1463
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 18,
+                "probability": 0.122
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                "itemCount": 20,
+                "probability": 0.122
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.0976
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/Cyte09ChassisBlueprint",
+                "itemCount": 1,
+                "probability": 0.122
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                "itemCount": 1,
+                "probability": 0.0488
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierBBountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/RareFusionBundle",
+                "itemCount": 15,
+                "probability": 0.186
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                "itemCount": 30,
+                "probability": 0.186
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+                "itemCount": 1,
+                "probability": 0.1395
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 30,
+                "probability": 0.1163
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                "itemCount": 3,
+                "probability": 0.1163
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.093
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/Cyte09HelmetBlueprint",
+                "itemCount": 1,
+                "probability": 0.1163
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                "itemCount": 1,
+                "probability": 0.0465
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierCBountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 36,
+                "probability": 0.1556
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/PowerLensGreater",
+                "itemCount": 1,
+                "probability": 0.1556
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/AttackLensGreater",
+                "itemCount": 1,
+                "probability": 0.1333
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+                "itemCount": 1,
+                "probability": 0.1556
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 42,
+                "probability": 0.1333
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.0889
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/Cyte09SystemsBlueprint",
+                "itemCount": 1,
+                "probability": 0.1333
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                "itemCount": 4,
+                "probability": 0.0444
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierDBountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/RareFusionBundle",
+                "itemCount": 30,
+                "probability": 0.1296
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/WardLensGreater",
+                "itemCount": 1,
+                "probability": 0.1111
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/DefenseLensGreater",
+                "itemCount": 1,
+                "probability": 0.1111
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/TacticLensGreater",
+                "itemCount": 1,
+                "probability": 0.1111
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+                "itemCount": 1,
+                "probability": 0.1111
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 54,
+                "probability": 0.1481
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                "itemCount": 6,
+                "probability": 0.1296
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.1111
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/LasSilencedPistolBlueprint",
+                "itemCount": 1,
+                "probability": 0.037
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierEBountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 66,
+                "probability": 0.1373
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/WardLensGreater",
+                "itemCount": 1,
+                "probability": 0.1176
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/DefenseLensGreater",
+                "itemCount": 1,
+                "probability": 0.1176
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Focus/TacticLensGreater",
+                "itemCount": 1,
+                "probability": 0.1176
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+                "itemCount": 1,
+                "probability": 0.1176
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 84,
+                "probability": 0.1569
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                "itemCount": 6,
+                "probability": 0.1176
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.0784
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/TnBeltFedRifleBlueprint",
+                "itemCount": 1,
+                "probability": 0.0392
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TierFBountyRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 66,
+                "probability": 0.14
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                "itemCount": 50,
+                "probability": 0.14
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                "itemCount": 50,
+                "probability": 0.12
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 84,
+                "probability": 0.14
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                "itemCount": 10,
+                "probability": 0.12
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                "itemCount": 10,
+                "probability": 0.12
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                "itemCount": 8,
+                "probability": 0.1
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Items/MiscItems/SchismKey",
+                "itemCount": 1,
+                "probability": 0.08
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+                "itemCount": 1,
+                "probability": 0.04
+            }
+        ]
+    ],
     "/Lotus/Types/Game/MissionDecks/ArchonSortieRewards": [
         [
             {
