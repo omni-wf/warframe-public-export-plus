@@ -4346,7 +4346,9 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EndlessCaptureRewards"
+        ]
     },
     "SolNode851": {
         "name": "/Lotus/Language/1999/1999NodeB",
@@ -4361,7 +4363,9 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards"
+        ]
     },
     "SolNode852": {
         "name": "/Lotus/Language/1999/1999NodeC",
@@ -4376,7 +4380,9 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards"
+        ]
     },
     "SolNode853": {
         "name": "/Lotus/Language/1999/1999NodeD",
@@ -4391,7 +4397,10 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
+        ],
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards"
     },
     "SolNode854": {
         "name": "/Lotus/Language/1999/1999NodeE",
@@ -4406,7 +4415,10 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
+        ],
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards"
     },
     "SolNode855": {
         "name": "/Lotus/Language/1999/1999NodeF",
@@ -4451,7 +4463,9 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TankAssassinateRewards"
+        ]
     },
     "SolNode801": {
         "name": "/Lotus/Language/Onslaught/SanctuaryOnslaught",
