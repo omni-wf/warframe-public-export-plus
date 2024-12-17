@@ -159,10 +159,10 @@ export interface IEnemyAvatar {
     name:                      string;
     icon?:                     string;
     description?:              string;
-    faction:                   "Stalker" | "None" | "Corpus" | "Grineer" | "Dummy" | "TENNO" | "Neutral" | "Narmer" | "Infestation" | "Orokin" | "Duviri" | "ENEMY" | "MITW" | "Prey" | "Sentient" | "NarmerVeil" | "Tenno" | "Red Veil";
+    faction:                   string;
     health:                    number;
     killXPReward:              number;
-    factionResistanceKeyword?: "RK_INFESTED_FACTION" | "RK_CORPUS_FACTION" | "RK_GRINEER_FACTION" | "RK_CORPUS_AMALGAM_FACTION" | "RK_NARMER_FACTION" | "RK_GRINEER_KUVA_FACTION" | "RK_NEUTRAL" | "RK_OROKIN_FACTION" | "RK_ZARIMAN_FACTION" | "RK_MITW_FACTION" | "RK_INFESTED_DEIMOS_FACTION" | "RK_DISABLE_FACTION" | "RK_SENTIENT_FACTION";
+    factionResistanceKeyword?: string;
     droptable?:                string;
     isFrivolous?:              boolean;
 }
@@ -203,7 +203,7 @@ export interface IFlavourItem {
     name:              string;
     description:       string;
     icon:              string;
-    base:              "/EE/Types/Engine/UIBackground" | "/EE/Types/Engine/UICursor" | "/EE/Types/Engine/UISounds" | "/Lotus/Types/Game/UIStyle" | "/Lotus/Types/Game/ActionFigureDiorama" | "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColor" | "/Lotus/Types/Game/NotePack" | "/Lotus/Types/Game/PoseSet" | "/Lotus/Types/Game/QuartersWallTattoo" | "/EE/Types/Engine/UIFlavourItem" | "/Lotus/Types/Items/Emotes/Emote" | "/Lotus/Types/Items/VideoWallBackdropItem" | "/Lotus/Types/Items/VideoWallSoundscapeItem" | "/Lotus/Types/Items/AvatarImageItem" | "/Lotus/Types/Items/ColorPickerItem" | "/Lotus/Types/Items/ShipExteriorSkinItem" | "/Lotus/Types/Items/ShipAttachmentItem";
+    base:              string;
     codexSecret:       boolean;
     excludeFromCodex?: boolean;
     hexColours?:       IColour[];
@@ -497,7 +497,7 @@ export interface IUpgrade {
     compat?:              string;
     compatibilityTags?:   string[];
     compatName?:          string;
-    type?:                "STANCE" | "WARFRAME" | "PARAZON" | "MELEE" | "---" | "PRIMARY" | "SECONDARY" | "KAVAT" | "SENTINEL" | "KUBROW" | "AURA" | "ARCH-GUN" | "ARCHWING" | "ARCH-MELEE" | "HELMINTH CHARGER";
+    type?:                string;
     description?:         string;
     isUtility?:           boolean;
     modSet?:              string;
