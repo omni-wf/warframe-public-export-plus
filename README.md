@@ -8,17 +8,13 @@ Data and localisations are entirely split here (into Export\*.json and dict.\*.j
 
 ## Images
 
-Most exports here have an `icon` field, which contains a path, e.g. `/Lotus/Interface/Icons/Player/LotusSymbol.png`. There are a few ways to obtain an image from such a path:
+Most exports here have an `icon` field, which contains a path, e.g. `/Lotus/Interface/Icons/Player/DanteGlyph.png`. These images are shipped with the game, so they can be accessed in several ways:
 - [Puxtril's Warframe Exporter](https://github.com/Puxtril/Warframe-Exporter) can be used entirely offline to export textures from your game files.
-- browse.wf hosts all images and can be queried like this: <https://browse.wf/Lotus/Interface/Icons/Player/LotusSymbol.png>
-- ExportImages can be used to find out if an image is hosted on `content.warframe.com/PublicExport`, in which case it can be obtained by adding an exclamation mark followed by the `contentHash`, like so: <https://content.warframe.com/PublicExport/Lotus/Interface/Icons/Player/LotusSymbol.png!00_WC8orfy4NOtWelndlH7qmQ>
+- browse.wf hosts all images and can be queried by simply appending the path: <https://browse.wf/Lotus/Interface/Icons/Player/DanteGlyph.png>
 
-### Compression
-
-If you are interested in high-quality images, you should check ExportImages first. For glyphs specifically, you might also manually find the uncompressed image on the forums. For comparison:
-- [Uncompressed original](<https://media.invisioncic.com/Mwarframe/pages_media/1_DanteGlyph.png>)
-- [Mildly compressed image for Public Export](<https://content.warframe.com/PublicExport/Lotus/Interface/Icons/Player/DanteGlyph.png!00_bWgrY3O49Z3RYaqGpuawpg>)
-- [Heavily compressed image shipped with the game](<https://browse.wf/Lotus/Interface/Icons/Player/DanteGlyph.png>)
+However, images shipped with the game are heavily compressed, so you should check ExportImages if you care about quality:
+- Most glyphs have a `forumName`, which can be used to find the uncompressed image at `media.invisioncic.com/Mwarframe/pages_media/<forumName>.png`, e.g. <https://media.invisioncic.com/Mwarframe/pages_media/1_DanteGlyph.png>
+- Most images additionally have a `contentHash`, which means they are hosted at `content.warframe.com/PublicExport` with mild compression, and can be obtained by appending the contentHash with an exclamation mark, like so: <https://content.warframe.com/PublicExport/Lotus/Interface/Icons/Player/DanteGlyph.png!00_bWgrY3O49Z3RYaqGpuawpg>
 
 ## Notes
 

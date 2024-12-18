@@ -246,7 +246,8 @@ export interface IGear {
 }
 
 export interface IImage {
-    contentHash: string;
+    contentHash?: string;
+    forumName?: string;
 }
 
 export interface IIntrinsic {
