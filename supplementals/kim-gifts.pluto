@@ -1,0 +1,14 @@
+local { json } = require "*"
+
+local kim = io.contents("kim.json") |> json.decode
+local ExportResources = io.contents("../ExportResources.json") |> json.decode
+local dict_en = io.contents("../dict.en.json") |> json.decode
+
+for dialogue_name, dialogue_data in kim do
+	if dialogue_data.CompatibleGifts then
+		print(dialogue_name)
+		for dialogue_data.CompatibleGifts as gift do
+			print("- "..dict_en[ExportResources[gift.Item].name]:replace("<RETRO_TM>", "™").." grants "..gift.GainedChemistry.." Chemistry")
+		end
+	end
+end
