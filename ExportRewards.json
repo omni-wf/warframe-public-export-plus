@@ -2,126 +2,116 @@
     "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EndlessCaptureRewards": [
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/5000Hollars",
-                "itemCount": 1,
-                "probability": 0.3099
-            },
-            {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
                 "itemCount": 12,
-                "probability": 0.1291
+                "probability": 0.1887
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeCBronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0775
+                "probability": 0.1132
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
                 "itemCount": 1,
-                "probability": 0.0031
+                "probability": 0.0032
             }
         ],
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/7500Hollars",
-                "itemCount": 1,
-                "probability": 0.2206
-            },
-            {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
                 "itemCount": 18,
-                "probability": 0.2206
+                "probability": 0.2867
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeFBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeBBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
-                "probability": 0.0735
+                "probability": 0.0956
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
@@ -156,59 +146,54 @@
         ],
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/10000Hollars",
-                "itemCount": 1,
-                "probability": 0.2882
-            },
-            {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/RareFusionBundle",
                 "itemCount": 15,
-                "probability": 0.2882
+                "probability": 0.4228
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.1081
+                "probability": 0.1586
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.1081
+                "probability": 0.1586
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.1081
+                "probability": 0.1586
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
                 "itemCount": 1,
-                "probability": 0.0166
+                "probability": 0.0169
             }
         ]
     ],
@@ -318,49 +303,44 @@
     "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards": [
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/5000Hollars",
-                "itemCount": 1,
-                "probability": 0.4843
-            },
-            {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
                 "itemCount": 12,
-                "probability": 0.2018
+                "probability": 0.4036
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeCBronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0404
+                "probability": 0.0807
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
@@ -380,8 +360,8 @@
         ],
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/7500Hollars",
-                "itemCount": 1,
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 20,
                 "probability": 0.2804
             },
             {
@@ -437,29 +417,24 @@
         ],
         [
             {
-                "type": "/Lotus/StoreItems/Types/PickUps/Credits/10000Hollars",
-                "itemCount": 1,
-                "probability": 0.2162
-            },
-            {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/RareFusionBundle",
-                "itemCount": 15,
-                "probability": 0.2162
+                "itemCount": 20,
+                "probability": 0.318
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0811
+                "probability": 0.1192
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0811
+                "probability": 0.1192
             },
             {
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
                 "itemCount": 1,
-                "probability": 0.0811
+                "probability": 0.1192
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
