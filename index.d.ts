@@ -454,13 +454,31 @@ export interface ISentinel {
     }[];
 }
 
+export type TStandingLimitBin =
+    "STANDING_LIMIT_BIN_NONE"
+    | "STANDING_LIMIT_BIN_NORMAL"
+    | "STANDING_LIMIT_BIN_PVP"
+    | "STANDING_LIMIT_BIN_LIBRARY"
+    | "STANDING_LIMIT_BIN_CETUS"
+    | "STANDING_LIMIT_BIN_QUILLS"
+    | "STANDING_LIMIT_BIN_SOLARIS"
+    | "STANDING_LIMIT_BIN_VENTKIDS"
+    | "STANDING_LIMIT_BIN_VOX"
+    | "STANDING_LIMIT_BIN_ENTRATI"
+    | "STANDING_LIMIT_BIN_NECRALOID"
+    | "STANDING_LIMIT_BIN_ZARIMAN"
+    | "STANDING_LIMIT_BIN_KAHL"
+    | "STANDING_LIMIT_BIN_CAVIA"
+    | "STANDING_LIMIT_BIN_HEX";
+
 export interface ISyndicate {
     uniqueName: string;
     name: string;
     icon: string;
+    description?: string;
     colour: IColour;
     backgroundColour: IColour;
-    description?: string;
+    dailyLimitBin: TStandingLimitBin;
     alignments?: Record<string, number>;
     titles?: {
         level: number;
