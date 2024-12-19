@@ -684,7 +684,8 @@
             "xpBonus": 0.12,
             "weaponXpBonusFor": "Melee",
             "weaponXpBonusVal": 0.08
-        }
+        },
+        "questReq": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain"
     },
     "SolNode228": {
         "name": "/Lotus/Language/Locations/EidolonPlains",
@@ -1025,7 +1026,8 @@
         "masteryExp": 18,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/LastWishMissionRewards/LastWishRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain"
     },
     "SolNode87": {
         "name": "/Lotus/Language/Locations/Ganymede",
@@ -1042,7 +1044,8 @@
         "masteryExp": 51,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/DisruptionMissionRewards/DisruptionRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain"
     },
     "SolNode88": {
         "name": "/Lotus/Language/Locations/Adrastea",
@@ -3909,7 +3912,8 @@
         "maxEnemyLevel": 30,
         "masteryExp": 0,
         "rewardManifests": [],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/CacheRewardsMoon"
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/CacheRewardsMoon",
+        "questReq": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain"
     },
     "SolNode306": {
         "name": "/Lotus/Language/Locations/MoonNode6",
@@ -4028,7 +4032,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/DisruptionMissionRewards/DisruptionLuaRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain"
     },
     "SolNode309": {
         "name": "/Lotus/Language/Locations/LowerCircle",
@@ -4161,7 +4166,8 @@
         "maxEnemyLevel": 30,
         "masteryExp": 0,
         "rewardManifests": [],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/CacheRewardsFortress"
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/CacheRewardsFortress",
+        "questReq": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain"
     },
     "SolNode747": {
         "name": "/Lotus/Language/Locations/FortressNodeG",
@@ -4212,7 +4218,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/ZarimanMissionRewards/VoidFloodRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode231": {
         "name": "/Lotus/Language/Zariman/ZarimanNodeB",
@@ -4229,7 +4236,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/ZarimanMissionRewards/ZarimanExterminateRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode232": {
         "name": "/Lotus/Language/Zariman/ZarimanNodeC",
@@ -4246,7 +4254,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/ZarimanMissionRewards/VoidCascadeRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode233": {
         "name": "/Lotus/Language/Zariman/ZarimanNodeD",
@@ -4263,7 +4272,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/ZarimanMissionRewards/VoidArmageddonRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode235": {
         "name": "/Lotus/Language/Zariman/ZarimanNodeE",
@@ -4280,7 +4290,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/ZarimanMissionRewards/ZarimanMobileDefenseRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode236": {
         "name": "/Lotus/Language/Duviri/MapNodeFull",
@@ -4297,7 +4308,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/DuviriEncounterRewards/DuviriResourceRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/DuviriQuest/DuviriQuestKeyChain"
     },
     "SolNode237": {
         "name": "/Lotus/Language/Duviri/MapNodeStory",
@@ -4314,7 +4326,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/DuviriEncounterRewards/DuviriResourceRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/DuviriQuest/DuviriQuestKeyChain"
     },
     "SolNode238": {
         "name": "/Lotus/Language/Duviri/MapNodeEndless",
@@ -4331,7 +4344,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/DuviriEncounterRewards/DuviriCircuitResourceRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/DuviriQuest/DuviriQuestKeyChain"
     },
     "SolNode850": {
         "name": "/Lotus/Language/1999/1999NodeA",
@@ -4348,7 +4362,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EndlessCaptureRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode851": {
         "name": "/Lotus/Language/1999/1999NodeB",
@@ -4365,7 +4380,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode852": {
         "name": "/Lotus/Language/1999/1999NodeC",
@@ -4382,7 +4398,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode853": {
         "name": "/Lotus/Language/1999/1999NodeD",
@@ -4400,7 +4417,8 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
         ],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards"
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards",
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode854": {
         "name": "/Lotus/Language/1999/1999NodeE",
@@ -4418,7 +4436,8 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
         ],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards"
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards",
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode855": {
         "name": "/Lotus/Language/1999/1999NodeF",
@@ -4433,7 +4452,8 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode857": {
         "name": "/Lotus/Language/1999/1999NodeH",
@@ -4448,7 +4468,8 @@
         "minEnemyLevel": 65,
         "maxEnemyLevel": 70,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode856": {
         "name": "/Lotus/Language/1999/1999NodeG",
@@ -4465,7 +4486,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/TankAssassinateRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode801": {
         "name": "/Lotus/Language/Onslaught/SanctuaryOnslaught",
@@ -4479,6 +4501,7 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsEasy"
         ],
+        "questReq": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
         "hidden": true
     },
     "SolNode802": {
@@ -4493,6 +4516,7 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/EndlessExterminationRewards/EndlessExterminationRewardsHard"
         ],
+        "questReq": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
         "hidden": true
     },
     "PvpNode0": {
@@ -4978,7 +5002,8 @@
         "minEnemyLevel": 0,
         "maxEnemyLevel": 0,
         "masteryExp": 0,
-        "rewardManifests": []
+        "rewardManifests": [],
+        "questReq": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain"
     },
     "SolNode234": {
         "name": "/Lotus/Language/Zariman/ZarimanApartment",
@@ -5021,7 +5046,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/EarthRailjackRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/RailJackBuildQuest/RailjackBuildQuestKeyChain"
     },
     "CrewBattleNode509": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode09",
@@ -5101,7 +5127,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusVolatileRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/RailJackBuildQuest/RailjackBuildQuestKeyChain"
     },
     "CrewBattleNode513": {
         "name": "/Lotus/Language/Locations/CrewBattleNode513",
@@ -5117,7 +5144,8 @@
         "masteryExp": 0,
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/RailjackMissionRewards/CorpusRailjackVenusOrphixRewards"
-        ]
+        ],
+        "questReq": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain"
     },
     "CrewBattleNode515": {
         "name": "/Lotus/Language/Locations/CrewBattleNode515",
