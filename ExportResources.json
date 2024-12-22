@@ -23,7 +23,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 10
     },
     "/Lotus/Types/Game/CrewShip/Ships/RailJack": {
         "name": "/Lotus/Language/CrewShip/Hull_RailJack",
@@ -74,7 +75,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/IncubationItems/DNAStabalizerKit.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 6
     },
     "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedCorpusLichToken": {
         "name": "/Lotus/Language/Kingpins/CapturedCorpusLichTokenName",
@@ -6417,7 +6419,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/AlloyPlate.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1500
     },
     "/Lotus/Types/Items/MiscItems/AlphaCorruptorResource": {
         "name": "/Lotus/Language/Items/AlphaCorruptorName",
@@ -6482,7 +6485,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentCircuits.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1500
     },
     "/Lotus/Types/Items/MiscItems/ConcentratedGas": {
         "name": "/Lotus/Language/CorpusGasCity/ConcentratedGas",
@@ -6490,7 +6494,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentConcentratedGas.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/ControlModule": {
         "name": "/Lotus/Language/Items/ControlModule",
@@ -6506,7 +6511,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentCryotic.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/CustomizationSlotUnlocker": {
         "name": "/Lotus/Language/Items/CustomizationSlotUnlocker",
@@ -6523,7 +6529,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Dagath/DagathAbyssItem.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/DangerRoomKey": {
         "name": "/Lotus/Language/Items/DangerRoomKeyName",
@@ -6579,7 +6586,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentFerrite.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/Fissureum": {
         "name": "/Lotus/Language/SolarisVenus/Fissureum",
@@ -6759,7 +6767,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/Kuva": {
         "name": "/Lotus/Language/Items/Kuva",
@@ -6856,7 +6865,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentNanospores.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/NarmerBountyResource": {
         "name": "/Lotus/Language/Narmer/NarmerBountyResourceName",
@@ -6864,7 +6874,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentProgens.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/NavCode": {
         "name": "/Lotus/Language/Items/NavCode",
@@ -7052,7 +7063,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentOxium.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 300
     },
     "/Lotus/Types/Items/MiscItems/PhotoboothTile": {
         "name": "",
@@ -7947,7 +7959,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentPlastids.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 300
     },
     "/Lotus/Types/Items/MiscItems/PolymerBundle": {
         "name": "/Lotus/Language/Items/PolymerBundle",
@@ -7955,7 +7968,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/GearAndResources/PolymerBundle.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 300
     },
     "/Lotus/Types/Items/MiscItems/PolymerBundle240TutorialQuest": {
         "name": "/Lotus/Language/Items/PolymerBundle",
@@ -7964,7 +7978,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 300
     },
     "/Lotus/Types/Items/MiscItems/PolymerBundleRaidTutorial": {
         "name": "/Lotus/Language/Items/PolymerBundle",
@@ -7973,7 +7988,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 300
     },
     "/Lotus/Types/Items/MiscItems/PrimeBucks": {
         "name": "/Lotus/Language/Items/PrimeBucks",
@@ -7981,7 +7997,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Currency/Ducat.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 5
     },
     "/Lotus/Types/Items/MiscItems/RazorbackCipherPart": {
         "name": "/Lotus/Language/Items/RazorbackCipherPart",
@@ -8014,7 +8031,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentRubedo.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/Salvage": {
         "name": "/Lotus/Language/Items/Salvage",
@@ -8022,7 +8040,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/ComponentSalvage.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/Salvage1000JunctionReward": {
         "name": "/Lotus/Language/Items/Salvage",
@@ -8031,7 +8050,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/Salvage450TutorialQuest": {
         "name": "/Lotus/Language/Items/Salvage",
@@ -8040,7 +8060,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/Salvage500JunctionReward": {
         "name": "/Lotus/Language/Items/Salvage",
@@ -8049,7 +8070,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 500
     },
     "/Lotus/Types/Items/MiscItems/SalvageRaidTutorial": {
         "name": "/Lotus/Language/Items/Salvage",
@@ -8058,7 +8080,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 3000
     },
     "/Lotus/Types/Items/MiscItems/SchismKey": {
         "name": "/Lotus/Language/Consumables/SchismKeysName",
@@ -8117,7 +8140,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/SpecterParticleResidue.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 450
     },
     "/Lotus/Types/Items/MiscItems/StableCorruptorResource": {
         "name": "/Lotus/Language/Items/StableCorruptorName",
@@ -8776,7 +8800,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentAsterite.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 250
     },
     "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem": {
         "name": "/Lotus/Language/Railjack/Aucrux",
@@ -8784,7 +8809,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentAucrux.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/BracoidRailjackItem": {
         "name": "/Lotus/Language/Railjack/Bracoid",
@@ -8792,7 +8818,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentBracoid.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem": {
         "name": "/Lotus/Language/Railjack/Carbides",
@@ -8800,7 +8827,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentCarbides.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1000
     },
     "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Copernics",
@@ -8808,7 +8836,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentCopernics.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1000
     },
     "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Cubics",
@@ -8816,7 +8845,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentCubics.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/FresnelsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Fresnels",
@@ -8824,7 +8854,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentFresnels.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem": {
         "name": "/Lotus/Language/Railjack/Gallos",
@@ -8832,7 +8863,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentGallos.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 250
     },
     "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem": {
         "name": "/Lotus/Language/Railjack/IsosItem",
@@ -8840,7 +8872,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentIsos.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 250
     },
     "/Lotus/Types/Items/RailjackMiscItems/KesslersRailjackItem": {
         "name": "/Lotus/Language/Railjack/Kesslers",
@@ -8848,7 +8881,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentKesslers.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 250
     },
     "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Komms",
@@ -8856,7 +8890,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentKomms.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem": {
         "name": "/Lotus/Language/Railjack/Nullstones",
@@ -8864,7 +8899,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentNullstones.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Pustrels",
@@ -8872,7 +8908,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentPustrels.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1000
     },
     "/Lotus/Types/Items/RailjackMiscItems/ScrapRailjackItem": {
         "name": "/Lotus/Language/Railjack/Scrap",
@@ -8881,7 +8918,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 1000
     },
     "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem": {
         "name": "/Lotus/Language/Railjack/Titanium",
@@ -8889,7 +8927,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentTitanium.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 1000
     },
     "/Lotus/Types/Items/RailjackMiscItems/TrachonsRailjackItem": {
         "name": "/Lotus/Language/Railjack/Trachons",
@@ -8897,7 +8936,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Resources/Railjack/RailjackComponentTrachons.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "purchaseQuantity": 250
     },
     "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem": {
         "name": "/Lotus/Language/RelayReconstruction/RelayReconPhase1ClanItemName",
@@ -19146,7 +19186,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/SyndicateDogTags/NoraGlassmakerDogTag": {
         "name": "/Lotus/Language/Syndicates/GlassmakerDogTag",
@@ -19155,7 +19196,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/SyndicateDogTags/NoraDogTag",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/SyndicateDogTags/NoraInfestedDogTag": {
         "name": "/Lotus/Language/Syndicates/EmissaryDogTag",
@@ -19164,7 +19206,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/SyndicateDogTags/NoraDogTag",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/SyndicateDogTags/NoraWolfDogTag": {
         "name": "/Lotus/Language/Syndicates/NoraWolfDogTag",
@@ -19173,7 +19216,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/SyndicateDogTags/NoraDogTag",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "purchaseQuantity": 50
     },
     "/Lotus/Types/Items/SyndicateDogTags/PerrinDogTag": {
         "name": "/Lotus/Language/Syndicates/PerrinDogTag",

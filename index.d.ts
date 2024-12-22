@@ -432,6 +432,7 @@ export interface IResource {
         ItemType: string;
         ItemCount: number;
     }[];
+    purchaseQuantity?:  number;
 }
 
 export type TMissionDeck = TRewardTier[];
