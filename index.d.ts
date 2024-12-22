@@ -499,6 +499,13 @@ export interface ISyndicate {
         standing: number;
     }[];
     medallionsCappedByDailyLimit?: boolean;
+    favours: {
+        storeItem:     string;
+        standingCost:  number;
+        creditsCost:   number;
+        requiredLevel: number;
+        rankUpReward:  boolean;
+    }[];
 }
 
 export interface ITextIcon {
