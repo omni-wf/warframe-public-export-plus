@@ -287,10 +287,17 @@ export interface IKey {
     })[];
 }
 
+export interface IHelminthSnack {
+    type: string;
+    count: number;
+    gain: number;
+}
+
 export interface IExportMisc {
     uniqueLevelCaps: Record<string, number>;
     boosterDurations: Record<TRarity, number>;
     npcKillRewardMultiplier: number;
+    helminthSnacks: Record<string, IHelminthSnack>;
 }
 
 export interface IModSet {

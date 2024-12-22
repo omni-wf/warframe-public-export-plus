@@ -46,5 +46,507 @@
         "RARE": 2592000,
         "LEGENDARY": 7776000
     },
-    "npcKillRewardMultiplier": 0.1425
+    "npcKillRewardMultiplier": 0.1425,
+    "helminthSnacks": {
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartAItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 80,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartBItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 250,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartCItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 10,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEnemyDropItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 150,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 75,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 20,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 150,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemD": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 75,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemG": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 200,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPuzzleItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 7,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 350,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/LephantisShardItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 35,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 10,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 5,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 30,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 25,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 75,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsRareDogTag": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 5,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 10,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 25,
+            "gain": 0.6
+        },
+        "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 50,
+            "gain": 0.6
+        },
+        "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 50,
+            "gain": 0.6
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 12,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 6,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 25,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 20,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 10,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 5,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/LastWishItems/BlueCrystal": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 250,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/LastWishItems/RedCrystal": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 250,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/AlloyPlate": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 15000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/ArgonCrystal": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Circuits": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 7000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/ConcentratedGas": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 300,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/ControlModule": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 75,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Cryotic": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 3000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/DagathAbyssItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 40,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Ferrite": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 20000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Fissureum": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 5,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Gallium": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 25,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/GrnFlameSpearPart": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 7,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/JuggernautPartA": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/JuggernautPartB": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/JuggernautPartC": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/JuggernautPartD": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 3,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/MemoryCryptoFragment": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 10,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/MirageCode": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 5,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Morphic": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 40,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Nanospores": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 20000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/NavCode": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 65,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/NeuralSensor": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 25,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Neurode": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 15,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/OmegaIsotope": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 30,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/OrokinCell": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 15,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/OxiumAlloy": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 750,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Plastids": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 4000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/PolymerBundle": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 12500,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/RazorbackCipherPart": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 30,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Rubedo": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 6000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Salvage": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 20000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/SentientFragmentLootItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthAppetiteCooldownReducer",
+            "count": 2,
+            "gain": 0.5
+        },
+        "/Lotus/Types/Items/MiscItems/SyringeComponent": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 900,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/MiscItems/Tellurium": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 10,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+            "count": 8,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 300,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 10,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 2500,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 7000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 175,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 200,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 15,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthCalx",
+            "count": 50,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/ScrapRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+            "count": 5000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthOxides",
+            "count": 10000,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Research/BioFragment": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+            "count": 125,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Research/ChemFragment": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 125,
+            "gain": 0.3
+        },
+        "/Lotus/Types/Items/Research/EnergyFragment": {
+            "type": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+            "count": 125,
+            "gain": 0.3
+        }
+    }
 }
