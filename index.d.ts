@@ -43,6 +43,7 @@ export declare const ExportSentinels: Record<string, ISentinel>;
 export declare const ExportSyndicates: Record<string, ISyndicate>;
 export declare const ExportTextIcons: Record<string, ITextIcon>;
 export declare const ExportUpgrades: Record<string, IUpgrade>;
+export declare const ExportVendors: Record<string, IVendor>;
 export declare const ExportVirtuals: Record<string, IVirtual>;
 export declare const ExportWarframes: Record<string, IPowersuit>;
 export declare const ExportWeapons: Record<string, IWeapon>;
@@ -550,6 +551,16 @@ export interface IUpgrade {
             fullName:     string;
             description:  string;
             overrideTag?: string;
+        }[];
+    }[];
+}
+
+export interface IVendor {
+    items: {
+        storeItem: string;
+        itemPrices: {
+            ItemCount: number;
+            ItemType:  string;
         }[];
     }[];
 }
