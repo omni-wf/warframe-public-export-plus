@@ -23,7 +23,7 @@ However, images shipped with the game are heavily compressed, so you should chec
 - Tyana Pass (`SolNode450`) is a bit special in that it uses the `/Lotus/Language/Missions/DualDefenseCompare` label for the faction.
 
 ## ExportRecipes
-- There is no `name` field, instead `/Lotus/Language/Menu/ItemInventory_RecipeSingular` is used with `|ITEM|` substituted to the result name.
+- There is no `name` field, instead `/Lotus/Language/Items/BlueprintAndItem` is used with `|ITEM|` substituted to the result name.
 
 ### ExportRelics
 - There is no `name` field, instead the added `category` and `era` fields can be used in conjuction with `/Lotus/Language/Relics/VoidProjectionName` to construct the name.
