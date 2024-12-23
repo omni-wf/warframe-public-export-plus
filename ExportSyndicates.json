@@ -1578,6 +1578,7 @@
             "value": "0x00090909"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_PVP",
+        "initiationReward": "/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveA",
         "titles": [
             {
                 "level": 5,
@@ -5374,6 +5375,7 @@
             "value": "0x005A3706"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_LIBRARY",
+        "initiationReward": "/Lotus/Types/StoreItems/Packages/SanctuaryInitiationKit",
         "medallions": [
             {
                 "itemType": "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag",

@@ -531,6 +531,7 @@ export interface ISyndicate {
     colour: IColour;
     backgroundColour: IColour;
     dailyLimitBin: TStandingLimitBin;
+    initiationReward?: string;
     alignments?: Record<string, number>;
     titles?: {
         level: number;
