@@ -21,6 +21,7 @@ export declare const ExportAvionics: Record<string, IAvionic>;
 export declare const ExportBoosterPacks: Record<string, IBoosterPack>;
 export declare const ExportBundles: Record<string, IBundle>;
 export declare const ExportCustoms: Record<string, ICustom>;
+export declare const ExportDojoRecipes: IExportDojoRecipes;
 export declare const ExportDrones: Record<string, IDrone>;
 export declare const ExportEnemies: IExportEnemies;
 export declare const ExportFlavour: Record<string, IFlavourItem>;
@@ -120,6 +121,48 @@ export interface ICustom {
     description?:      string;
     icon?:             string;
     excludeFromCodex?: boolean;
+}
+
+export interface IExportDojoRecipes {
+    research: Record<string, IDojoResearch>;
+    rooms: Record<string, IDojoRoom>;
+    decos: Record<string, IDojoDeco>;
+}
+
+export interface IDojoResearch {
+    price:          number;
+    time:           number;
+    skipTimePrice:  number;
+    replicatePrice: number;
+    ingredients:    {
+        ItemType:  string;
+        ItemCount: number;
+    }[];
+    guildXpValue?:  number;
+    techPrereq?:    string;
+}
+
+export interface IDojoRecipe {
+    resultType:    string;
+    icon:          string;
+    price:         number;
+    time:          number;
+    skipTimePrice: number;
+    ingredients:   {
+        ItemType:  string;
+        ItemCount: number;
+    }[];
+}
+
+export interface IDojoRoom extends IDojoRecipe {
+    destructionTime: number;
+    capacity:        number;
+    energy:          number;
+    decoCapacity:    number;
+}
+
+export interface IDojoDeco extends IDojoRecipe {
+    capacityCost?: number;
 }
 
 export interface IDrone {
