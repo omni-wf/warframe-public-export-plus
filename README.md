@@ -22,6 +22,9 @@ However, images shipped with the game are heavily compressed, so you should chec
 - Crossfire missions can be detected by the `secondaryFactionIndex` field being present. The `/Lotus/Language/Missions/MissionName_Crossfire` label may be used for their mission type.
 - Tyana Pass (`SolNode450`) is a bit special in that it uses the `/Lotus/Language/Missions/DualDefenseCompare` label for the faction.
 
+## ExportRecipes
+- There is no `name` field, instead `/Lotus/Language/Menu/ItemInventory_RecipeSingular` is used with `|ITEM|` substituted to the result name.
+
 ### ExportRelics
 - There is no `name` field, instead the added `category` and `era` fields can be used in conjuction with `/Lotus/Language/Relics/VoidProjectionName` to construct the name.
 

@@ -14128,6 +14128,7 @@
     "/Lotus/Language/Menu/FighterTitle": "프레임 파이터",
     "/Lotus/Language/Menu/FlappyDesc": "점점 더 어려워지는 장애물들을 넘나드는 제피르를 안전하게 안내하세요.",
     "/Lotus/Language/Menu/FlappyTitle": "해피 제피르",
+    "/Lotus/Language/Menu/ItemInventory_RecipeSingular": "|NUMBER|개의 설계도",
     "/Lotus/Language/Menu/ItemInventory_SlotsSuit": "워프레임 슬롯",
     "/Lotus/Language/Menu/ItemInventory_SlotsSuitDescription": "워프레임 슬롯 1칸을 추가합니다.",
     "/Lotus/Language/Menu/ItemInventory_SlotsWeapon": "무기 슬롯",
