@@ -635,7 +635,7 @@ export interface IPowersuit {
     codexSecret:         boolean;
     masteryReq:          number;
     sprintSpeed:         number;
-    abilities:           IAbility[];
+    abilities:           ({ uniqueName: string } & IAbility)[];
     passiveDescription?: string;
     productCategory:     "Suits" | "SpaceSuits" | "MechSuits";
     exalted?:            string[];
