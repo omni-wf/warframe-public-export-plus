@@ -342,6 +342,7 @@ export interface IExportMisc {
     boosterDurations: Record<TRarity, number>;
     npcKillRewardMultiplier: number;
     helminthSnacks: Record<string, IHelminthSnack>;
+    creditBundles: Record<string, number>;
 }
 
 export interface IModSet {

@@ -548,5 +548,23 @@
             "count": 125,
             "gain": 0.3
         }
+    },
+    "creditBundles": {
+        "/Lotus/StoreItems/Types/PickUps/Credits/10000Credits": 10000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/10000Hollars": 10000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/1500Credits": 1500,
+        "/Lotus/StoreItems/Types/PickUps/Credits/2000Credits": 2000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/2500Credits": 2500,
+        "/Lotus/StoreItems/Types/PickUps/Credits/3000Credits": 3000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/4000Credits": 4000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/5000Credits": 5000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/5000Hollars": 5000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/7500Credits": 7500,
+        "/Lotus/StoreItems/Types/PickUps/Credits/7500Hollars": 7500,
+        "/Lotus/StoreItems/Types/PickUps/Credits/CorpusArenaCreditRewards/CorpusArenaRewardOneHard": 105000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/CorpusArenaCreditRewards/CorpusArenaRewardThreeHard": 250000,
+        "/Lotus/StoreItems/Types/PickUps/Credits/CorpusArenaCreditRewards/CorpusArenaRewardTwoHard": 175000,
+        "/Lotus/StoreItems/Types/StoreItems/CreditBundles/Zariman/TableACreditsCommon": 15000,
+        "/Lotus/StoreItems/Types/StoreItems/CreditBundles/Zariman/TableACreditsUncommon": 30000
     }
 }
