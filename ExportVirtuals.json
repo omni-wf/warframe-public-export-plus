@@ -76,6 +76,36 @@
     "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetTailBase": {
         "parentName": "/Lotus/Types/Game/ZanukaPetParts/LotusZanukaTailPart"
     },
+    "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedLichToken": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "name": "/Lotus/Language/Items/CapturedLichTokenName"
+    },
+    "/Lotus/Types/Game/Projections/T0VoidProjection": {
+        "parentName": "/Lotus/Types/Game/VoidProjectionItem"
+    },
+    "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBaseItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantItem": {
+        "parentName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBaseItem",
+        "name": "/Lotus/Language/EidolonPlains/SentientShardBrilliant"
+    },
+    "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
+    },
+    "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystal": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "name": "/Lotus/Language/Narmer/ArchonCrystalName"
+    },
+    "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalMythic": {
+        "parentName": "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystal"
+    },
+    "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
+    },
     "/Lotus/Types/Items/Conservation/CritterWoundedAnimalRewardItem": {
         "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetBreed",
         "name": "/Lotus/Language/Items/OrokinCell"
@@ -83,6 +113,392 @@
     "/Lotus/Types/Items/Conservation/PredatorWoundedAnimalRewardItem": {
         "parentName": "/Lotus/Types/Game/CreaturePetParts/LotusCreaturePetBreed",
         "name": "/Lotus/Language/Items/OrokinCell"
+    },
+    "/Lotus/Types/Items/DangerRoom/DangerRoomTile": {
+        "parentName": "/Lotus/Types/Game/DangerRoomTileItem"
+    },
+    "/Lotus/Types/Items/Deimos/EntratiFragmentBase": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/CommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/RareFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishHybridRareA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishHybridUncommonA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishHybridUncommonB"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedCommonA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedCommonB"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedCommonC"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedCommonD"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedCommonE"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedRareA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishInfestedUncommonA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/LegendaryFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/LegendaryFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishOrokinLegendaryA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/RareFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishOrokinRareA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
+        "name": "/Lotus/Language/InfestedMicroplanet/FishOrokinUncommonA"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/RareFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
+        "name": "/Lotus/Language/Fish/BothCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
+        "name": "/Lotus/Language/Fish/BothCommonFishB"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
+        "name": "/Lotus/Language/Fish/BothRareFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
+        "name": "/Lotus/Language/Fish/BothUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
+        "name": "/Lotus/Language/Fish/BothUncommonFishB"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
+        "name": "/Lotus/Language/Fish/DayCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
+        "name": "/Lotus/Language/Fish/DayCommonFishB"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
+        "name": "/Lotus/Language/Fish/DayCommonFishC"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
+        "name": "/Lotus/Language/Fish/DayUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
+        "name": "/Lotus/Language/Fish/DayUncommonFishB"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/LegendaryFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/LegendaryFishItem",
+        "name": "/Lotus/Language/Fish/NightLegendaryFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
+        "name": "/Lotus/Language/Fish/NightRareFishA"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
+        "name": "/Lotus/Language/Fish/NightRareFishB"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/RareFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/FishPartItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusBothUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusCoolCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusCoolUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusWarmCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusWarmCommonFishB"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/CorpusWarmUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/LegendaryFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/LegendaryFishItem",
+        "name": "/Lotus/Language/SolarisVenus/OrokinBothLegendaryFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
+        "name": "/Lotus/Language/SolarisVenus/OrokinBothRareFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
+        "name": "/Lotus/Language/SolarisVenus/OrokinCoolRareFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/RareFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/SolarisBothCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/SolarisCoolCommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
+        "name": "/Lotus/Language/SolarisVenus/SolarisCoolUncommonFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem": {
+        "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
+        "name": "/Lotus/Language/SolarisVenus/SolarisWarmRareFishA"
+    },
+    "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem": {
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
+    },
+    "/Lotus/Types/Items/FusionTreasures/FusionOrnament": {
+        "parentName": "/Lotus/Types/Items/FusionTreasure"
+    },
+    "/Lotus/Types/Items/Gems/GemItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/InfestedFoundry/HelminthOxides": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "name": "/Lotus/Language/Alchemy/SecretionOxides"
+    },
+    "/Lotus/Types/Items/MiscItems/ArchwingComponentItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/FocusLensGreater": {
+        "parentName": "/Lotus/Types/Items/MiscItems/FocusLens",
+        "name": "/Lotus/Language/Focus/GreaterLens"
+    },
+    "/Lotus/Types/Items/MiscItems/FocusLensLua": {
+        "parentName": "/Lotus/Types/Items/MiscItems/FocusLens",
+        "name": "/Lotus/Language/Equipment/LuaLens"
+    },
+    "/Lotus/Types/Items/MiscItems/FocusLensOstron": {
+        "parentName": "/Lotus/Types/Items/MiscItems/FocusLens",
+        "name": "/Lotus/Language/Focus/OstronLens"
+    },
+    "/Lotus/Types/Items/MiscItems/Forma": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "name": "/Lotus/Language/Items/Forma"
+    },
+    "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/LastWishItems/CrystalBase": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTile": {
+        "parentName": "/Lotus/Types/Game/PhotoboothTileItem"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseCorpus": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDeimos": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDeimosReqQuest": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileRequiresQuestComplete"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseDuviri": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseGrineer": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseInfested": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseOrokin": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseOstron": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuest": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileRequiresQuestComplete"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseSU": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseSentient": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileRequiresOwnership"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseSyndicates": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseTenno": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseZariman": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileRequiresOwnership": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileRequiresQuestComplete": {
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTile"
+    },
+    "/Lotus/Types/Items/MiscItems/ResourceItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/ShipComponentItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/TNWArchonItemBase": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/MiscItems/WarframeComponentItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/Plants/MiscItems/PlantItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/RelayRebuild/PhaseOneFireElement": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+        "name": "/Lotus/Language/RelayReconstruction/RelayReconPhase1RightItemName"
+    },
+    "/Lotus/Types/Items/Research/SampleBase": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+    },
+    "/Lotus/Types/Items/ShipDecorationLayerItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/ShipDecos/BaseFishTrophy": {
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+    },
+    "/Lotus/Types/Items/ShipDecos/ChildDrawingBase": {
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "name": "/Lotus/Language/ShipDecorations/IndexChildDrawingBase"
+    },
+    "/Lotus/Types/Items/ShipDecos/LotusShawzinPlayableBase": {
+        "parentName": "/Lotus/Types/Items/ShipDecos/InstrumentDecoItem",
+        "name": "/Lotus/Language/ShipDecorations/LisetPropShawzinPlayableBaseName"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumper": {
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "name": "/Lotus/Language/EidolonPlains/PlushyThumperName"
+    },
+    "/Lotus/Types/Items/ShipDecos/Vignettes/Enemies/ShipDecoItem": {
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+    },
+    "/Lotus/Types/Items/ShipFeatureItems/Railjack/RailjackHullFeatureItem": {
+        "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
+        "name": "/Lotus/Language/Railjack/RailjackHullName"
+    },
+    "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/ArbitersDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/ArbitersDogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/CephalonDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/CephalonDogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/DogTag": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/NewLokaDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/NewLokaDogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/NoraDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/PerrinDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/PerrinDogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/RedVeilDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/RedVeilDogTag"
+    },
+    "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianDogTag": {
+        "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
+        "name": "/Lotus/Language/Syndicates/MeridianDogTag"
+    },
+    "/Lotus/Types/PickUps/LoreCards/LoreCardItem/LoreCardItemBase": {
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA": {
+        "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+        "name": "/Lotus/Language/PrimePacks/MPVLastChanceRotationName"
     },
     "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardPartDeckBase": {
         "parentName": "/Lotus/Types/Game/HoverboardParts/LotusHoverboardDeck"
