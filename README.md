@@ -4,7 +4,7 @@ The most complete data source for all your Warframe needs and interests. Contain
 
 ## Localisations
 
-Data and localisations are entirely split here (into Export\*.json and dict.\*.json, respectively). This should make it trivial to handle localisations in your projects without tons of duplicated data. Unfortunately, this may make it difficult to manually browse the data; however, you can type whatever you're looking for into [omni.wf](https://omni.wf/), which is uses this data and [is open-source](https://github.com/calamity-inc/omni.wf).
+Data and localisations are entirely split here (into Export\*.json and dict.\*.json, respectively). This should make it trivial to handle localisations in your projects without tons of duplicated data. Unfortunately, this may make it difficult to manually browse the data; however, you can type whatever you're looking for into [browse.wf](https://browse.wf/), which is uses this data and [is open-source](https://github.com/calamity-inc/browse.wf).
 
 ## Images
 
