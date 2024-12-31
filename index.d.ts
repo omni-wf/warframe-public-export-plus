@@ -472,6 +472,8 @@ export interface IResource {
     longDescription?:   string;
     primeSellingPrice?: number;
     sockets?:           string[]; // for FusionTreasures
+    syndicateTag?:      string; // for fish
+    standingBonus?:     number; // for fish
     dissectionParts?:   { // for fish
         ItemType: string;
         ItemCount: number;

@@ -2389,6 +2389,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -2419,6 +2420,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -2449,6 +2451,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -2479,6 +2482,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2505,6 +2509,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2531,6 +2536,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2557,6 +2563,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -2587,6 +2594,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -2617,6 +2625,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -2647,6 +2656,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
@@ -2669,6 +2679,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
@@ -2691,6 +2702,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
@@ -2713,6 +2725,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -2735,6 +2748,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -2757,6 +2771,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
@@ -2779,6 +2794,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2801,6 +2817,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2823,6 +2840,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
@@ -2845,6 +2863,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
@@ -2867,6 +2886,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
@@ -2889,6 +2909,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
@@ -2911,6 +2932,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
@@ -2933,6 +2955,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
@@ -2955,6 +2978,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
@@ -2977,6 +3001,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
@@ -2999,6 +3024,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
@@ -3021,6 +3047,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
@@ -3043,6 +3070,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
@@ -3065,6 +3093,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
@@ -3087,6 +3116,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
@@ -3109,7 +3139,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/Fish/FishItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "syndicateTag": "CetusSyndicate"
     },
     "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem": {
         "name": "/Lotus/Language/InfestedMicroplanet/FishOrokinLegendaryA",
@@ -3118,6 +3149,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/LegendaryFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -3140,6 +3172,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -3162,6 +3195,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
@@ -3184,6 +3218,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -3206,6 +3241,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -3228,6 +3264,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
@@ -3250,6 +3287,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -3272,6 +3310,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -3294,6 +3333,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "EntratiSyndicate",
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
@@ -3489,6 +3529,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 25,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3515,6 +3557,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 50,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3541,6 +3585,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3567,6 +3613,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 25,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3593,6 +3641,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 50,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3619,6 +3669,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3645,6 +3697,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3671,6 +3725,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 1000,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3697,6 +3753,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 625,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3723,6 +3781,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3749,6 +3809,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3775,6 +3837,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 125,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3801,6 +3865,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3827,6 +3893,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3853,6 +3921,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 125,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3879,6 +3949,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 25,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3905,6 +3977,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 50,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3931,6 +4005,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3957,6 +4033,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 25,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -3983,6 +4061,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 50,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4009,6 +4089,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4035,6 +4117,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 25,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4061,6 +4145,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 50,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4087,6 +4173,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4113,6 +4201,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4139,6 +4229,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4165,6 +4257,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 125,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4191,6 +4285,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4217,6 +4313,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4243,6 +4341,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 125,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4268,7 +4368,8 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/Fishing/Eidolon/GrineerBoot.png",
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/Fish/FishItem",
-        "productCategory": "MiscItems"
+        "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate"
     },
     "/Lotus/Types/Items/Fish/Eidolon/HolidayGrineerBootItem": {
         "name": "/Lotus/Language/Fish/HolidayBoot",
@@ -4277,7 +4378,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/Fish/FishItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "syndicateTag": "CetusSyndicate"
     },
     "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem": {
         "name": "/Lotus/Language/Fish/NightLegendaryFishA",
@@ -4286,6 +4388,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/LegendaryFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 1200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4312,6 +4416,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 2000,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4338,6 +4444,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 1500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4364,6 +4472,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4390,6 +4500,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 1000,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4416,6 +4528,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 625,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4442,6 +4556,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4468,6 +4584,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 1000,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4494,6 +4612,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "CetusSyndicate",
+        "standingBonus": 625,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
@@ -4632,7 +4752,8 @@
         "codexSecret": true,
         "parentName": "/Lotus/Types/Items/Fish/FishItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true
+        "excludeFromCodex": true,
+        "syndicateTag": "CetusSyndicate"
     },
     "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem": {
         "name": "/Lotus/Language/SolarisVenus/CorpusBothUncommonFishA",
@@ -4641,6 +4762,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4659,6 +4782,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4677,6 +4802,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 60,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4695,6 +4822,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4713,6 +4842,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 70,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4731,6 +4862,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4749,6 +4882,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4767,6 +4902,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4785,6 +4922,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 60,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4803,6 +4942,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4821,6 +4962,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 70,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4839,6 +4982,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4857,6 +5002,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4875,6 +5022,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 70,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4893,6 +5042,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4911,6 +5062,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4929,6 +5082,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4947,6 +5102,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 60,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4965,6 +5122,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/LegendaryFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 600,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -4983,6 +5142,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 1000,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5001,6 +5162,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 800,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5019,6 +5182,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5037,6 +5202,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5055,6 +5222,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 300,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5073,6 +5242,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5091,6 +5262,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5109,6 +5282,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 300,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5127,6 +5302,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5145,6 +5322,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 70,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5163,6 +5342,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5181,6 +5362,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/CommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 35,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5199,6 +5382,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 70,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5217,6 +5402,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5235,6 +5422,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 45,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5253,6 +5442,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 100,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5271,6 +5462,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 60,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5289,6 +5482,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/RareFishItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 200,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5307,6 +5502,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 500,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
@@ -5325,6 +5522,8 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem",
         "productCategory": "MiscItems",
+        "syndicateTag": "SolarisSyndicate",
+        "standingBonus": 300,
         "dissectionParts": [
             {
                 "ItemType": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
