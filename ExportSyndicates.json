@@ -11,6 +11,15 @@
             "value": "0x003A3843"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 500,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "RedVeilSyndicate": -1,
             "PerrinSyndicate": -0.5,
@@ -21,43 +30,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilJudgeLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilJudgeLevel9.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilJudgeLevel6.png",
-                "description": "/Lotus/Language/Syndicates/ArbitersReward3"
+                "description": "/Lotus/Language/Syndicates/ArbitersReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilJudgeLevel4.png",
-                "description": "/Lotus/Language/Syndicates/ArbitersReward2"
+                "description": "/Lotus/Language/Syndicates/ArbitersReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilJudgeLevel1.png",
-                "description": "/Lotus/Language/Syndicates/ArbitersReward1"
+                "description": "/Lotus/Language/Syndicates/ArbitersReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Gallium"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/ArbitersRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/ArbitersRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/ArbitersTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/ArbitersRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/ArbitersRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -784,6 +856,15 @@
             "value": "0x001B1829"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 500,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "NewLokaSyndicate": -1,
             "RedVeilSyndicate": -0.5,
@@ -794,43 +875,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/CephalonTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilOracleLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/CephalonTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilOracleLevel9.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/CephalonTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilOracleLevel6.png",
-                "description": "/Lotus/Language/Syndicates/CephalonReward3"
+                "description": "/Lotus/Language/Syndicates/CephalonReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/CephalonTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilOracleLevel4.png",
-                "description": "/Lotus/Language/Syndicates/CephalonReward2"
+                "description": "/Lotus/Language/Syndicates/CephalonReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/CephalonTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilOracleLevel3.png",
-                "description": "/Lotus/Language/Syndicates/CephalonReward1"
+                "description": "/Lotus/Language/Syndicates/CephalonReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/ControlModule"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/CephalonTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/CephalonRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/CephalonRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/CephalonTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/CephalonRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/CephalonRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -1578,37 +1722,91 @@
             "value": "0x00090909"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_PVP",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 100,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Plastids"
+                }
+            ],
+            "credits": 10000
+        },
         "initiationReward": "/Lotus/StoreItems/Upgrades/Skins/Sigils/SyndicateSigilConclaveA",
         "titles": [
             {
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/ConclaveTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilConclaveLevel14.png",
-                "description": "/Lotus/Language/Syndicates/ConclaveReward5"
+                "description": "/Lotus/Language/Syndicates/ConclaveReward5",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 100,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/PrimeBucks"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/ConclaveTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilConclaveLevel8.png",
-                "description": "/Lotus/Language/Syndicates/ConclaveReward4"
+                "description": "/Lotus/Language/Syndicates/ConclaveReward4",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/ConclaveTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilConclaveLevel6.png",
-                "description": "/Lotus/Language/Syndicates/ConclaveReward3"
+                "description": "/Lotus/Language/Syndicates/ConclaveReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/ConclaveTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilConclaveLevel2.png",
-                "description": "/Lotus/Language/Syndicates/ConclaveReward2"
+                "description": "/Lotus/Language/Syndicates/ConclaveReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/ConclaveTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilConclaveLevel1.png",
-                "description": "/Lotus/Language/Syndicates/ConclaveReward1"
+                "description": "/Lotus/Language/Syndicates/ConclaveReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Neurode"
+                        }
+                    ],
+                    "credits": 30000
+                }
             }
         ],
         "favours": [
@@ -2905,31 +3103,120 @@
                 "level": 5,
                 "name": "/Lotus/Language/InfestedMicroplanet/EntratiTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel5.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle5Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/SeriglassShard"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/InfestedMicroplanet/EntratiTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel4.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle4Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonB"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/InfestedMicroplanet/EntratiTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel3.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle3Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Items/Deimos/AnimalTagInfestedMergooCommon"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/AnimalTagInfestedPredatorRare"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonB"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/InfestedMicroplanet/EntratiTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel2.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle2Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfTransformClawsWeaponBladeBlueprint"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfTransformClawsWeaponGloveBlueprint"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonC"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/InfestedMicroplanet/EntratiTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel1.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle1Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/EntratiTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem"
+                        }
+                    ],
+                    "credits": 0
+                }
             }
         ],
         "medallions": [
@@ -3746,19 +4033,82 @@
                 "level": 3,
                 "name": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilNecraloidLevel3.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle3Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingRareItem"
+                        },
+                        {
+                            "ItemCount": 350,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/VoidTearDrop"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechRifleBarrelBlueprint"
+                        },
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilNecraloidLevel2.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle2Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingUncommonItem"
+                        },
+                        {
+                            "ItemCount": 250,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/VoidTearDrop"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolBarrelBlueprint"
+                        },
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        }
+                    ],
+                    "credits": 0
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilNecraloidLevel1.png",
-                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle1Desc"
+                "description": "/Lotus/Language/InfestedMicroplanet/NecraloidTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingCommonItem"
+                        },
+                        {
+                            "ItemCount": 150,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/VoidTearDrop"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponBarrelBlueprint"
+                        },
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA"
+                        }
+                    ],
+                    "credits": 0
+                }
             }
         ],
         "medallions": [
@@ -4080,31 +4430,132 @@
                 "level": 5,
                 "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel5.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle5Desc"
+                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare"
+                        },
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB"
+                        },
+                        {
+                            "ItemCount": 32,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem"
+                        }
+                    ],
+                    "credits": 200000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel4.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle4Desc"
+                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagUncommon"
+                        },
+                        {
+                            "ItemCount": 1500,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA"
+                        },
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel3.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle3Desc"
+                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagUncommon"
+                        },
+                        {
+                            "ItemCount": 8,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon"
+                        },
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
+                        },
+                        {
+                            "ItemCount": 16,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel2.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle2Desc"
+                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon"
+                        },
+                        {
+                            "ItemCount": 60,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA"
+                        },
+                        {
+                            "ItemCount": 12,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
+                        },
+                        {
+                            "ItemCount": 8,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem"
+                        }
+                    ],
+                    "credits": 25000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilCaviaLevel1.png",
-                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle1Desc"
+                "description": "/Lotus/Language/EntratiLab/EntratiGeneral/EntratiLabSyndTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon"
+                        },
+                        {
+                            "ItemCount": 300,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA"
+                        },
+                        {
+                            "ItemCount": 1100,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Rubedo"
+                        }
+                    ],
+                    "credits": 10000
+                }
             }
         ],
         "medallions": [
@@ -4482,19 +4933,46 @@
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/EventSyndicateTitle3",
                 "icon": "/Lotus/Materials/Emblems/PlagueStarEventBadge_e.png",
-                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem"
+                        }
+                    ],
+                    "credits": 20000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/EventSyndicateTitle2",
                 "icon": "/Lotus/Materials/Emblems/PlagueStarEventBadge_e.png",
-                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem"
+                        }
+                    ],
+                    "credits": 10000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/EventSyndicateTitle1",
                 "icon": "/Lotus/Materials/Emblems/PlagueStarEventBadge_e.png",
-                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/EventSyndicateTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem"
+                        }
+                    ],
+                    "credits": 5000
+                }
             }
         ],
         "favours": [
@@ -4706,31 +5184,140 @@
                 "level": 5,
                 "name": "/Lotus/Language/1999/HexSyndTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel5.png",
-                "description": "/Lotus/Language/1999/HexSyndTitle5Desc"
+                "description": "/Lotus/Language/1999/HexSyndTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy"
+                        }
+                    ],
+                    "credits": 200000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/1999/HexSyndTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel4.png",
-                "description": "/Lotus/Language/1999/HexSyndTitle4Desc"
+                "description": "/Lotus/Language/1999/HexSyndTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA"
+                        },
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
+                        },
+                        {
+                            "ItemCount": 40,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/1999/HexSyndTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel3.png",
-                "description": "/Lotus/Language/1999/HexSyndTitle3Desc"
+                "description": "/Lotus/Language/1999/HexSyndTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/1999/HexSyndTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel2.png",
-                "description": "/Lotus/Language/1999/HexSyndTitle2Desc"
+                "description": "/Lotus/Language/1999/HexSyndTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB"
+                        },
+                        {
+                            "ItemCount": 12,
+                            "ItemType": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA"
+                        },
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB"
+                        }
+                    ],
+                    "credits": 25000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/1999/HexSyndTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel1.png",
-                "description": "/Lotus/Language/1999/HexSyndTitle1Desc"
+                "description": "/Lotus/Language/1999/HexSyndTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA"
+                        },
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB"
+                        }
+                    ],
+                    "credits": 10000
+                }
             }
         ],
         "medallions": [
@@ -6105,6 +6692,15 @@
             "value": "0x00293C2D"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 1000,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "CephalonSudaSyndicate": -1,
             "SteelMeridianSyndicate": -0.5,
@@ -6115,43 +6711,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilChurchLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilChurchLevel8.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilChurchLevel7.png",
-                "description": "/Lotus/Language/Syndicates/NewLokaReward3"
+                "description": "/Lotus/Language/Syndicates/NewLokaReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilChurchLevel4.png",
-                "description": "/Lotus/Language/Syndicates/NewLokaReward2"
+                "description": "/Lotus/Language/Syndicates/NewLokaReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilChurchLevel2.png",
-                "description": "/Lotus/Language/Syndicates/NewLokaReward1"
+                "description": "/Lotus/Language/Syndicates/NewLokaReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/Research/EnergyFragment"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/NewLokaRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/NewLokaRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/NewLokaTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/NewLokaRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/NewLokaRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -6897,31 +7556,116 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/CetusTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateOstronRankSigilE.png",
-                "description": "/Lotus/Language/Syndicates/CetusTitle5Desc"
+                "description": "/Lotus/Language/Syndicates/CetusTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem"
+                        }
+                    ],
+                    "credits": 200000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/CetusTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateOstronRankSigilD.png",
-                "description": "/Lotus/Language/Syndicates/CetusTitle4Desc"
+                "description": "/Lotus/Language/Syndicates/CetusTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem"
+                        },
+                        {
+                            "ItemCount": 40,
+                            "ItemType": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/CetusTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateOstronRankSigilC.png",
-                "description": "/Lotus/Language/Syndicates/CetusTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/CetusTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/CetusTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateOstronRankSigilB.png",
-                "description": "/Lotus/Language/Syndicates/CetusTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/CetusTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 60,
+                            "ItemType": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem"
+                        },
+                        {
+                            "ItemCount": 40,
+                            "ItemType": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem"
+                        }
+                    ],
+                    "credits": 25000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/CetusTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateOstronRankSigilA.png",
-                "description": "/Lotus/Language/Syndicates/CetusTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/CetusTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem"
+                        },
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem"
+                        },
+                        {
+                            "ItemCount": 25,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem"
+                        }
+                    ],
+                    "credits": 10000
+                }
             }
         ],
         "medallions": [
@@ -7780,31 +8524,76 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/QuillsTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEidolonHunterLevel5.png",
-                "description": "/Lotus/Language/Syndicates/QuillsTitle5Desc"
+                "description": "/Lotus/Language/Syndicates/QuillsTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 30,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/QuillsTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEidolonHunterLevel4.png",
-                "description": "/Lotus/Language/Syndicates/QuillsTitle4Desc"
+                "description": "/Lotus/Language/Syndicates/QuillsTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/QuillsTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEidolonHunterLevel3.png",
-                "description": "/Lotus/Language/Syndicates/QuillsTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/QuillsTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/QuillsTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEidolonHunterLevel2.png",
-                "description": "/Lotus/Language/Syndicates/QuillsTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/QuillsTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/QuillsTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilEidolonHunterLevel1.png",
-                "description": "/Lotus/Language/Syndicates/QuillsTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/QuillsTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag"
+                        }
+                    ],
+                    "credits": 30000
+                }
             }
         ],
         "medallions": [
@@ -8195,6 +8984,15 @@
             "value": "0x00414964"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 100,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "SteelMeridianSyndicate": -1,
             "ArbitersSyndicate": -0.5,
@@ -8205,43 +9003,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/PerrinTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilBusinessLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/PerrinTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilBusinessLevel9.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/PerrinTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilBusinessLevel6.png",
-                "description": "/Lotus/Language/Syndicates/PerrinReward3"
+                "description": "/Lotus/Language/Syndicates/PerrinReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/PerrinTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilBusinessLevel4.png",
-                "description": "/Lotus/Language/Syndicates/PerrinReward2"
+                "description": "/Lotus/Language/Syndicates/PerrinReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/PerrinTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilBusinessLevel1.png",
-                "description": "/Lotus/Language/Syndicates/PerrinReward1"
+                "description": "/Lotus/Language/Syndicates/PerrinReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/Research/ChemFragment"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/PerrinTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/PerrinRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/PerrinRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/PerrinTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/PerrinRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/PerrinRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinReactor"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -17353,6 +18214,15 @@
             "value": "0x0029101D"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 500,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "ArbitersSyndicate": -1,
             "CephalonSudaSyndicate": -0.5,
@@ -17363,43 +18233,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilAssassinsLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilAssassinsLevel9.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilAssassinsLevel7.png",
-                "description": "/Lotus/Language/Syndicates/RedVeilReward3"
+                "description": "/Lotus/Language/Syndicates/RedVeilReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilAssassinsLevel4.png",
-                "description": "/Lotus/Language/Syndicates/RedVeilReward2"
+                "description": "/Lotus/Language/Syndicates/RedVeilReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilAssassinsLevel1.png",
-                "description": "/Lotus/Language/Syndicates/RedVeilReward1"
+                "description": "/Lotus/Language/Syndicates/RedVeilReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Gallium"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/RedVeilRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/RedVeilRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/RedVeilTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/RedVeilRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/RedVeilRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -18166,31 +19099,104 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/SolarisTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilSolarisUnitedLevel5.png",
-                "description": "/Lotus/Language/Syndicates/SolarisTitle5Desc"
+                "description": "/Lotus/Language/Syndicates/SolarisTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenE"
+                        },
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenD"
+                        },
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenC"
+                        }
+                    ],
+                    "credits": 200000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/SolarisTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilSolarisUnitedLevel4.png",
-                "description": "/Lotus/Language/Syndicates/SolarisTitle4Desc"
+                "description": "/Lotus/Language/Syndicates/SolarisTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenD"
+                        },
+                        {
+                            "ItemCount": 4,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenC"
+                        },
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenB"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/SolarisTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilSolarisUnitedLevel3.png",
-                "description": "/Lotus/Language/Syndicates/SolarisTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/SolarisTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 4,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenC"
+                        },
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenB"
+                        },
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenA"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/SolarisTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilSolarisUnitedLevel2.png",
-                "description": "/Lotus/Language/Syndicates/SolarisTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/SolarisTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenB"
+                        },
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenA"
+                        }
+                    ],
+                    "credits": 25000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/SolarisTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilSolarisUnitedLevel1.png",
-                "description": "/Lotus/Language/Syndicates/SolarisTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/SolarisTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/Solaris/DebtTokenA"
+                        }
+                    ],
+                    "credits": 10000
+                }
             }
         ],
         "medallions": [
@@ -19658,31 +20664,96 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/VoxSolTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilVoxSolarisLevel5.png",
-                "description": "/Lotus/Language/Syndicates/VoxSolTitle5Desc"
+                "description": "/Lotus/Language/Syndicates/VoxSolTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidCamperItem"
+                        }
+                    ],
+                    "credits": 1000000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/VoxSolTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilVoxSolarisLevel4.png",
-                "description": "/Lotus/Language/Syndicates/VoxSolTitle4Desc"
+                "description": "/Lotus/Language/Syndicates/VoxSolTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/VoxSolTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilVoxSolarisLevel3.png",
-                "description": "/Lotus/Language/Syndicates/VoxSolTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/VoxSolTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/VoxSolTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilVoxSolarisLevel2.png",
-                "description": "/Lotus/Language/Syndicates/VoxSolTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/VoxSolTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/VoxSolTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilVoxSolarisLevel1.png",
-                "description": "/Lotus/Language/Syndicates/VoxSolTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/VoxSolTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem"
+                        },
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem"
+                        }
+                    ],
+                    "credits": 50000
+                }
             }
         ],
         "medallions": [
@@ -20123,6 +21194,15 @@
             "value": "0x001B262B"
         },
         "dailyLimitBin": "STANDING_LIMIT_BIN_NORMAL",
+        "initiationSacrifice": {
+            "items": [
+                {
+                    "ItemCount": 1000,
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage"
+                }
+            ],
+            "credits": 10000
+        },
         "alignments": {
             "PerrinSyndicate": -1,
             "NewLokaSyndicate": -0.5,
@@ -20133,43 +21213,106 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilRebelsLevel10.png",
-                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericAugmentModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 3,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 500000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilRebelsLevel9.png",
-                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward"
+                "description": "/Lotus/Language/Syndicates/GenericWeaponModsReward",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/SchismKey"
+                        }
+                    ],
+                    "credits": 250000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilRebelsLevel7.png",
-                "description": "/Lotus/Language/Syndicates/SteelMeridianReward3"
+                "description": "/Lotus/Language/Syndicates/SteelMeridianReward3",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilRebelsLevel4.png",
-                "description": "/Lotus/Language/Syndicates/SteelMeridianReward2"
+                "description": "/Lotus/Language/Syndicates/SteelMeridianReward2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/FactionSigilRebelsLevel2.png",
-                "description": "/Lotus/Language/Syndicates/SteelMeridianReward1"
+                "description": "/Lotus/Language/Syndicates/SteelMeridianReward1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 2,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Morphic"
+                        }
+                    ],
+                    "credits": 30000
+                }
             },
             {
                 "level": -1,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitleNeg1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank1.png",
-                "description": "/Lotus/Language/Syndicates/SteelMeridianRewardNeg1"
+                "description": "/Lotus/Language/Syndicates/SteelMeridianRewardNeg1",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Forma"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": -2,
                 "name": "/Lotus/Language/Syndicates/SteelMeridianTitleNeg2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/SyndicateNegativeRank2.png",
-                "description": "/Lotus/Language/Syndicates/SteelMeridianRewardNeg2"
+                "description": "/Lotus/Language/Syndicates/SteelMeridianRewardNeg2",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 1,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCatalyst"
+                        }
+                    ],
+                    "credits": 100000
+                }
             }
         ],
         "medallions": [
@@ -20957,31 +22100,116 @@
                 "level": 5,
                 "name": "/Lotus/Language/Syndicates/ZarimanTitle5",
                 "icon": "/Lotus/Interface/Icons/Syndicates/Zariman/ZarimanSyndicateRankE.png",
-                "description": "/Lotus/Language/Syndicates/ZarimanTitle5Desc"
+                "description": "/Lotus/Language/Syndicates/ZarimanTitle5Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem"
+                        },
+                        {
+                            "ItemCount": 90,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem"
+                        },
+                        {
+                            "ItemCount": 20,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB"
+                        }
+                    ],
+                    "credits": 200000
+                }
             },
             {
                 "level": 4,
                 "name": "/Lotus/Language/Syndicates/ZarimanTitle4",
                 "icon": "/Lotus/Interface/Icons/Syndicates/Zariman/ZarimanSyndicateRankD.png",
-                "description": "/Lotus/Language/Syndicates/ZarimanTitle4Desc"
+                "description": "/Lotus/Language/Syndicates/ZarimanTitle4Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 15,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagBounty"
+                        },
+                        {
+                            "ItemCount": 60,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem"
+                        },
+                        {
+                            "ItemCount": 40,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA"
+                        }
+                    ],
+                    "credits": 100000
+                }
             },
             {
                 "level": 3,
                 "name": "/Lotus/Language/Syndicates/ZarimanTitle3",
                 "icon": "/Lotus/Interface/Icons/Syndicates/Zariman/ZarimanSyndicateRankC.png",
-                "description": "/Lotus/Language/Syndicates/ZarimanTitle3Desc"
+                "description": "/Lotus/Language/Syndicates/ZarimanTitle3Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagRare"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB"
+                        },
+                        {
+                            "ItemCount": 5000,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite"
+                        }
+                    ],
+                    "credits": 50000
+                }
             },
             {
                 "level": 2,
                 "name": "/Lotus/Language/Syndicates/ZarimanTitle2",
                 "icon": "/Lotus/Interface/Icons/Syndicates/Zariman/ZarimanSyndicateRankB.png",
-                "description": "/Lotus/Language/Syndicates/ZarimanTitle2Desc"
+                "description": "/Lotus/Language/Syndicates/ZarimanTitle2Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagUncommon"
+                        },
+                        {
+                            "ItemCount": 10,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA"
+                        },
+                        {
+                            "ItemCount": 5000,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate"
+                        }
+                    ],
+                    "credits": 25000
+                }
             },
             {
                 "level": 1,
                 "name": "/Lotus/Language/Syndicates/ZarimanTitle1",
                 "icon": "/Lotus/Interface/Icons/Syndicates/Zariman/ZarimanSyndicateRankA.png",
-                "description": "/Lotus/Language/Syndicates/ZarimanTitle1Desc"
+                "description": "/Lotus/Language/Syndicates/ZarimanTitle1Desc",
+                "sacrifice": {
+                    "items": [
+                        {
+                            "ItemCount": 5,
+                            "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagCommon"
+                        },
+                        {
+                            "ItemCount": 2000,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite"
+                        },
+                        {
+                            "ItemCount": 2000,
+                            "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate"
+                        }
+                    ],
+                    "credits": 10000
+                }
             }
         ],
         "medallions": [

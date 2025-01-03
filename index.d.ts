@@ -534,6 +534,7 @@ export interface ISyndicate {
     colour: IColour;
     backgroundColour: IColour;
     dailyLimitBin: TStandingLimitBin;
+    initiationSacrifice?: ISyndicateSacrifice;
     initiationReward?: string;
     alignments?: Record<string, number>;
     titles?: {
@@ -541,6 +542,7 @@ export interface ISyndicate {
         name: string;
         icon?: string;
         description?: string;
+        sacrifice?: ISyndicateSacrifice;
     }[];
     medallions?: {
         itemType: string;
@@ -554,6 +556,14 @@ export interface ISyndicate {
         requiredLevel: number;
         rankUpReward:  boolean;
     }[];
+}
+
+export interface ISyndicateSacrifice {
+    items: {
+        ItemCount: number;
+        ItemType: string;
+    }[];
+    credits: number;
 }
 
 export interface ITextIcon {
