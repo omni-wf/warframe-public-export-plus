@@ -613,6 +613,7 @@ export interface IUpgrade {
     availableChallenges?: {
         fullName:      string;
         description:   string;
+        singleDescription?: string;
         countRange:    number[];
         complicationChance: number;
         complications: {

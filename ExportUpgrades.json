@@ -17686,6 +17686,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -18038,6 +18039,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -18121,6 +18123,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -18172,6 +18175,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -18243,6 +18247,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -18290,6 +18295,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -18353,6 +18359,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18376,6 +18383,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18411,6 +18419,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18453,6 +18462,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18468,6 +18478,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -18483,6 +18494,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -18574,6 +18586,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -18593,6 +18606,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -18630,6 +18644,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18669,6 +18684,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -18689,6 +18705,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -18716,6 +18733,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -18751,6 +18769,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedSkiffArcher",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Single_Description",
                 "countRange": [
                     5,
                     8
@@ -18778,6 +18797,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -18864,6 +18884,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -18925,6 +18946,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19238,6 +19260,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -19321,6 +19344,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -19372,6 +19396,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -19443,6 +19468,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -19490,6 +19516,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -19553,6 +19580,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19576,6 +19604,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19611,6 +19640,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19653,6 +19683,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19668,6 +19699,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -19683,6 +19715,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -19774,6 +19807,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -19793,6 +19827,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -19830,6 +19865,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19869,6 +19905,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -19889,6 +19926,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -19916,6 +19954,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -19951,6 +19990,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedSkiffArcher",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Single_Description",
                 "countRange": [
                     5,
                     8
@@ -19978,6 +20018,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -20064,6 +20105,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -20125,6 +20167,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -20438,6 +20481,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -20521,6 +20565,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -20572,6 +20617,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -20643,6 +20689,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -20690,6 +20737,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -20753,6 +20801,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -20776,6 +20825,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -20811,6 +20861,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -20853,6 +20904,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -20868,6 +20920,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -20883,6 +20936,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -20974,6 +21028,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -20993,6 +21048,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -21030,6 +21086,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -21069,6 +21126,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -21089,6 +21147,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -21116,6 +21175,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -21151,6 +21211,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedSkiffArcher",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Single_Description",
                 "countRange": [
                     5,
                     8
@@ -21178,6 +21239,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -21264,6 +21326,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -21325,6 +21388,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -21641,6 +21705,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -21724,6 +21789,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -21775,6 +21841,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -21846,6 +21913,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -21893,6 +21961,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -21956,6 +22025,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -21979,6 +22049,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22014,6 +22085,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22056,6 +22128,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22071,6 +22144,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -22086,6 +22160,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -22177,6 +22252,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -22196,6 +22272,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -22233,6 +22310,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22272,6 +22350,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22292,6 +22371,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -22319,6 +22399,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -22354,6 +22435,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedSkiffArcher",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Single_Description",
                 "countRange": [
                     5,
                     8
@@ -22381,6 +22463,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -22467,6 +22550,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -22528,6 +22612,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -22833,6 +22918,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -22916,6 +23002,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -22967,6 +23054,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -23038,6 +23126,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -23085,6 +23174,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -23148,6 +23238,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23171,6 +23262,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23206,6 +23298,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23248,6 +23341,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23263,6 +23357,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -23278,6 +23373,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -23369,6 +23465,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -23388,6 +23485,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -23425,6 +23523,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23464,6 +23563,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -23484,6 +23584,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -23511,6 +23612,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -23546,6 +23648,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -23632,6 +23735,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -23693,6 +23797,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24013,6 +24118,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKill_Single_Description",
                 "countRange": [
                     50,
                     70
@@ -24096,6 +24202,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshot",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshot_Single_Description",
                 "countRange": [
                     15,
                     20
@@ -24147,6 +24254,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillSentients",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -24218,6 +24326,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFinisherKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Single_Description",
                 "countRange": [
                     15,
                     25
@@ -24265,6 +24374,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedStyleKill",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedStyleKill_Single_Description",
                 "countRange": [
                     10,
                     16
@@ -24328,6 +24438,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighExterminationUndetected",
                 "description": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighExterminationUndetected_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24351,6 +24462,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighPerfectDefense",
                 "description": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighPerfectDefense_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24386,6 +24498,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSurvivalPacifist",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSurvivalPacifist_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24428,6 +24541,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/HighSoloInterceptionHobbled",
                 "description": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_HighSoloInterceptionHobbled_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24443,6 +24557,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindRareMedallions",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -24458,6 +24573,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFindCaches",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFindCaches_Single_Description",
                 "countRange": [
                     2,
                     4
@@ -24549,6 +24665,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotGlide",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Single_Description",
                 "countRange": [
                     3,
                     3
@@ -24568,6 +24685,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedWallClingKillstreak",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedWallClingKillstreak_Single_Description",
                 "countRange": [
                     10,
                     20
@@ -24605,6 +24723,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/SustainMeleeComboThree",
                 "description": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_SustainMeleeComboThree_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24644,6 +24763,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/LimitedSynthesis",
                 "description": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_LimitedSynthesis_Single_Description",
                 "countRange": [
                     1,
                     1
@@ -24664,6 +24784,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedKillFallingPilots",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedKillFallingPilots_Single_Description",
                 "countRange": [
                     3,
                     6
@@ -24691,6 +24812,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedHeadshotUnawareBallistas",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedHeadshotUnawareBallistas_Single_Description",
                 "countRange": [
                     4,
                     8
@@ -24726,6 +24848,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedSkiffArcher",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedSkiffArcher_Single_Description",
                 "countRange": [
                     5,
                     8
@@ -24753,6 +24876,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedLongRangeSniper",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedLongRangeSniper_Single_Description",
                 "countRange": [
                     8,
                     12
@@ -24839,6 +24963,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/RandomizedFisherman",
                 "description": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_RandomizedFisherman_Single_Description",
                 "countRange": [
                     4,
                     6
@@ -24900,6 +25025,7 @@
             {
                 "fullName": "/Lotus/Types/Challenges/PlainsTimedVariety",
                 "description": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Description",
+                "singleDescription": "/Lotus/Language/Challenges/Challenge_PlainsTimedVariety_Single_Description",
                 "countRange": [
                     1,
                     1
