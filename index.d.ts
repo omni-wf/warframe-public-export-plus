@@ -450,13 +450,15 @@ export interface IRegion {
     hidden?:                boolean;
 }
 
+export type TRelicQuality = "VPQ_BRONZE" | "VPQ_SILVER" | "VPQ_GOLD" | "VPQ_PLATINUM";
+
 export interface IRelic {
     category:       string;
     era:            "Requiem" | "Axi" | "Neo" | "Meso" | "Lith";
     icon:           string;
     codexSecret:    boolean;
-    description:    "/Lotus/Language/Relics/ImmortalProjectionBaseDesc" | "/Lotus/Language/Items/ProjectionDescription";
-    quality:        "VPQ_BRONZE" | "VPQ_SILVER" | "VPQ_GOLD" | "VPQ_PLATINUM";
+    description:    string;
+    quality:        TRelicQuality;
     rewardManifest: string;
 }
 
