@@ -614,6 +614,7 @@ export interface IUpgrade {
         fullName:      string;
         description:   string;
         countRange:    number[];
+        complicationChance: number;
         complications: {
             fullName:     string;
             description:  string;
