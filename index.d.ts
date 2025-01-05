@@ -159,6 +159,7 @@ export interface IDojoRoom extends IDojoRecipe {
     capacity:        number;
     energy:          number;
     decoCapacity:    number;
+    hidden?:         boolean;
 }
 
 export interface IDojoDeco extends IDojoRecipe {

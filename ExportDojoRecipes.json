@@ -9775,7 +9775,8 @@
             "destructionTime": 7200,
             "capacity": -1,
             "energy": -1,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanConnectorPlusARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanConnectorPlusA.level",
@@ -9804,7 +9805,8 @@
             "destructionTime": 7200,
             "capacity": -10,
             "energy": -3,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanConnectorSmallARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanConnectorSmallA.level",
@@ -9833,7 +9835,8 @@
             "destructionTime": 7200,
             "capacity": -1,
             "energy": -1,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanConnectorTJunctionARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanConnectorTJunctionA.level",
@@ -9862,7 +9865,8 @@
             "destructionTime": 7200,
             "capacity": -5,
             "energy": -2,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanElevatorARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanElevatorA.level",
@@ -9920,7 +9924,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -2,
-            "decoCapacity": 900
+            "decoCapacity": 900,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanGrandestHallARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanGrandestHallA.level",
@@ -9949,7 +9954,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -2,
-            "decoCapacity": 1000
+            "decoCapacity": 1000,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanGreatHallARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanGreatHallA.level",
@@ -9978,7 +9984,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -2,
-            "decoCapacity": 700
+            "decoCapacity": 700,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanGreaterHallARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanGreaterHallA.level",
@@ -10007,7 +10014,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -2,
-            "decoCapacity": 800
+            "decoCapacity": 800,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanHallARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanHallA.level",
@@ -10036,7 +10044,8 @@
             "destructionTime": 7200,
             "capacity": 100,
             "energy": 5,
-            "decoCapacity": 600
+            "decoCapacity": 600,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanObstacleCourseARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanObstacleCourseA.level",
@@ -10094,7 +10103,8 @@
             "destructionTime": 7200,
             "capacity": -5,
             "energy": 25,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ClanStorageARecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanStorageA.level",
@@ -10123,7 +10133,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -2,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoChallengeRoomA": {
             "resultType": "/Lotus/Levels/ClanDojo/DojoChallengeRoomA.level",
@@ -10152,7 +10163,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -2,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoConnectorElbowRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/DojoConnectorElbow.level",
@@ -10384,7 +10396,8 @@
             "destructionTime": 10,
             "capacity": -1,
             "energy": -1,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoDuviriCaveRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanDojoDuviriCave.level",
@@ -10848,7 +10861,8 @@
             "destructionTime": 7200,
             "capacity": -10,
             "energy": -5,
-            "decoCapacity": 400
+            "decoCapacity": 400,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoGardenILarge": {
             "resultType": "/Lotus/Levels/ClanDojo/DojoGardenILarge.level",
@@ -10877,7 +10891,8 @@
             "destructionTime": 7200,
             "capacity": -15,
             "energy": -8,
-            "decoCapacity": 500
+            "decoCapacity": 500,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoGardenJLarge": {
             "resultType": "/Lotus/Levels/ClanDojo/DojoGardenJLarge.level",
@@ -11225,7 +11240,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -5,
-            "decoCapacity": 1600
+            "decoCapacity": 1600,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoHallRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/DojoHall.level",
@@ -11370,7 +11386,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -5,
-            "decoCapacity": 1600
+            "decoCapacity": 1600,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/DojoOrokinTowerRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanDojoOrokinTower.level",
@@ -11544,7 +11561,8 @@
             "destructionTime": 7200,
             "capacity": 200,
             "energy": -5,
-            "decoCapacity": 1600
+            "decoCapacity": 1600,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/EntratiOrokinRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/ClanDojoEntratiOrokin.level",
@@ -11602,7 +11620,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -5,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/FabricatorCorpusRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/FabricatorCorpus.level",
@@ -11631,7 +11650,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -5,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/FabricatorGrineerRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/FabricatorGrineer.level",
@@ -11660,7 +11680,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -5,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/FabricatorInfestedRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/FabricatorInfested.level",
@@ -11689,7 +11710,8 @@
             "destructionTime": 7200,
             "capacity": -2,
             "energy": -5,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/ClanDojo/ComponentRecipes/ObservatoryRecipe": {
             "resultType": "/Lotus/Levels/ClanDojo/Observatory.level",
@@ -12112,7 +12134,8 @@
             "destructionTime": 10,
             "capacity": -1,
             "energy": -1,
-            "decoCapacity": 300
+            "decoCapacity": 300,
+            "hidden": true
         },
         "/Lotus/Levels/Hub/ComponentRecipes/TennoHubRentalLargeRecipe": {
             "resultType": "/Lotus/Levels/Hub/TennoHubRentalLarge.level",
@@ -12141,7 +12164,8 @@
             "destructionTime": 7200,
             "capacity": 50,
             "energy": 50,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         },
         "/Lotus/Levels/Relays/ComponentRecipes/HubSchemaTestSpawnRecipe": {
             "resultType": "/Lotus/Levels/Relays/HubSchemaTestSpawn.level",
@@ -12170,7 +12194,8 @@
             "destructionTime": 7200,
             "capacity": 50,
             "energy": 50,
-            "decoCapacity": 200
+            "decoCapacity": 200,
+            "hidden": true
         }
     },
     "decos": {
