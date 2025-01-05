@@ -620,6 +620,8 @@ export interface IUpgrade {
             fullName:     string;
             description:  string;
             overrideTag?: string;
+            countMultiplier: number;
+            weight: number;
         }[];
     }[];
 }
