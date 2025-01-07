@@ -1,0 +1,968 @@
+{
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabActivateConduitsQuickChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateConduitsQuickChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateConduitsQuickChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateConduitsQuickChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabActivateConduitsQuickChallenge.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabActivateLohkSurgeChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabActivateLohkSurgeChallenge.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabActivateLohkSurgeEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabActivateLohkSurgeChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabActivateLohkSurgeHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabActivateLohkSurgeChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabActivateLohkSurgeChallenge.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeElectricChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeElectricChallenge.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeElectricEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeElectricChallenge.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeElectricHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeElectricChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeElectricChallenge.png",
+        "requiredCount": 18
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeFireChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeFireChallenge.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeFireEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeFireChallenge.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeFireHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeFireChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeFireChallenge.png",
+        "requiredCount": 18
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeIceChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeIceChallenge.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeIceEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeIceChallenge.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeIceHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeIceChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeIceChallenge.png",
+        "requiredCount": 18
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeToxinChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeToxinChallenge.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeToxinEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeToxinChallenge.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabAlchemyGrenadeToxinHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabAlchemyGrenadeToxinChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabAlchemyGrenadeToxinChallenge.png",
+        "requiredCount": 18
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabCollectTearsChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabCollectTearsChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabCollectTearsChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabCollectTearsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabCollectTearsChallenge.png",
+        "requiredCount": 45
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDefeatDoppelgangerChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefeatDoppelgangerChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefeatDoppelgangerChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefeatDoppelgangerChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDefeatDoppelgangerChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDefenseActivatePillarChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDefenseActivatePillarChallenge.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDefenseActivatePillarEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDefenseActivatePillarChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDefenseActivatePillarHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDefenseActivatePillarChallenge.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDefenseActivatePillarVeryHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDefenseActivatePillarChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDefenseActivatePillarChallenge.png",
+        "requiredCount": 4
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDestroyDecorationChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDecorationChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDecorationChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDecorationChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDestroyDecorationChallenge.png",
+        "requiredCount": 60
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDestroyDemolystLimbsChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDestroyDemolystLimbsChallenge.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDestroyDemolystLimbsEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDestroyDemolystLimbsChallenge.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabDestroyDemolystLimbsHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabDestroyDemolystLimbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabDestroyDemolystLimbsChallenge.png",
+        "requiredCount": 8
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillFlyingMurmurChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillFlyingMurmurChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillFlyingMurmurChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillFlyingMurmurChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillFlyingMurmurChallenge.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillMurmurChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillMurmurChallenge.png",
+        "requiredCount": 150
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillMurmurEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillMurmurChallenge.png",
+        "requiredCount": 100
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillMurmurHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillMurmurChallenge.png",
+        "requiredCount": 200
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillMurmurVeryHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillMurmurChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillMurmurChallenge.png",
+        "requiredCount": 250
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillVialedEnemyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVialedEnemyChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVialedEnemyChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVialedEnemyChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillVialedEnemyChallenge.png",
+        "requiredCount": 30
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillVoidRigChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillVoidRigChallenge.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabKillVoidRigEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabKillVoidRigChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabKillVoidRigChallenge.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabLootCratesChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabLootCratesChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabLootCratesChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabLootCratesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabLootCratesChallenge.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabNearConduitVulnerabilityChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabNearConduitVulnerabilityChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabRangedMechWeakpointChallenge.png",
+        "requiredCount": 24
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointEasyChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabRangedMechWeakpointChallenge.png",
+        "requiredCount": 16
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabRangedMechWeakpointChallenge.png",
+        "requiredCount": 32
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointVeryHardChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabRangedMechWeakpointChallenge.png",
+        "requiredCount": 42
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabSixMinuteChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSixMinuteChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSixMinuteChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSixMinuteChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabSixMinuteChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabSummonNecramechChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSummonNecramechChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSummonNecramechChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabSummonNecramechChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabSummonNecramechChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/EntratiLab/EntratiLabUnstableDocketsChallenge": {
+        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabUnstableDocketsChallenge_Name",
+        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabUnstableDocketsChallenge_Desc",
+        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabUnstableDocketsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabUnstableDocketsChallenge.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaAbilityKillEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaAbilityKillHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
+        "requiredCount": 30
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaAbilityKillNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
+        "requiredCount": 20
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaAbilityKillVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
+        "requiredCount": 40
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
+        "requiredCount": 4
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
+        "requiredCount": 9
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
+        "requiredCount": 7
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
+        "requiredCount": 20
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
+        "requiredCount": 50
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
+        "requiredCount": 30
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
+        "requiredCount": 75
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
+        "requiredCount": 15
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
+        "requiredCount": 20
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
+        "requiredCount": 8
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
+        "requiredCount": 16
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaExplodingInfested": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaExplodingInfested_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaExplodingInfested_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaExplodingInfested_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaExplodingInfested.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaHighKillEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaHighKillHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
+        "requiredCount": 35
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaHighKillNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
+        "requiredCount": 20
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaHighKillVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
+        "requiredCount": 50
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaInfestedCrossfire": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaInfestedCrossfire_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaInfestedCrossfire_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaInfestedCrossfire_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaInfestedCrossfire.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaMercyEasy": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaMercyHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaMercyNormal": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
+        "requiredCount": 4
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaMercyVeryHard": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
+        "requiredCount": 8
+    },
+    "/Lotus/Types/Challenges/Vania/VaniaSafeCracker": {
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaSafeCracker_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaSafeCracker_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaSafeCracker_Flavor",
+        "icon": "/Lotus/Interface/Quests/Vania/VaniaSafeCracker.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateCollectScrapCratesChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateCollectScrapCrates.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateCollectScrapCratesEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateCollectScrapCrates.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateCollectScrapCratesHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateCollectScrapCrates.png",
+        "requiredCount": 7
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateCollectScrapCratesVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateCollectScrapCratesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateCollectScrapCrates.png",
+        "requiredCount": 9
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateKillAngelsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateKillAngels.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateKillAngelsEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateKillAngels.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateKillAngelsHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateKillAngels.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateKillAngelsVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateKillAngelsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateKillAngels.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanAssassinateUseAllTurretsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateUseAllTurretsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateUseAllTurretsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanAssassinateUseAllTurretsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/AssassinateUseAllTurrets.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCascadeCompleteWavesChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalTimed.png",
+        "requiredCount": 8
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCascadeCompleteWavesEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalTimed.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCascadeCompleteWavesHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalTimed.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCascadeCompleteWavesVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCascadeCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalTimed.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectLargeOrbsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectLargeOrbs.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectLargeOrbsEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectLargeOrbs.png",
+        "requiredCount": 4
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectLargeOrbsHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectLargeOrbs.png",
+        "requiredCount": 8
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectLargeOrbsVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectLargeOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectLargeOrbs.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectOrbsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectOrbs.png",
+        "requiredCount": 100
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectOrbsEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectOrbs.png",
+        "requiredCount": 75
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectOrbsHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectOrbs.png",
+        "requiredCount": 200
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionCollectOrbsVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionCollectOrbsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionCollectOrbs.png",
+        "requiredCount": 300
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionKeepMeterLowChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionKeepMeterLowEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionKeepMeterLowHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 9
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanCorruptionKeepMeterLowVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanCorruptionKeepMeterLowChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanDefeatVoidAngelChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanDefeatVoidAngelChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanDefeatVoidAngelChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanDefeatVoidAngelChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/DefeatVoidAngel.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanExterminateFastCompleteChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateFastCompleteChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateFastCompleteChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateFastCompleteChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/ExterminateFastComplete.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanExterminateNoPowersChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateNoPowersChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateNoPowersChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanExterminateNoPowersChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/NoWarframePowers.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanFindMelicaCacheChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanFindMelicaCacheChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanFindMelicaCacheChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanFindMelicaCacheChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/FindMelicaCache.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanFloodCompleteWavesChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 9
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanFloodCompleteWavesEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 6
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanFloodCompleteWavesHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 12
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanFloodCompleteWavesVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanFloodCompleteWavesChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/CorruptionKeepMeterLow.png",
+        "requiredCount": 15
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKeepBarracksAliveChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KeepBaracksAlive.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKeepBarracksAliveHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KeepBaracksAlive.png",
+        "requiredCount": 2
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKeepBarracksAliveVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKeepBarracksAliveChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KeepBaracksAlive.png",
+        "requiredCount": 3
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillAsOperatorChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillAsOperator.png",
+        "requiredCount": 20
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillAsOperatorEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillAsOperator.png",
+        "requiredCount": 10
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillAsOperatorHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillAsOperator.png",
+        "requiredCount": 30
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillAsOperatorVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillAsOperatorChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillAsOperator.png",
+        "requiredCount": 40
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillCorpusChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillCorpus.png",
+        "requiredCount": 150
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillCorpusEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillCorpus.png",
+        "requiredCount": 100
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillCorpusHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillCorpus.png",
+        "requiredCount": 200
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillCorpusVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillCorpusChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillCorpus.png",
+        "requiredCount": 250
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillGrineerChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillGrineer.png",
+        "requiredCount": 150
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillGrineerEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillGrineer.png",
+        "requiredCount": 100
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillGrineerHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillGrineer.png",
+        "requiredCount": 200
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanKillGrineerVeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanKillGrineerChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/KillGrineer.png",
+        "requiredCount": 250
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanMobDefProtectShieldsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanMobDefProtectShieldsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanMobDefProtectShieldsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanMobDefProtectShieldsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/MobDefProtectShields.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanSurvivalAbove50Challenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalAbove50.png",
+        "requiredCount": 5
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanSurvivalAbove50EasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalAbove50.png",
+        "requiredCount": 4
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanSurvivalAbove50HardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalAbove50.png",
+        "requiredCount": 7
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanSurvivalAbove50VeryHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanSurvivalAbove50Challenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/SurvivalAbove50.png",
+        "requiredCount": 9
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanUseVoidRiftsChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/UseVoidRifts.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanUseVoidRiftsEasyChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/UseVoidRifts.png",
+        "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/Zariman/ZarimanUseVoidRiftsHardChallenge": {
+        "name": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Desc",
+        "flavour": "/Lotus/Language/Challenges/Challenge_ZarimanUseVoidRiftsChallenge_Flavor",
+        "icon": "/Lotus/Interface/Quests/Zariman/UseVoidRifts.png",
+        "requiredCount": 2
+    }
+}

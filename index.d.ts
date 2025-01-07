@@ -20,6 +20,7 @@ export declare const ExportArcanes: Record<string, IArcane>;
 export declare const ExportAvionics: Record<string, IAvionic>;
 export declare const ExportBoosterPacks: Record<string, IBoosterPack>;
 export declare const ExportBundles: Record<string, IBundle>;
+export declare const ExportChallenges: Record<string, IChallenge>;
 export declare const ExportCustoms: Record<string, ICustom>;
 export declare const ExportDojoRecipes: IExportDojoRecipes;
 export declare const ExportDrones: Record<string, IDrone>;
@@ -113,6 +114,14 @@ export interface IBundle {
         giveMaxRank?:     boolean;
     }[];
     premiumPrice?:     number;
+}
+
+export interface IChallenge {
+    name:          string;
+    description:   string;
+    flavour:       string;
+    icon:          string;
+    requiredCount: number;
 }
 
 export interface ICustom {
