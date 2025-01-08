@@ -1,0 +1,13 @@
+[
+	{ "tag": "FC_GRINEER", "name": "/Lotus/Language/Game/Faction_GrineerUC" },
+	{ "tag": "FC_CORPUS", "name": "/Lotus/Language/Game/Faction_CorpusUC" },
+	{ "tag": "FC_INFESTATION", "name": "/Lotus/Language/Game/Faction_InfestationUC" },
+	{ "tag": "FC_OROKIN", "name": "/Lotus/Language/Game/Faction_OrokinUC" },
+	{ "tag": "FC_RED_VEIL", "name": "/Lotus/Language/Game/Faction_RedVeilUC" },
+	{ "tag": "FC_SENTIENT", "name": "/Lotus/Language/Game/Faction_SentientUC" },
+	{ "tag": "FC_NARMER" },
+	{ "tag": "FC_MITW", "name": "/Lotus/Language/Game/Faction_MITW" },
+	{ "tag": "FC_SCALDRA", "name": "/Lotus/Language/1999/Faction_Scaldra" },
+	{ "tag": "FC_TECHROT", "name": "/Lotus/Language/1999/Faction_Techrot" },
+	{ "tag": "FC_TENNO" }
+]
