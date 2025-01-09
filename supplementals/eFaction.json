@@ -1,13 +1,13 @@
 [
-	{ "tag": "FC_GRINEER", "name": "/Lotus/Language/Game/Faction_GrineerUC" },
-	{ "tag": "FC_CORPUS", "name": "/Lotus/Language/Game/Faction_CorpusUC" },
-	{ "tag": "FC_INFESTATION", "name": "/Lotus/Language/Game/Faction_InfestationUC" },
-	{ "tag": "FC_OROKIN", "name": "/Lotus/Language/Game/Faction_OrokinUC" },
-	{ "tag": "FC_RED_VEIL", "name": "/Lotus/Language/Game/Faction_RedVeilUC" },
-	{ "tag": "FC_SENTIENT", "name": "/Lotus/Language/Game/Faction_SentientUC" },
-	{ "tag": "FC_NARMER" },
-	{ "tag": "FC_MITW", "name": "/Lotus/Language/Game/Faction_MITW" },
-	{ "tag": "FC_SCALDRA", "name": "/Lotus/Language/1999/Faction_Scaldra" },
-	{ "tag": "FC_TECHROT", "name": "/Lotus/Language/1999/Faction_Techrot" },
-	{ "tag": "FC_TENNO" }
+	{ "id": 0, "tag": "FC_GRINEER", "name": "/Lotus/Language/Game/Faction_GrineerUC" },
+	{ "id": 1, "tag": "FC_CORPUS", "name": "/Lotus/Language/Game/Faction_CorpusUC" },
+	{ "id": 2, "tag": "FC_INFESTATION", "name": "/Lotus/Language/Game/Faction_InfestationUC" },
+	{ "id": 3, "tag": "FC_OROKIN", "name": "/Lotus/Language/Game/Faction_OrokinUC" },
+	{ "id": 4, "tag": "FC_RED_VEIL", "name": "/Lotus/Language/Game/Faction_RedVeilUC" },
+	{ "id": 5, "tag": "FC_SENTIENT", "name": "/Lotus/Language/Game/Faction_SentientUC" },
+	{ "id": 6, "tag": "FC_NARMER" },
+	{ "id": 7, "tag": "FC_MITW", "name": "/Lotus/Language/Game/Faction_MITW" },
+	{ "id": 8, "tag": "FC_SCALDRA", "name": "/Lotus/Language/1999/Faction_Scaldra" },
+	{ "id": 9, "tag": "FC_TECHROT", "name": "/Lotus/Language/1999/Faction_Techrot" },
+	{ "id": 10, "tag": "FC_TENNO" }
 ]
