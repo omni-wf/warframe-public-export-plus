@@ -13075,6 +13075,218 @@
         ],
         "premiumPrice": 95
     },
+    "/Lotus/Types/StoreItems/Packages/LNY2025BundleA": {
+        "name": "/Lotus/Language/Bundles/LNY2025BundleAName",
+        "description": "/Lotus/Language/Bundles/LNY2025BundleADesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/LNY2025BundleB.png",
+        "excludeFromCodex": true,
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "purchaseQuantity": 20000,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/CreditBundles/200000Credits",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushySnake",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/Emotes/LNY2025SnakeEmote",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 215
+    },
+    "/Lotus/Types/StoreItems/Packages/LNY2025BundleB": {
+        "name": "/Lotus/Language/Bundles/LNY2025BundleBName",
+        "description": "/Lotus/Language/Bundles/LNY2025BundleBDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/LNY2025BundleC.png",
+        "excludeFromCodex": true,
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "purchaseQuantity": 30000,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/CreditBundles/300000Credits",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Effects/LNYStonesEphemera",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawModularMeleeRandomMod",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawModularPistolRandomMod",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 590
+    },
+    "/Lotus/Types/StoreItems/Packages/LNY2025BundleC": {
+        "name": "/Lotus/Language/Bundles/LNY2025BundleCName",
+        "description": "/Lotus/Language/Bundles/LNY2025BundleCDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/LNY2025BundleD.png",
+        "excludeFromCodex": true,
+        "components": [
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem",
+                "purchaseQuantity": 1,
+                "durability": "UNCOMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
+                "purchaseQuantity": 50000,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/StoreItems/CreditBundles/500000Credits",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushySnake",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawRifleRandomMod",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawMeleeRandomMod",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawPistolRandomMod",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Effects/LNYStonesEphemera",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Types/Items/Emotes/LNY2025SnakeEmote",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            }
+        ],
+        "premiumPrice": 805
+    },
     "/Lotus/Types/StoreItems/Packages/Login5Pack": {
         "name": "/Lotus/Language/Bundles/Login5PackName",
         "description": "/Lotus/Language/Bundles/Login5PackDesc",
@@ -32096,17 +32308,17 @@
         "icon": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/CosmeticBundles/Armour/WinterSolsticeArcaArmourBundle.png",
         "components": [
             {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorA",
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourA",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             },
             {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorC",
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourC",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             },
             {
-                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorL",
+                "typeName": "/Lotus/StoreItems/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourL",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             }

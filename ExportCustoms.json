@@ -4309,6 +4309,13 @@
         "description": "/Lotus/Language/Cosmetics/CatbrowArmorGrnQueenDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/KavatArmorGrnQueen.png"
     },
+    "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor": {
+        "name": "/Lotus/Language/Cosmetics/LNY2025KavatArmourName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Cosmetics/LNY2025KavatArmourDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/LNYKavatBoltorArmour.png"
+    },
     "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor": {
         "name": "/Lotus/Language/Cosmetics/RevenantKavatArmourName",
         "codexSecret": false,
@@ -6551,6 +6558,13 @@
         "description": "/Lotus/Language/Ephemera/LNY2024EphemeraDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/DragonLNYEphemera.png"
     },
+    "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera": {
+        "name": "/Lotus/Language/Ephemera/LNY2025EphemeraName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Ephemera/LNY2025EphemeraDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/LNYStonesEphemera.png"
+    },
     "/Lotus/Upgrades/Skins/Effects/LotusFlowers": {
         "name": "/Lotus/Language/Items/LotusFlowersName",
         "codexSecret": false,
@@ -8689,6 +8703,20 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/MirageDeluxeSkinDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/MirageDeluxe.png"
+    },
+    "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet": {
+        "name": "/Lotus/Language/Skins/MiageLNYHelmetName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/MiageLNYHelmetDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/LNYMirageHelmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin": {
+        "name": "/Lotus/Language/Skins/MiageLNYSkinName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/MiageLNYSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/LNYMirageSkin.png"
     },
     "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet": {
         "name": "/Lotus/Language/Primes/MiragePrimeHelmetName",
@@ -10947,8 +10975,9 @@
     "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin": {
         "name": "/Lotus/Language/Seasonal/CNY2025ScytheSkinName",
         "codexSecret": false,
+        "excludeFromCodex": true,
         "description": "/Lotus/Language/Seasonal/CNY2025ScytheSkinDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/Halloween2024HateSkin.png"
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025ScytheSkin.png"
     },
     "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil": {
         "name": "/Lotus/Language/Sigils/LNY2024DragonSigilName",
@@ -10967,6 +10996,13 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Skins/LNY2024OgrisDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2024Ogris.png"
+    },
+    "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin": {
+        "name": "/Lotus/Language/Skins/LNY2025BoltorSkinName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Skins/LNY2025BoltorSkinDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025BoltorSkin.png"
     },
     "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword": {
         "name": "/Lotus/Language/Skins/LNYHookSwordName",
@@ -11542,6 +11578,13 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Cosmetics/LNYCarpSugatraDesc",
         "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYCarpSugatra.png"
+    },
+    "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle": {
+        "name": "/Lotus/Language/Cosmetics/LNYSnakeMeleeDangleName",
+        "codexSecret": false,
+        "excludeFromCodex": true,
+        "description": "/Lotus/Language/Cosmetics/LNYSnakeMeleeDangleDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYSnakeMeleeDangle.png"
     },
     "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle": {
         "name": "/Lotus/Language/Cosmetics/LimboDeluxeDangleName",

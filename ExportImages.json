@@ -13640,6 +13640,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/KavatArmourGaraPrime.png": {
         "contentHash": "00_cKUTxB5SCpjsHeo7w8CKLw"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/LNYKavatBoltorArmour.png": {
+        "contentHash": "00_GJ7cVy32DAZH6wr+d4URdA"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/Twitch2021MyrdinKavatArmour.png": {
         "contentHash": "00_60yWWdC6LdkdIuH3CZWmuw"
     },
@@ -16265,6 +16268,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/KuvaTricksterEphemera.png": {
         "contentHash": "00_qIPCjgc7-9tCpI0Wwp0EjA"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/LNYStonesEphemera.png": {
+        "contentHash": "00_IKepYJTTFISFqzCrhw+Etg"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/LotusEphemera.png": {
         "contentHash": "00_fM02vmoefhwtIfAfR37UVQ"
     },
@@ -16807,6 +16813,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/KoumeiHelmet.png": {
         "contentHash": "00_XXK1GROQSAWsT8KEXvARHw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/LNYMirageHelmet.png": {
+        "contentHash": "00_XP0ab3uMxT47r9zL21evVA"
     },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/LavosAltHelmet.png": {
         "contentHash": "00_o1Gmc4rCv6dtM2Xbl-e0Ew"
@@ -18461,6 +18470,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYCarpSugatra.png": {
         "contentHash": "00_kV7WO3x5gL4P2kbnvxfJrQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYSnakeMeleeDangle.png": {
+        "contentHash": "00_v7ZzQws4Kh5LaPbWm5gBcw"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LimboDeluxeDangle.png": {
         "contentHash": "00_gDD4y2k7daBVigehZbPmiw"
     },
@@ -19892,6 +19904,9 @@
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/KhoraSWOiran.png": {
         "contentHash": "00_vL4tQH8rpfHN9jsrD6r32A"
     },
+    "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/LNYMirageSkin.png": {
+        "contentHash": "00_ALXYFsmwEndczsDIpEz2+g"
+    },
     "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/LimboDeluxe.png": {
         "contentHash": "00_UHu4y-yGiPkzHYhqaKmO-w"
     },
@@ -21205,6 +21220,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Emotes/YearOfTheRabbitEmote.png": {
         "contentHash": "00_r0fSpM2hvTrhs2gu8rz5oA"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Emotes/YearOfTheSnakeEmote.png": {
+        "contentHash": "00_9lC-N+mRvL5Rf36KM5qcew"
     },
     "/Lotus/Interface/Icons/StoreIcons/Event/AmbulasDataFragment.png": {
         "contentHash": "00_9tAarnnJhyDDKXlMNfFsJA"
@@ -27548,6 +27566,9 @@
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNY2024Chroma.png": {
         "contentHash": "00_IptxumAtaROXeLqg5KnIsQ"
     },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNYMirage.png": {
+        "contentHash": "00_h5zdJIk5OT-o0e2OZxnSYQ"
+    },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLettie.png": {
         "contentHash": "00_s25t81rdWvjGyI-2ZuC0Iw"
     },
@@ -27565,6 +27586,9 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyRucksackKubrow.png": {
         "contentHash": "00_35H2WuW4G1Ac3QjzgHbQrw"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushySnake.png": {
+        "contentHash": "00_xiaEjDKosd1ia46ewp878Q"
     },
     "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyTiger.png": {
         "contentHash": "00_8CsS9rkR7fXooaW57-bh2A"
@@ -31666,6 +31690,12 @@
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2024Ogris.png": {
         "contentHash": "00_s9rxpFFiLza8IKF-V48-yQ"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025BoltorSkin.png": {
+        "contentHash": "00_7kB1P5RCgmagFDElzuM7sg"
+    },
+    "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025ScytheSkin.png": {
+        "contentHash": "00_rRgetSIFKn6LRARuUPmzUQ"
     },
     "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LankaShockCamo.png": {
         "contentHash": "00_os3+hFTqWrBf0+GIiYsxPw"

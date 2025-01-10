@@ -2535,6 +2535,14 @@
         "base": "/Lotus/Types/Items/Emotes/Emote",
         "codexSecret": false
     },
+    "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote": {
+        "name": "/Lotus/Language/Emotes/LNY2025EmoteName",
+        "description": "/Lotus/Language/Emotes/LNY2025EmoteDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Emotes/YearOfTheSnakeEmote.png",
+        "base": "/Lotus/Types/Items/Emotes/Emote",
+        "codexSecret": false,
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Items/Emotes/LeftHeartEmote": {
         "name": "/Lotus/Language/Emotes/LeftHeartEmoteName",
         "description": "/Lotus/Language/Emotes/LeftHeartEmoteDesc",
@@ -6450,14 +6458,16 @@
         "description": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphADesc",
         "icon": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyph.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
-        "codexSecret": false
+        "codexSecret": false,
+        "excludeFromCodex": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB": {
         "name": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphBName",
         "description": "/Lotus/Language/Seasonal/CNY2025SnakeGlyphBDesc",
         "icon": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyphB.png",
         "base": "/Lotus/Types/Items/AvatarImageItem",
-        "codexSecret": false
+        "codexSecret": false,
+        "excludeFromCodex": true
     },
     "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour": {
         "name": "/Lotus/Language/Glyphs/ChillingGlyphBundle4Name",

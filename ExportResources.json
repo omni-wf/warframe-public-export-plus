@@ -11248,6 +11248,15 @@
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage": {
+        "name": "/Lotus/Language/ShipDecorations/PlushyLNYMirageName",
+        "description": "/Lotus/Language/ShipDecorations/PlushyLNYMirageDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNYMirage.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
+    },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie": {
         "name": "/Lotus/Language/ShipDecorations/PlushyLettieName",
         "description": "/Lotus/Language/ShipDecorations/PlushyLettieDesc",
@@ -11375,6 +11384,15 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
         "productCategory": "ShipDecorations"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake": {
+        "name": "/Lotus/Language/ShipDecorations/PlushySnakeName",
+        "description": "/Lotus/Language/ShipDecorations/PlushySnakeDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushySnake.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+        "productCategory": "ShipDecorations",
+        "excludeFromCodex": true
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon": {
         "name": "/Lotus/Language/SolarisVenus/PlushyStoverCommonName",
@@ -18870,7 +18888,7 @@
     "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem": {
         "name": "/Lotus/Language/Fragments/CorpusRailjackLoginSongName",
         "description": "/Lotus/Language/Fragments/CorpusRailjackLoginSongDesc",
-        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png",
         "codexSecret": false,
         "parentName": "/Lotus/Types/Game/SongItem",
         "productCategory": "MiscItems",
