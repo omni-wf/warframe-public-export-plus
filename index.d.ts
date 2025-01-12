@@ -554,6 +554,8 @@ export interface ISyndicate {
         name: string;
         icon?: string;
         description?: string;
+        minStanding: number;
+        maxStanding: number;
         sacrifice?: ISyndicateSacrifice;
     }[];
     medallions?: {
