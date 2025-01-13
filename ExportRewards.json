@@ -256,7 +256,7 @@
             }
         ]
     ],
-    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards": [
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/PvPvEArcaneRewards": [
         [
             {
                 "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",

@@ -4417,7 +4417,7 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
         ],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards",
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/PvPvEArcaneRewards",
         "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode854": {
@@ -4436,7 +4436,7 @@
         "rewardManifests": [
             "/Lotus/Types/Game/MissionDecks/1999MissionRewards/EscalatingExterminateRewards"
         ],
-        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/HardModeTableRewards",
+        "cacheRewardManifest": "/Lotus/Types/Game/MissionDecks/1999MissionRewards/PvPvEArcaneRewards",
         "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },
     "SolNode855": {
