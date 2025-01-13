@@ -4491,6 +4491,8 @@
     },
     "SolNode801": {
         "name": "/Lotus/Language/Onslaught/SanctuaryOnslaught",
+        "systemIndex": 19,
+        "systemName": "/Lotus/Language/Locations/RelayStationSanctuary",
         "nodeType": 0,
         "masteryReq": 0,
         "missionIndex": 30,
@@ -4506,6 +4508,8 @@
     },
     "SolNode802": {
         "name": "/Lotus/Language/Onslaught/SanctuaryOnslaughtChallenge",
+        "systemIndex": 19,
+        "systemName": "/Lotus/Language/Locations/RelayStationSanctuary",
         "nodeType": 0,
         "masteryReq": 0,
         "missionIndex": 30,
@@ -5020,6 +5024,7 @@
     },
     "CrewBattleNode556": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode56",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5034,6 +5039,7 @@
     },
     "CrewBattleNode502": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode02",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5051,6 +5057,7 @@
     },
     "CrewBattleNode509": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode09",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5067,6 +5074,7 @@
     },
     "CrewBattleNode518": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode18",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5083,6 +5091,7 @@
     },
     "CrewBattleNode519": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode19",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5099,6 +5108,7 @@
     },
     "CrewBattleNode522": {
         "name": "/Lotus/Language/Locations/EarthCrewBattleNode22",
+        "systemIndex": 2,
         "systemName": "/Lotus/Language/Locations/Earth_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5115,6 +5125,7 @@
     },
     "CrewBattleNode511": {
         "name": "/Lotus/Language/Locations/CrewBattleNode511",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5132,6 +5143,7 @@
     },
     "CrewBattleNode513": {
         "name": "/Lotus/Language/Locations/CrewBattleNode513",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5149,6 +5161,7 @@
     },
     "CrewBattleNode515": {
         "name": "/Lotus/Language/Locations/CrewBattleNode515",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5165,6 +5178,7 @@
     },
     "CrewBattleNode514": {
         "name": "/Lotus/Language/Locations/CrewBattleNode514",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5181,6 +5195,7 @@
     },
     "CrewBattleNode503": {
         "name": "/Lotus/Language/Locations/CrewBattleNode503",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5197,6 +5212,7 @@
     },
     "CrewBattleNode512": {
         "name": "/Lotus/Language/Locations/CrewBattleNode512",
+        "systemIndex": 1,
         "systemName": "/Lotus/Language/Locations/Venus_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5213,6 +5229,7 @@
     },
     "CrewBattleNode557": {
         "name": "/Lotus/Language/Locations/NemesisShowdownNodeGrineer",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5228,6 +5245,7 @@
     },
     "CrewBattleNode501": {
         "name": "/Lotus/Language/Locations/SaturnCrewBattleNode01",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5244,6 +5262,7 @@
     },
     "CrewBattleNode534": {
         "name": "/Lotus/Language/Locations/SaturnCrewBattleNode34",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5260,6 +5279,7 @@
     },
     "CrewBattleNode533": {
         "name": "/Lotus/Language/Locations/SaturnCrewBattleNode33",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5276,6 +5296,7 @@
     },
     "CrewBattleNode535": {
         "name": "/Lotus/Language/Locations/SaturnCrewBattleNode35",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5292,6 +5313,7 @@
     },
     "CrewBattleNode530": {
         "name": "/Lotus/Language/Locations/SaturnCrewBattleNode30",
+        "systemIndex": 5,
         "systemName": "/Lotus/Language/Locations/Saturn_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5308,6 +5330,7 @@
     },
     "CrewBattleNode558": {
         "name": "/Lotus/Language/Locations/NemesisShowdownNodeCorpus",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5323,6 +5346,7 @@
     },
     "CrewBattleNode504": {
         "name": "/Lotus/Language/Locations/CrewBattleNode504",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5339,6 +5363,7 @@
     },
     "CrewBattleNode516": {
         "name": "/Lotus/Language/Locations/CrewBattleNode516",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5355,6 +5380,7 @@
     },
     "CrewBattleNode523": {
         "name": "/Lotus/Language/Locations/CrewBattleNode523",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5371,6 +5397,7 @@
     },
     "CrewBattleNode525": {
         "name": "/Lotus/Language/Locations/CrewBattleNode525",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5387,6 +5414,7 @@
     },
     "CrewBattleNode521": {
         "name": "/Lotus/Language/Locations/CrewBattleNode521",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5403,6 +5431,7 @@
     },
     "CrewBattleNode524": {
         "name": "/Lotus/Language/Locations/CrewBattleNode524",
+        "systemIndex": 7,
         "systemName": "/Lotus/Language/Locations/Neptune_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5419,6 +5448,7 @@
     },
     "CrewBattleNode526": {
         "name": "/Lotus/Language/Locations/CrewBattleNode526",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5433,6 +5463,7 @@
     },
     "CrewBattleNode527": {
         "name": "/Lotus/Language/Locations/CrewBattleNode527",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5447,6 +5478,7 @@
     },
     "CrewBattleNode528": {
         "name": "/Lotus/Language/Locations/CrewBattleNode528",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5461,6 +5493,7 @@
     },
     "CrewBattleNode531": {
         "name": "/Lotus/Language/Locations/CrewBattleNode531",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5475,6 +5508,7 @@
     },
     "CrewBattleNode529": {
         "name": "/Lotus/Language/Locations/CrewBattleNode529",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5489,6 +5523,7 @@
     },
     "CrewBattleNode536": {
         "name": "/Lotus/Language/Locations/CrewBattleNode536",
+        "systemIndex": 8,
         "systemName": "/Lotus/Language/Locations/Pluto_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5505,6 +5540,7 @@
     },
     "CrewBattleNode550": {
         "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode50",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5521,6 +5557,7 @@
     },
     "CrewBattleNode555": {
         "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode55",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5537,6 +5574,7 @@
     },
     "CrewBattleNode554": {
         "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode54",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5553,6 +5591,7 @@
     },
     "CrewBattleNode553": {
         "name": "/Lotus/Language/Locations/DeepSpaceCrewBattleNode53",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5569,6 +5608,7 @@
     },
     "CrewBattleNode538": {
         "name": "/Lotus/Language/Locations/CrewBattleNode538",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5583,6 +5623,7 @@
     },
     "CrewBattleNode539": {
         "name": "/Lotus/Language/Locations/CrewBattleNode539",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5597,6 +5638,7 @@
     },
     "CrewBattleNode540": {
         "name": "/Lotus/Language/Locations/CrewBattleNode540",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5611,6 +5653,7 @@
     },
     "CrewBattleNode541": {
         "name": "/Lotus/Language/Locations/CrewBattleNode541",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5625,6 +5668,7 @@
     },
     "CrewBattleNode542": {
         "name": "/Lotus/Language/Locations/CrewBattleNode542",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,
@@ -5639,6 +5683,7 @@
     },
     "CrewBattleNode543": {
         "name": "/Lotus/Language/Locations/CrewBattleNode543",
+        "systemIndex": 20,
         "systemName": "/Lotus/Language/Locations/DeepSpace_SPACE",
         "nodeType": 0,
         "masteryReq": 0,

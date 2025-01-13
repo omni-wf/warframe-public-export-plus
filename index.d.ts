@@ -435,8 +435,8 @@ export interface IRecipe {
 
 export interface IRegion {
     name:                   string;
-    systemIndex?:           number;
-    systemName?:            string;
+    systemIndex:            number;
+    systemName:             string;
     nodeType:               number;
     masteryReq:             number;
     missionIndex:           number;
