@@ -4699,7 +4699,7 @@
         "masteryExp": 0,
         "rewardManifests": []
     },
-    "DeimosHub1": {
+    "DeimosHub": {
         "name": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosHubName",
         "systemIndex": 16,
         "systemName": "/Lotus/Language/InfestedMicroplanet/SolarMapDeimosName",
