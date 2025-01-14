@@ -4397,7 +4397,7 @@
         "maxEnemyLevel": 70,
         "masteryExp": 0,
         "rewardManifests": [
-            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards"
+            "/Lotus/Types/Game/MissionDecks/1999MissionRewards/InfestedSurvivalRewards"
         ],
         "questReq": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain"
     },

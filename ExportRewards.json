@@ -256,51 +256,7 @@
             }
         ]
     ],
-    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/PvPvEArcaneRewards": [
-        [
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
-                "itemCount": 1,
-                "probability": 0.125
-            },
-            {
-                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
-                "itemCount": 1,
-                "probability": 0.125
-            }
-        ]
-    ],
-    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards": [
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/InfestedSurvivalRewards": [
         [
             {
                 "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
@@ -463,6 +419,218 @@
             },
             {
                 "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/PvPvEArcaneRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+                "itemCount": 1,
+                "probability": 0.125
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+                "itemCount": 1,
+                "probability": 0.125
+            }
+        ]
+    ],
+    "/Lotus/Types/Game/MissionDecks/1999MissionRewards/ScaldraSurvivalRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 12,
+                "probability": 0.4036
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeDBronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeCBronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeBBronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeCBronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeDBronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.0807
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
+                "itemCount": 1,
+                "probability": 0.0105
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
+                "itemCount": 1,
+                "probability": 0.0105
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
+                "itemCount": 1,
+                "probability": 0.0105
+            }
+        ],
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/UncommonFusionBundle",
+                "itemCount": 20,
+                "probability": 0.2804
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeDBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeCBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeDBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeFBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionSevagothPrimeBBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeBBronze",
+                "itemCount": 1,
+                "probability": 0.0935
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
+                "itemCount": 1,
+                "probability": 0.0218
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
+                "itemCount": 1,
+                "probability": 0.0218
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
+                "itemCount": 1,
+                "probability": 0.0218
+            }
+        ],
+        [
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/FusionBundles/RareFusionBundle",
+                "itemCount": 20,
+                "probability": 0.318
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionSevagothPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.1192
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionXakuPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.1192
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionXakuPrimeABronze",
+                "itemCount": 1,
+                "probability": 0.1192
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
+                "itemCount": 1,
+                "probability": 0.0541
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
                 "itemCount": 1,
                 "probability": 0.0541
             }
