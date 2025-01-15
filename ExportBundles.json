@@ -13120,6 +13120,11 @@
                 "typeName": "/Lotus/StoreItems/Types/Items/Emotes/LNY2025SnakeEmote",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Interface/Graphics/CustomUI/LunarNewYearStyle",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
             }
         ],
         "premiumPrice": 215
@@ -13281,6 +13286,11 @@
             },
             {
                 "typeName": "/Lotus/StoreItems/Types/Items/Emotes/LNY2025SnakeEmote",
+                "purchaseQuantity": 1,
+                "durability": "COMMON"
+            },
+            {
+                "typeName": "/Lotus/StoreItems/Interface/Graphics/CustomUI/LunarNewYearStyle",
                 "purchaseQuantity": 1,
                 "durability": "COMMON"
             }
