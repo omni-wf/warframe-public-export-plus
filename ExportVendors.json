@@ -1,5 +1,6 @@
 {
     "/Lotus/Types/Game/VendorManifests/Deimos/ConservationRewardsManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedCritterCommon",
@@ -360,6 +361,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Deimos/EntratiFragmentVendorProductsManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/SeriglassShard",
@@ -423,6 +425,36 @@
                         "ItemType": "/Lotus/Types/Items/Deimos/EntratiFragmentRareA"
                     }
                 ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropEntratiLamp"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedCrate"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedCystC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedCystD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedPlantA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedPlantC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropInfestedPlantE"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropOrokinBeamBase"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropOrokinBlock"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/LisetPropOrokinFloorLight"
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Deimos/DaughterTokenShipDeco",
@@ -572,7 +604,218 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Deimos/FishmongerVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestFishmonger": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Daughter/DaughterTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Daughter/DaughterTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Daughter/DaughterTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Daughter/DaughterTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Daughter/DaughterTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestNecromech": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Sigils/NecramechSigilSnake",
+                "platinum": 40
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Necramech/NecramechSnakeSkin",
+                "platinum": 60
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestPetVendor": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Son/SonTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Son/SonTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Son/SonTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Son/SonTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Son/SonTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestProspector": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Otak/OtakTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Otak/OtakTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Otak/OtakTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Otak/OtakTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Otak/OtakTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestTokenVendor": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Grandmother/GrandmotherTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Grandmother/GrandmotherTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Grandmother/GrandmotherTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Grandmother/GrandmotherTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Grandmother/GrandmotherTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindCommisionsManifestWeaponsmith": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Father/FatherTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Father/FatherTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Father/FatherTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Father/FatherTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Father/FatherTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/HivemindTokenVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyDaughterA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyDaughterB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyDaughterC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyFatherA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyFatherB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyFatherC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyGrandmotherA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyGrandmotherB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyGrandmotherC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyMotherA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyMotherB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyMotherC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyOtakA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyOtakB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedyOtakC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedySonA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedySonB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Deimos/Remedies/RemedySonC"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Deimos/OtakLastWishManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GeodeBlueprint",
@@ -823,7 +1066,99 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Deimos/PetVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedCritterCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedCritterUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedCritterRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedKdriveCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedKdriveUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedKdriveRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMaggotCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMaggotUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMaggotRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMergooCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMergooUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedMergooRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedPredatorCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedPredatorUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedPredatorRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedNexiferaCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedNexiferaUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedNexiferaRare"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedZongroCommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedZongroUncommon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Deimos/AnimalTagInfestedZongroRare"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Deimos/ProspectorVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosCommonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosUncommonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosRareGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Duviri/AcrithisEnigmaGyrumShopManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/PuzzleSphinxOwl",
@@ -954,6 +1289,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Duviri/AcrithisKullervoShopManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PaxDuviricusBlueprint",
@@ -1038,7 +1374,235 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Duviri/AcrithisVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Ferrite"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/AlloyPlate"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Nanospores"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Salvage"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Circuits"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PolymerBundle"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Plastids"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Rubedo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/ControlModule"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Gallium"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Morphic"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/NeuralSensor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Neurode"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/OrokinCell"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxBarrelLarge"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxBarrelSmall"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxContainerA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxContainerB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxContainerC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterHangingPot"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterHangingPotB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterHangingPotC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterPotA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterPotB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterPotC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterPotD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Duviri/DUVxPlanterPotE"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureLibrary"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaOpera"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaPark"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureAmphitheatre"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriMainlandA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriMainlandAEast"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriMainlandAWest"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriMainlandTown"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriDragonArena"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriTeshinsCave"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaDaxCamp"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaLivingQuarters"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaLunaro"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaTown"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriArenaVoidNether"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapE"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawMeleeRandomMod"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawPistolRandomMod"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawRifleRandomMod"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawShotgunRandomMod"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawSentinelWeaponRandomMod"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/WeaponPrimaryArcaneUnlocker"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/UtilityUnlocker"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/Components/OrokinReactorBlueprint"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/PrimaryJamEnemyWeaponsOnMagneticProc"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/OperatorHeavyMeleeDamageOnTransference"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/PrimaryEnergyRegenOnImpactProc"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/PrimaryHeadshotCritMultOnHeadshot"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnSliding"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/MultishotForCombo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/LongbowDamageOnHeadshot"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/CosmeticEnhancers/Offensive/SecondaryExtraDamagePerFreezeStack"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Boons/DuviriVendorBoonItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/DangerRoom/DangerRoomTileDuviriDragonArena"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Duviri/DrifterWeaponsVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/Types/StoreItems/Packages/DrifterWeaponBundles/DaxDuviriKatanaPlayerWeaponBundle",
@@ -1087,10 +1651,65 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/EntratiLabs/EntratiLabVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabChairA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabChairB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabChaiseLounge"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabLightChandelierA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabLightChandelierB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabLightChandelierD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabLightWallCandleA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabLoveSeat"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabMachineB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabMachineD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabMachineJ"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabOttoman"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/EntratiLabs/ORKxLabStool"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalAmar"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalBoreal"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalNira"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/EntratiLabs/EntratiLabsArcaneShopManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackAlbrechtsLaboratories",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1100,6 +1719,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackDuviri",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1109,6 +1729,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackZarimanAndLua",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1118,6 +1739,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackMarsAndDeimos",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1127,6 +1749,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackFortuna",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1136,6 +1759,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackSteelPathAndArbitrations",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1145,6 +1769,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackCetus",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1154,6 +1779,7 @@
             },
             {
                 "storeItem": "/Lotus/StoreItems/Types/BoosterPacks/EntratiLabsArcanePackPlainsOfEidolon",
+                "credits": 50000,
                 "itemPrices": [
                     {
                         "ItemCount": 200,
@@ -1163,7 +1789,22 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/EntratiLabs/EntratiLabsCommisionsManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/EntratiLabs/LoidTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/EntratiLabs/LoidTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/EntratiLabs/LoidTaskC"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/EntratiLabs/EntratiLabsDisruptionVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/PagemasterBlueprint",
@@ -1285,6 +1926,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/AmbulasEventVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/AmbulasEventBadgeItem",
@@ -1397,6 +2039,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/DeimosHalloweenVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeSkins/AvatarBatBlueprint",
@@ -1860,6 +2503,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/EntratiEventVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Crowns/LaurelHaloCrown",
@@ -2296,6 +2940,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/FortunaValentinesVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Effects/CupidWingsEphemera",
@@ -2642,6 +3287,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/JadeShadowsEventClanManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Scythes/JadelightHate",
@@ -2718,6 +3364,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/JadeShadowsEventVendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Effects/JadeLightEphemeraA",
@@ -3073,6 +3720,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/MechSurvivalVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/LavosBlueprint",
@@ -3608,6 +4256,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionDummyManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/DummyPurchasingItem",
@@ -3621,6 +4270,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission10VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -5371,6 +6021,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission11VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -7211,6 +7862,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission3VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -8610,6 +9262,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission4VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -10045,6 +10698,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission5VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -11480,6 +12134,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission6VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -12933,6 +13588,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission7VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -14431,6 +15087,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission8VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -16001,6 +16658,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/RadioLegionIntermission9VendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/TrapperChassisBlueprint",
@@ -17697,7 +18355,12 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/ScarletSpearManifest": {
+        "isDynamic": false,
         "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Restoratives/ScenarioBeacon",
+                "credits": 1000
+            },
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/Weapons/OperationsLaceraBlueprint",
                 "itemPrices": [
@@ -18048,10 +18711,19 @@
                         "ItemType": "/Lotus/Types/Items/Events/OperationsCredits"
                     }
                 ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/SupplyDropItems/SquadLinkGroundSupportAmmo",
+                "credits": 75000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/SupplyDropItems/SquadLinkSpaceSupportSatelliteHealth",
+                "credits": 75000
             }
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Events/WaterFightVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBeach",
@@ -18487,7 +19159,138 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/FocusSchools/MaduraiVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Focus/MaduraiPoster"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Operator/SchoolDecalMadurai"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/Focus/MaduraiBadgeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/MaduraiHoodOrnament"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/TextureOverrides/Madurai"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/FocusSchool/MaduraiCArmor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ExtraOperatorSkinColors"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/FocusSchools/NaramonVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Focus/NaramonPoster"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Operator/SchoolDecalNaramon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/Focus/NaramonBadgeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/NaramonHoodOrnament"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/TextureOverrides/Naramon"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/FocusSchool/NaramonCArmor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ExtraOperatorSkinColors"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/FocusSchools/UnairuVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Focus/UnairuPoster"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Operator/SchoolDecalUnairu"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/Focus/UnairuBadgeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/UnairuHoodOrnament"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/TextureOverrides/Unairu"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/FocusSchool/UnairuCArmor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ExtraOperatorSkinColors"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/FocusSchools/VazarinVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Focus/VazarinPoster"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Operator/SchoolDecalVazarin"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/Focus/VazarinBadgeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/VazarinHoodOrnament"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/TextureOverrides/Vazarin"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/FocusSchool/VazarinCArmor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ExtraOperatorSkinColors"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/FocusSchools/ZenurikVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Focus/ZenurikPoster"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Operator/SchoolDecalZenurik"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/Focus/ZenurikBadgeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Liset/ZenurikHoodOrnament"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/TextureOverrides/Zenurik"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Armor/FocusSchool/ZenurikCArmor"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ExtraOperatorSkinColors"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/GameModes/AscensionVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/ChoirBlueprint",
@@ -18600,6 +19403,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Hubs/EliteAlertVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Clan/EliteAlertBadgeItem",
@@ -18972,7 +19776,33 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Hubs/GuildAdvertisementVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Guild/GuildAdvertisementGhost",
+                "credits": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Guild/GuildAdvertisementShadow",
+                "credits": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Guild/GuildAdvertisementStorm",
+                "credits": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Guild/GuildAdvertisementMountain",
+                "credits": 1
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Guild/GuildAdvertisementMoon",
+                "credits": 1
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Hubs/IronwakeDondaVendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/HarrowQuestKeyOrnament",
@@ -19012,7 +19842,425 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Hubs/IronwakeFlawedModVendorManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponArmorPiercingDamageModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritChanceModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponCritFireRateBonusModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponElectricityDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFireDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFireRateModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponFreezeDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponGlaivePowerthrowModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponGlaiveSpeedModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponImpactDamageModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeChannelingEfficiencyModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageCorpusBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageGrineerBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponMeleeFactionDamageInfestedBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponSlashDamageModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponStunChanceModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Melee/Beginner/WeaponToxinDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponAmmoMaxModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponArmorPiercingDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponClipMaxModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponCritChanceModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponCritDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponDamageAmountModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponElectricityDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireIterationsModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFireRateModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponFreezeDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponImpactDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageCorpusBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageGrineerBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageInfestedBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponPunctureDepthModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponReloadSpeedModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponSlashDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponStatusChanceModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Beginner/WeaponToxinDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponArmorPiercingDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponClipMaxModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponCritChanceModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponCritDamageModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponDamageAmountModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponElectricityDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageCorpusBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageGrineerBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFactionDamageInfestedBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireIterationsModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFireRateModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponFreezeDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponImpactDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponPunctureDepthModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponReloadSpeedModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponSlashDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponStatusChanceModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Beginner/WeaponToxinDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponAmmoMaxModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponArmorPiercingDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponClipMaxModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritChanceModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponCritDamageModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponDamageAmountModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponElectricityDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireIterationsModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFireRateModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponFreezeDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponImpactDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponPunctureDepthModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponReloadSpeedModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageCorpusBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageGrineerBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponShotgunFactionDamageInfestedBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponSlashDamageModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponStunChanceModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Beginner/WeaponToxinDamageModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityDurationModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityEfficiencyModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityRangeModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarAbilityStrengthModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarArmourModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceElectricityBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceFireBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceIceBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceLaserBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistancePoisonBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarEnemyRadarModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarFallingImpactModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarGroundFireDmgModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarHealthMaxModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarLootRadarModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarParryMeleeModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarParryReflectModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPickupBonusModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPowerMaxModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarPowerToHealthOnDeathModBeginner",
+                "credits": 30000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarShieldMaxModBeginner",
+                "credits": 10000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarShieldRechargeRateModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarSlideBoostModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarSprintSpeedModBeginner",
+                "credits": 20000
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Beginner/AvatarTimeLimitIncreaseModBeginner",
+                "credits": 10000
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Hubs/PerrinSequenceWeaponVendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Weapons/Corpus/Melee/ShieldAndSword/CrpHammerShield/CrpHammerShield",
@@ -19061,7 +20309,67 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Hubs/RailjackCrewMemberVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/ArbitersCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/CephalonSudaCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/NewLokaCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/PerrinCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/RedVeilCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/SteelMeridianCrewMemberGeneratorVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/ArbitersCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/CephalonSudaCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/NewLokaCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/PerrinCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/RedVeilCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/SteelMeridianCrewMemberGeneratorMediumVersionTwo"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/ArbitersCrewMemberGeneratorStrong"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/CephalonSudaCrewMemberGeneratorStrong"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/NewLokaCrewMemberGeneratorStrong"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/PerrinCrewMemberGeneratorStrong"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/RedVeilCrewMemberGeneratorStrong"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Game/CrewShip/CrewMember/SteelMeridianCrewMemberGeneratorStrong"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Hubs/RailjackResourcesCorpusVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Weapons/CrewShip/MultitoolAmmoItem",
@@ -19131,6 +20439,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Hubs/RailjackResourcesGrineerVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Weapons/CrewShip/MultitoolAmmoItem",
@@ -19200,6 +20509,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Hubs/TeshinHardModeVendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/OperatorArmour/HardMode/OperatorTeshinArmsBlueprint",
@@ -19447,6 +20757,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Kahl/ChipperVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/StyanaxSystemsBlueprint",
@@ -19622,6 +20933,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Ostron/ConservationRewardsManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyKuakaCommon",
@@ -19864,7 +21176,49 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Ostron/FishmongerVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/DayCommonFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/DayCommonFishCPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Ostron/FiveFatesVendorManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/KoumeiBlueprint",
@@ -19995,7 +21349,29 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Ostron/MaskSalesmanManifest": {
+        "isDynamic": true,
         "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/ExcaliburMask"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/GrineerMask"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/MagMask"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/TrinityMask"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/VoltMask"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/SynthicatorRecipes/FlareRedBlueprint"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Recipes/SynthicatorRecipes/FlareBlueBlueprint"
+            },
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Ostron/RevenantMask",
                 "itemPrices": [
@@ -20031,10 +21407,60 @@
                         "ItemType": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem"
                     }
                 ]
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNorg"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodLotusWisp"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Ostron/PetVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/KavatColorPackFeral"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/KubrowColorPackFeral"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/KubrowColorPackDrahk"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropOstRodentCage"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/LisetPropOstBirdCage"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Ostron/ProspectorVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/CommonGemACutAItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/CommonGemBCutAItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/UncommonGemACutAItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/RareGemACutAItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/EidolonGemACutAItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Eidolon/EidolonGemBCutAItem"
             }
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Solaris/ConservationRewardsManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyPobbersCommon",
@@ -20470,7 +21896,193 @@
             }
         ]
     },
+    "/Lotus/Types/Game/VendorManifests/Solaris/DebtTokenVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonE"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonF"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonG"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonH"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonI"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonJ"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonK"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleCommonL"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonE"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonF"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonG"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleUncommonH"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleRareA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleRareB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleRareC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/DebtTokenBundles/DebtTokenBundleRareD"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Solaris/DebtTokenVendorRepossessionsManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUBookAOpen"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUContainerCrate"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUFoodBox"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUFoodCans"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUSupplyCartA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUSupplyCartB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUSupplyRack"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUTechToolA"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUTechToolB"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUTechToolC"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUTechToolD"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUToolBox"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUToolBoxLarge"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/SUTruckSmall"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/ShipDecos/Venus/VenusBountyTrap"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Solaris/FishmongerVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Solaris/ProspectorVendorManifest": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisCommonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisRareGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem"
+            },
+            {
+                "storeItem": "/Lotus/StoreItems/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem"
+            }
+        ]
+    },
     "/Lotus/Types/Game/VendorManifests/Solaris/SentientInvasionManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Upgrades/Skins/Effects/SentientDeadEphemera",
@@ -20529,6 +22141,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Zariman/ArchimedeanVendorManifest": {
+        "isDynamic": true,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Items/MiscItems/Kuva",
@@ -20560,6 +22173,7 @@
         ]
     },
     "/Lotus/Types/Game/VendorManifests/Zariman/ArchimedeanVoidEclipseManifest": {
+        "isDynamic": false,
         "items": [
             {
                 "storeItem": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/WolfFrameBlueprint",
@@ -20704,6 +22318,71 @@
                         "ItemType": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem"
                     }
                 ]
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Zariman/ZarimanCommisionsManifestArchimedean": {
+        "isDynamic": true,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Zariman/AchimedeanTaskA"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Zariman/AchimedeanTaskB"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Zariman/AchimedeanTaskC"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Zariman/AchimedeanTaskD"
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/Tasks/Zariman/AchimedeanTaskE"
+            }
+        ]
+    },
+    "/Lotus/Types/Game/VendorManifests/Zariman/ZarimanWeaponsmithIncarnonShopManifest": {
+        "isDynamic": false,
+        "items": [
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/BoarIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/GammacorIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/AnkuIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/GorgonIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/AngstrumIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/DeraIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/CestraIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/OkinaIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/SybarisIncarnonBundle",
+                "platinum": 120
+            },
+            {
+                "storeItem": "/Lotus/Types/StoreItems/Packages/IncarnonPackages/SicarusIncarnonBundle",
+                "platinum": 120
             }
         ]
     }

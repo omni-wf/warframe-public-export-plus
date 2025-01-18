@@ -639,9 +639,12 @@ export interface IUpgrade {
 }
 
 export interface IVendor {
+    isDynamic: boolean;
     items: {
         storeItem: string;
-        itemPrices: {
+        credits?: number;
+        platinum?: number;
+        itemPrices?: {
             ItemCount: number;
             ItemType:  string;
         }[];
