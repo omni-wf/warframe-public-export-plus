@@ -17443,6 +17443,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17454,6 +17456,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -17465,6 +17469,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0089,
@@ -17476,6 +17482,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17487,6 +17495,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17498,6 +17508,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.00667,
@@ -17509,6 +17521,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17520,6 +17534,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17531,6 +17547,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -17542,6 +17560,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17553,6 +17573,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -17564,6 +17586,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17575,6 +17599,8 @@
                 "tag": "WeaponAmmoMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/MaxAmmoPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -17586,6 +17612,8 @@
                 "tag": "WeaponClipMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/ClipSizePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -17597,6 +17625,8 @@
                 "tag": "WeaponDamageAmountMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -17608,6 +17638,8 @@
                 "tag": "WeaponFireIterationsMod",
                 "prefixTag": "/Lotus/Language/Omega/MultishotPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0067,
@@ -17619,6 +17651,8 @@
                 "tag": "WeaponPunctureDepthMod",
                 "prefixTag": "/Lotus/Language/Omega/PunchThroughPrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -17630,6 +17664,8 @@
                 "tag": "WeaponRecoilReductionMod",
                 "prefixTag": "/Lotus/Language/Omega/RecoilPrefix",
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -17641,6 +17677,8 @@
                 "tag": "WeaponReloadSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ReloadSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0111,
@@ -17652,6 +17690,8 @@
                 "tag": "WeaponFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -17663,6 +17703,8 @@
                 "tag": "WeaponFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -17674,6 +17716,8 @@
                 "tag": "WeaponZoomFovMod",
                 "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.006666,
@@ -17795,6 +17839,8 @@
                 "tag": "WeaponMeleeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -17806,6 +17852,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17817,6 +17865,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17828,6 +17878,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -17839,6 +17891,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.02,
@@ -17853,6 +17907,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17864,6 +17920,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17875,6 +17933,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17886,6 +17946,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17897,6 +17959,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17908,6 +17972,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -17919,6 +17985,8 @@
                 "tag": "WeaponMeleeFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -17930,6 +17998,8 @@
                 "tag": "WeaponMeleeFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -17941,6 +18011,8 @@
                 "tag": "WeaponMeleeFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -17952,6 +18024,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0061,
@@ -17963,6 +18037,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -17974,6 +18050,8 @@
                 "tag": "ComboDurationMod",
                 "prefixTag": "/Lotus/Language/Omega/ComboDurationPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ComboDurationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.09,
@@ -17985,6 +18063,8 @@
                 "tag": "SlideAttackCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/SlideCritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlideCritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013334,
@@ -17999,6 +18079,8 @@
                 "tag": "WeaponMeleeRangeIncMod",
                 "prefixTag": "/Lotus/Language/Omega/AttackRangePrefix",
                 "suffixTag": "/Lotus/Language/Omega/AttackRangeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.02158,
@@ -18010,6 +18092,8 @@
                 "tag": "WeaponMeleeFinisherDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeFinisherDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeFinisherDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -18021,6 +18105,8 @@
                 "tag": "WeaponMeleeComboEfficiencyMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencyPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.00816,
@@ -18032,6 +18118,8 @@
                 "tag": "WeaponMeleeComboInitialBonusMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.27224,
@@ -18043,6 +18131,8 @@
                 "tag": "WeaponMeleeComboPointsOnHitMod",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": false,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01165,
@@ -18055,6 +18145,8 @@
                 "tag": "WeaponMeleeComboBonusOnHitMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.00653,
@@ -19347,6 +19439,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -19358,6 +19452,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -19369,6 +19465,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19380,6 +19478,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19391,6 +19491,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19402,6 +19504,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0083,
@@ -19413,6 +19517,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19424,6 +19530,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -19435,6 +19543,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -19446,6 +19556,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -19457,6 +19569,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19468,6 +19582,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19479,6 +19595,8 @@
                 "tag": "WeaponAmmoMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/MaxAmmoPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19490,6 +19608,8 @@
                 "tag": "WeaponClipMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/ClipSizePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -19501,6 +19621,8 @@
                 "tag": "WeaponDamageAmountMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0244,
@@ -19512,6 +19634,8 @@
                 "tag": "WeaponFireIterationsMod",
                 "prefixTag": "/Lotus/Language/Omega/MultishotPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -19523,6 +19647,8 @@
                 "tag": "WeaponProjectileSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ProjectileSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -19534,6 +19660,8 @@
                 "tag": "WeaponPunctureDepthMod",
                 "prefixTag": "/Lotus/Language/Omega/PunchThroughPrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -19545,6 +19673,8 @@
                 "tag": "WeaponRecoilReductionMod",
                 "prefixTag": "/Lotus/Language/Omega/RecoilPrefix",
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -19556,6 +19686,8 @@
                 "tag": "WeaponReloadSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ReloadSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -19567,6 +19699,8 @@
                 "tag": "WeaponFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -19578,6 +19712,8 @@
                 "tag": "WeaponFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -19589,6 +19725,8 @@
                 "tag": "WeaponFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -19600,6 +19738,8 @@
                 "tag": "WeaponZoomFovMod",
                 "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0089,
@@ -20892,6 +21032,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -20903,6 +21045,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -20914,6 +21058,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -20925,6 +21071,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -20936,6 +21084,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -20947,6 +21097,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0083,
@@ -20958,6 +21110,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -20969,6 +21123,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -20980,6 +21136,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -20991,6 +21149,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -21002,6 +21162,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21013,6 +21175,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21024,6 +21188,8 @@
                 "tag": "WeaponAmmoMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/MaxAmmoPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21035,6 +21201,8 @@
                 "tag": "WeaponClipMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/ClipSizePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -21046,6 +21214,8 @@
                 "tag": "WeaponDamageAmountMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0244,
@@ -21057,6 +21227,8 @@
                 "tag": "WeaponFireIterationsMod",
                 "prefixTag": "/Lotus/Language/Omega/MultishotPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -21068,6 +21240,8 @@
                 "tag": "WeaponProjectileSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ProjectileSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -21079,6 +21253,8 @@
                 "tag": "WeaponPunctureDepthMod",
                 "prefixTag": "/Lotus/Language/Omega/PunchThroughPrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -21090,6 +21266,8 @@
                 "tag": "WeaponRecoilReductionMod",
                 "prefixTag": "/Lotus/Language/Omega/RecoilPrefix",
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -21101,6 +21279,8 @@
                 "tag": "WeaponReloadSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ReloadSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -21112,6 +21292,8 @@
                 "tag": "WeaponFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -21123,6 +21305,8 @@
                 "tag": "WeaponFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -21134,6 +21318,8 @@
                 "tag": "WeaponFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -21145,6 +21331,8 @@
                 "tag": "WeaponZoomFovMod",
                 "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0089,
@@ -22437,6 +22625,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -22448,6 +22638,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.016666,
@@ -22459,6 +22651,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -22470,6 +22664,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22481,6 +22677,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22492,6 +22690,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.00667,
@@ -22506,6 +22706,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22517,6 +22719,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -22528,6 +22732,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -22539,6 +22745,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -22550,6 +22758,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22561,6 +22771,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22572,6 +22784,8 @@
                 "tag": "WeaponAmmoMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/MaxAmmoPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.00555,
@@ -22583,6 +22797,8 @@
                 "tag": "WeaponClipMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/ClipSizePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -22594,6 +22810,8 @@
                 "tag": "WeaponDamageAmountMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.018333,
@@ -22605,6 +22823,8 @@
                 "tag": "WeaponFireIterationsMod",
                 "prefixTag": "/Lotus/Language/Omega/MultishotPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22616,6 +22836,8 @@
                 "tag": "WeaponProjectileSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ProjectileSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -22627,6 +22849,8 @@
                 "tag": "WeaponPunctureDepthMod",
                 "prefixTag": "/Lotus/Language/Omega/PunchThroughPrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -22638,6 +22862,8 @@
                 "tag": "WeaponRecoilReductionMod",
                 "prefixTag": "/Lotus/Language/Omega/RecoilPrefix",
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -22649,6 +22875,8 @@
                 "tag": "WeaponReloadSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ReloadSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -22660,6 +22888,8 @@
                 "tag": "WeaponFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22671,6 +22901,8 @@
                 "tag": "WeaponFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22682,6 +22914,8 @@
                 "tag": "WeaponFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -22693,6 +22927,8 @@
                 "tag": "WeaponZoomFovMod",
                 "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.006666,
@@ -23985,6 +24221,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01333,
@@ -23996,6 +24234,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24007,6 +24247,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24018,6 +24260,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24029,6 +24273,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24040,6 +24286,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24054,6 +24302,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24065,6 +24315,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -24076,6 +24328,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -24087,6 +24341,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013333,
@@ -24098,6 +24354,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24109,6 +24367,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24120,6 +24380,8 @@
                 "tag": "WeaponAmmoMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/MaxAmmoPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MaxAmmoSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24131,6 +24393,8 @@
                 "tag": "WeaponClipMaxMod",
                 "prefixTag": "/Lotus/Language/Omega/ClipSizePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ClipSizeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -24142,6 +24406,8 @@
                 "tag": "WeaponDamageAmountMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -24153,6 +24419,8 @@
                 "tag": "WeaponFireIterationsMod",
                 "prefixTag": "/Lotus/Language/Omega/MultishotPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MultishotSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -24164,6 +24432,8 @@
                 "tag": "WeaponProjectileSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ProjectileSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProjectileSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -24175,6 +24445,8 @@
                 "tag": "WeaponPunctureDepthMod",
                 "prefixTag": "/Lotus/Language/Omega/PunchThroughPrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunchThroughSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.03,
@@ -24186,6 +24458,8 @@
                 "tag": "WeaponRecoilReductionMod",
                 "prefixTag": "/Lotus/Language/Omega/RecoilPrefix",
                 "suffixTag": "/Lotus/Language/Omega/RecoilSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01,
@@ -24197,6 +24471,8 @@
                 "tag": "WeaponReloadSpeedMod",
                 "prefixTag": "/Lotus/Language/Omega/ReloadSpeedPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ReloadSpeedSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005555,
@@ -24208,6 +24484,8 @@
                 "tag": "WeaponFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -24219,6 +24497,8 @@
                 "tag": "WeaponFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -24230,6 +24510,8 @@
                 "tag": "WeaponFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25486,6 +25768,8 @@
                 "tag": "WeaponMeleeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/DamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/DamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.0183,
@@ -25497,6 +25781,8 @@
                 "tag": "WeaponArmorPiercingDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/PuncturePrefix",
                 "suffixTag": "/Lotus/Language/Omega/PunctureSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -25508,6 +25794,8 @@
                 "tag": "WeaponImpactDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ImpactPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ImpactSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -25519,6 +25807,8 @@
                 "tag": "WeaponSlashDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/SlashPrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlashSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -25530,6 +25820,8 @@
                 "tag": "WeaponCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/CritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.02,
@@ -25544,6 +25836,8 @@
                 "tag": "WeaponCritDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/CritDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CritDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25555,6 +25849,8 @@
                 "tag": "WeaponElectricityDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ElectricityPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ElectricitySuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25566,6 +25862,8 @@
                 "tag": "WeaponFireDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FirePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25577,6 +25875,8 @@
                 "tag": "WeaponFreezeDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/FrostPrefix",
                 "suffixTag": "/Lotus/Language/Omega/FrostSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25588,6 +25888,8 @@
                 "tag": "WeaponToxinDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/ToxinPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ToxinSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25599,6 +25901,8 @@
                 "tag": "WeaponProcTimeMod",
                 "prefixTag": "/Lotus/Language/Omega/ProcTimePrefix",
                 "suffixTag": "/Lotus/Language/Omega/ProcTimeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01111,
@@ -25610,6 +25914,8 @@
                 "tag": "WeaponMeleeFactionDamageCorpus",
                 "prefixTag": "/Lotus/Language/Omega/CorpusDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/CorpusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25621,6 +25927,8 @@
                 "tag": "WeaponMeleeFactionDamageGrineer",
                 "prefixTag": "/Lotus/Language/Omega/GrineerDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/GrineerDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25632,6 +25940,8 @@
                 "tag": "WeaponMeleeFactionDamageInfested",
                 "prefixTag": "/Lotus/Language/Omega/InfestedDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/InfestedDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.005,
@@ -25643,6 +25953,8 @@
                 "tag": "WeaponFireRateMod",
                 "prefixTag": "/Lotus/Language/Omega/FireRatePrefix",
                 "suffixTag": "/Lotus/Language/Omega/FireRateSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0061,
@@ -25654,6 +25966,8 @@
                 "tag": "WeaponStunChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/StatusChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/StatusChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.01,
@@ -25665,6 +25979,8 @@
                 "tag": "ComboDurationMod",
                 "prefixTag": "/Lotus/Language/Omega/ComboDurationPrefix",
                 "suffixTag": "/Lotus/Language/Omega/ComboDurationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.09,
@@ -25676,6 +25992,8 @@
                 "tag": "SlideAttackCritChanceMod",
                 "prefixTag": "/Lotus/Language/Omega/SlideCritChancePrefix",
                 "suffixTag": "/Lotus/Language/Omega/SlideCritChanceSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.013334,
@@ -25690,6 +26008,8 @@
                 "tag": "WeaponMeleeRangeIncMod",
                 "prefixTag": "/Lotus/Language/Omega/AttackRangePrefix",
                 "suffixTag": "/Lotus/Language/Omega/AttackRangeSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.02158,
@@ -25701,6 +26021,8 @@
                 "tag": "WeaponMeleeFinisherDamageMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeFinisherDamagePrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeFinisherDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.0133,
@@ -25712,6 +26034,8 @@
                 "tag": "WeaponMeleeComboEfficiencyMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencyPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboHeavyEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.00816,
@@ -25723,6 +26047,8 @@
                 "tag": "WeaponMeleeComboInitialBonusMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboInitialBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.27224,
@@ -25734,6 +26060,8 @@
                 "tag": "WeaponMeleeComboPointsOnHitMod",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": false,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": -0.01165,
@@ -25746,6 +26074,8 @@
                 "tag": "WeaponMeleeComboBonusOnHitMod",
                 "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
                 "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.00653,
@@ -29011,6 +29341,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29034,6 +29366,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29057,6 +29391,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29080,6 +29416,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29103,6 +29441,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29126,6 +29466,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29149,6 +29491,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1,
@@ -29172,6 +29516,8 @@
                 "tag": "InnateDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29194,6 +29540,8 @@
                 "tag": "InnateFireRate",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29216,6 +29564,8 @@
                 "tag": "InnateElectricityDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": false,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29226,6 +29576,8 @@
                 "tag": "InnateFreezeDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29236,6 +29588,8 @@
                 "tag": "InnateHeatDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29246,6 +29600,8 @@
                 "tag": "InnateImpactDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29256,6 +29612,8 @@
                 "tag": "InnateMagDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29266,6 +29624,8 @@
                 "tag": "InnateRadDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1
@@ -29276,6 +29636,8 @@
                 "tag": "InnateToxinDamage",
                 "prefixTag": "",
                 "suffixTag": "",
+                "canBeBuff": true,
+                "canBeCurse": true,
                 "upgradeValues": [
                     {
                         "value": 0.1

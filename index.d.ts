@@ -616,6 +616,8 @@ export interface IUpgrade {
         tag:           string;
         prefixTag:     string;
         suffixTag:     string;
+        canBeBuff:     boolean;
+        canBeCurse:    boolean;
         upgradeValues: {
             value:               number;
             locTag?:             string;
