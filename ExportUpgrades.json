@@ -29671,5 +29671,18 @@
         "compatName": "Amanata",
         "type": "MELEE",
         "description": "/Lotus/Language/Mods/ShrineMaidenNaginataAugmentModDesc"
+    },
+    "/Lotus/Types/Sentinels/SentinelPrecepts/LocateCreatures": {
+        "name": "/Lotus/Language/Mods/LocateCreaturesMod",
+        "icon": "/Lotus/Interface/Cards/Images/Pets/LocateCreatures.png",
+        "polarity": "AP_PRECEPT",
+        "rarity": "COMMON",
+        "codexSecret": false,
+        "baseDrain": 0,
+        "fusionLimit": 3,
+        "compat": "/Lotus/Types/Sentinels/SentinelPowersuits/RadarBasePowerSuit",
+        "excludeFromCodex": true,
+        "compatName": "Oxylus",
+        "type": "SENTINEL"
     }
 }
